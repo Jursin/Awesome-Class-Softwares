@@ -25,8 +25,8 @@ https://github.com/ClassIsland/ClassIsland
 ### ICA
 很好用的屏幕批注/PPT第三方批注工具。
 
-![截图](https://github.com/ChangSakura/Ink-Canvas/raw/master/Images/Ink-Canvas-For-Annotation%20Screenshot.png)
-![黑板](https://github.com/ChangSakura/Ink-Canvas/raw/master/Images/Ink-Canvas-For-Annotation%20Blackboard%20Screenshot.png)
+![](https://github.com/ChangSakura/Ink-Canvas/raw/master/Images/Ink-Canvas-For-Annotation%20Screenshot.png)
+![](https://github.com/ChangSakura/Ink-Canvas/raw/master/Images/Ink-Canvas-For-Annotation%20Blackboard%20Screenshot.png)
 
 [Release](https://github.com/ChangSakura/Ink-Canvas/releases/latest "Latest Releases")
 
