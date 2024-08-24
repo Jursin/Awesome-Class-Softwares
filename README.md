@@ -12,7 +12,7 @@
 
 <div align="center">
 
-#### <image src="https://github.com/ClassIsland/ClassIsland/blob/master/ClassIsland/Assets/AppLogo_AppLogo.svg" height="28"/> ClassIsland
+#### <image src="https://github.com/ClassIsland/ClassIsland/blob/master/ClassIsland/Assets/AppLogo_AppLogo.svg" height="24"/> ClassIsland
 
 <!-- ![软件截图-主界面](https://github.com/ClassIsland/ClassIsland/assets/55006226/65e2bdba-be83-444c-b42f-b893aaace9c3) -->
 ![Banner](https://github.com/user-attachments/assets/a815dd7d-8343-4da5-aee4-3f754aa297e4)
@@ -88,85 +88,6 @@ https://github.com/WXRIW/Ink-Canvas
 
 https://github.com/ChangSakura/Ink-Canvas/releases/latest
 
-https://github.com/ChangSakura/Ink-Canvas
-
-更新状态：活跃
-
-</div>
-
-<div align="center">
-
-###  Ink Canvas for Class
-基于Ink Canvas的分支版本
-
-***此项目仍在开发中，即将推出正式版并提供Release***
-
-Quickly
-- 爱发电：[https://afdian.net/a/dubi906w/](https://afdian.net/a/dubi906w/)
-- 新网站：[https://icc.bliemhax.com/](https://icc.bliemhax.com/)
-- QQ群聊：[https://qm.qq.com/q/ptrGkAcqMo/](https://qm.qq.com/q/ptrGkAcqMo/)
-- Telegram频道：[https://t.me/InkCanvasForClass/](https://t.me/InkCanvasForClass/) 
-
-https://github.com/InkCanvasForClass/InkCanvasForClass
-https://gitea.bliemhax.com/kriastans/InkCanvasForClass
-
-更新状态：活跃
-
-</div>
-
-<div align="center">
-
-### 智绘教Inkeys
-
-Windows 屏幕批注工具，拥有高效批注和丰富功能，
-让屏幕演示变得简单，让教学授课变得高效，适用于触摸设备和PC端。
-
-原名 Intelligent-Drawing-Teaching（简称 IDT）
-
-https://github.com/Alan-CRL/Inkeys
-
-更新状态：暂时停更
-
-***(由于开发者本人原因，即日起至 2024.11 智绘教将临时停止更新)***
-
-</div>
-
-<div align="center">
-
-## 看板类
-
-</div>
-
-<div align="center">
-
-### HomeworkBoard
-支持云同步的作业展示板
-
-https://github.com/EnderWolf006/HomeworkBoard
-
-跟更新状态：活跃
-
-</div>
-
-<div align="center">
-
-### StickyHomeworks
-
-StickyHomeworks 是一款支持富文本的桌面作业贴工具。
-
-https://github.com/HelloWRC/StickyHomeworks
-
-更新状态：早期开发中
-
-</div>
-
-<div align="center">
-
-### DSZ考试看板
-
-https://github.com/hello8693DSZ/dsz-exam-showboard
-
-更新状态：早期开发中
 https://github.com/ChangSakura/Ink-Canvas
 
 更新状态：活跃
