@@ -12,7 +12,7 @@
 
 <div align="center">
 
-#### <image src="https://github.com/ClassIsland/ClassIsland/blob/master/ClassIsland/Assets/AppLogo_AppLogo.svg" height="24"/> ClassIsland
+### <image src="https://github.com/ClassIsland/ClassIsland/blob/master/ClassIsland/Assets/AppLogo_AppLogo.svg" height="20"/> ClassIsland
 
 <!-- ![软件截图-主界面](https://github.com/ClassIsland/ClassIsland/assets/55006226/65e2bdba-be83-444c-b42f-b893aaace9c3) -->
 ![Banner](https://github.com/user-attachments/assets/a815dd7d-8343-4da5-aee4-3f754aa297e4)
@@ -26,9 +26,7 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 
 ##### [ClassIsland 网站](https://classisland.tech/)｜[ClassIsland 文档](https://docs.classisland.tech/zh-cn/latest/)｜[QQ 群: 958840932](https://qm.qq.com/q/4NsDQKiAuQ)
 
-更新状态：活跃
-
-仓库地址：https://github.com/ClassIsland/ClassIsland
+仓库地址：https://github.com/ClassIsland/ClassIsland （更新状态：活跃）
 
 </div>
 
@@ -48,9 +46,7 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 ### ElectronClassSchedule
 电子桌面课程表，可用于学校电子白板
 
-https://github.com/EnderWolf006/ElectronClassSchedule
-
-更新状态：活跃
+仓库地址：https://github.com/EnderWolf006/ElectronClassSchedule （更新状态：活跃）
 
 </div>
 
@@ -59,9 +55,7 @@ https://github.com/EnderWolf006/ElectronClassSchedule
 ### ZongziTEK 黑板贴
 用于一体机的桌面部件，课表程+天气+时间+启动台+小黑板
 
-更新状态：活跃
-
-https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker
+仓库地址：https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker （更新状态：活跃）
 
 </div>
 
@@ -75,9 +69,7 @@ https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker
 
 ###  Ink Canvas
 
-https://github.com/WXRIW/Ink-Canvas
-
-更新状态：活跃
+仓库地址：https://github.com/WXRIW/Ink-Canvas （更新状态：活跃）
 
 </div>
 
@@ -86,11 +78,7 @@ https://github.com/WXRIW/Ink-Canvas
 ### Ink Canvas Artistry
 好用的屏幕批注/PPT批注工具，基于Ink Canvas的分支版本。
 
-https://github.com/ChangSakura/Ink-Canvas/releases/latest
-
-https://github.com/ChangSakura/Ink-Canvas
-
-更新状态：活跃
+仓库地址：https://github.com/ChangSakura/Ink-Canvas （更新状态：活跃）
 
 </div>
 
@@ -101,16 +89,14 @@ https://github.com/ChangSakura/Ink-Canvas
 
 ***此项目仍在开发中，即将推出正式版并提供Release***
 
-Quickly
 - 爱发电：[https://afdian.net/a/dubi906w/](https://afdian.net/a/dubi906w/)
 - 新网站：[https://icc.bliemhax.com/](https://icc.bliemhax.com/)
 - QQ群聊：[https://qm.qq.com/q/ptrGkAcqMo/](https://qm.qq.com/q/ptrGkAcqMo/)
 - Telegram频道：[https://t.me/InkCanvasForClass/](https://t.me/InkCanvasForClass/) 
 
-https://github.com/InkCanvasForClass/InkCanvasForClass
-https://gitea.bliemhax.com/kriastans/InkCanvasForClass
-
-更新状态：活跃
+仓库地址：
+- https://github.com/InkCanvasForClass/InkCanvasForClass （更新状态：活跃）
+- https://gitea.bliemhax.com/kriastans/InkCanvasForClass （更新状态：活跃）
 
 </div>
 
@@ -123,9 +109,7 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，
 
 原名 Intelligent-Drawing-Teaching（简称 IDT）
 
-https://github.com/Alan-CRL/Inkeys
-
-更新状态：暂时停更
+仓库地址：https://github.com/Alan-CRL/Inkeys （更新状态：暂时停更）
 
 ***(由于开发者本人原因，即日起至 2024.11 智绘教将临时停止更新)***
 
@@ -142,9 +126,7 @@ https://github.com/Alan-CRL/Inkeys
 ### HomeworkBoard
 支持云同步的作业展示板
 
-https://github.com/EnderWolf006/HomeworkBoard
-
-跟更新状态：活跃
+仓库地址：https://github.com/EnderWolf006/HomeworkBoard （更新状态：活跃）
 
 </div>
 
@@ -154,9 +136,7 @@ https://github.com/EnderWolf006/HomeworkBoard
 
 StickyHomeworks 是一款支持富文本的桌面作业贴工具。
 
-https://github.com/HelloWRC/StickyHomeworks
-
-更新状态：早期开发中
+仓库地址：https://github.com/HelloWRC/StickyHomeworks （更新状态：早期开发中）
 
 </div>
 
@@ -164,6 +144,4 @@ https://github.com/HelloWRC/StickyHomeworks
 
 ### DSZ考试看板
 
-https://github.com/hello8693DSZ/dsz-exam-showboard
-
-更新状态：早期开发中
+仓库地址：https://github.com/hello8693DSZ/dsz-exam-showboard （更新状态：早期开发中）
