@@ -54,6 +54,8 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 [![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4｜914887202-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/cgi-bin/qm/qr?k=SL4_VQ9Zmpch-64RbYhkKbTZ5cNjIZ-N&jump_from=webapi&authKey=kxhiNZcQZwoSC/85e3dPxUsL+kpaLIBmxbrcfRLjSJeH35o0D0a/tHBVYI1as5p1)
 [![Telegram](https://img.shields.io/badge/-Telegram｜@%E7%94%B5%E5%AD%90%E8%AF%BE%E8%A1%A8%E4%BA%A4%E6%B5%81%E7%BE%A4ElectronClassSchedule-blue?style=flat&logo=Telegram)](https://t.me/ECSchedule)
 
+仓库地址：https://github.com/EnderWolf006/ElectronClassSchedule （更新状态：活跃）
+
 </div>
 
 #### 功能
@@ -62,8 +64,6 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 - 支持动态调整课表，支持多周(最多四周)课表轮换
 - 窗口置顶，可点击穿透
 - 编辑配置文件以编辑时间/课表
-
-仓库地址：https://github.com/EnderWolf006/ElectronClassSchedule （更新状态：活跃）
 
 <div align="center">
 
