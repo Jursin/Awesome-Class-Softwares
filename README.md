@@ -67,12 +67,63 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 
 <div align="center">
 
-### ZongziTEK 黑板贴
-用于一体机的桌面部件，课表程+天气+时间+启动台+小黑板
+### <image src="https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/blob/master/ZongziTEK_Blackboard_Sticker%2F%E9%BB%91%E6%9D%BF%E8%B4%B4.png" height="20"/> ZongziTEK 黑板贴
+
+![Screenshot](https://i.postimg.cc/PfC89pfQ/Light.png)
+
+[![stars](https://img.shields.io/github/stars/STBBRD/ZongziTEK-Blackboard-Sticker?label=Stars)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker)
+[![Downloads](https://img.shields.io/github/downloads/STBBRD/ZongziTEK-Blackboard-Sticker/total?style=social&label=下载量&logo=github)](https://github.com/ClassIsland/ClassIsland/releases/latest)
+[![Release](https://img.shields.io/github/v/release/STBBRD/ZongziTEK-Blackboard-Sticker?style=flat-square&color=%233fb950&label=正式版)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/releases/latest) 
+[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4｜1101582374-blue?style=flat&logo=TencentQQ)](https://jq.qq.com/?_wv=1027&k=epb9KDPe)
+
+用于一体机的桌面部件
 
 仓库地址：https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker （更新状态：活跃）
 
 </div>
+
+#### 功能
+- 小黑板
+  - 计算笔锋
+  - 墨迹自动保存，打开时自动读取
+  - 保存的墨迹文件可以使用 WXRIW 的 Ink Canvas 画板打开
+  - 可以锁定，防止误触
+- 启动台
+  - 快捷启动台，可以自己编辑里面的项目
+- 课程表
+  - 自动切换显示每天课程
+  - 上课前，提醒即将开始的课程名称及时间；下课时，提醒下一节课的名称及时间
+  - 带有课程表编辑器
+  - 以 json 格式存储
+- 信息看板
+  - 显示在顶端，轮播几个页面，可以自行选择轮播哪几个页面
+  - 日期页面：显示日期
+  - 倒数日页面：显示设置的倒数日
+  - 实况天气页面：显示当前天气及气温
+  - 天气预报页面：显示未来哪几天会下雨
+
+<div align="center">
+
+### <image src="https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/img%2FLogo.png" height="20"/> Class Widgets
+
+![preview](https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/img%2Fpreview.png)
+
+[![stars](https://img.shields.io/github/stars/RinLit-233-shiroko/Class-Widgets?label=Stars)](https://github.com/RinLit-233-shiroko/Class-Widgets)
+[![Downloads](https://img.shields.io/github/downloads/RinLit-233-shiroko/Class-Widgets/total?style=social&label=下载量&logo=github)](https://github.com/RinLit-233-shiroko/Class-Widgets/releases/latest)
+[![Release](https://img.shields.io/github/v/release/RinLit-233-shiroko/Class-Widgets?style=flat-square&color=%233fb950&label=正式版)](https://github.com/RinLit-233-shiroko/Class-Widgets/releases/latest) 
+
+一款桌面课表软件
+
+仓库地址：https://github.com/RinLit-233-shiroko/Class-Widgets （更新状态：活跃）
+
+</div>
+
+#### 功能
+- 显示日期、时间，当前活动，接下来课程
+- 方便的提醒系统
+- 易用的课程表编辑界面
+- 快捷调休/换课
+- 同时存储多套课表
 
 <div align="center">
 
