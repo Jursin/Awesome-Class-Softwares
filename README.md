@@ -48,7 +48,7 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 
 ![view](https://github.com/EnderWolf006/ElectronClassSchedule/blob/main/image%2FREADME%2Fview.png)
 
-[![stars](https://img.shields.io/github/stars/EnderWolf006/ElectronClassSchedule?label=Stars)](https://github.com/ClassIsland/ClassIsland)
+[![stars](https://img.shields.io/github/stars/EnderWolf006/ElectronClassSchedule?label=Stars)](https://github.com/EnderWolf006/ElectronClassSchedule)
 [![Downloads](https://img.shields.io/github/downloads/EnderWolf006/ElectronClassSchedule/total?style=social&label=下载量&logo=github)](https://github.com/EnderWolf006/ElectronClassSchedule/releases/latest)
 [![Release](https://img.shields.io/github/v/release/EnderWolf006/ElectronClassSchedule?style=flat-square&color=%233fb950&label=正式版)](https://github.com/EnderWolf006/ElectronClassSchedule/releases/latest) 
 [![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4｜914887202-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/cgi-bin/qm/qr?k=SL4_VQ9Zmpch-64RbYhkKbTZ5cNjIZ-N&jump_from=webapi&authKey=kxhiNZcQZwoSC/85e3dPxUsL+kpaLIBmxbrcfRLjSJeH35o0D0a/tHBVYI1as5p1)
@@ -72,7 +72,7 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 ![Screenshot](https://i.postimg.cc/PfC89pfQ/Light.png)
 
 [![stars](https://img.shields.io/github/stars/STBBRD/ZongziTEK-Blackboard-Sticker?label=Stars)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker)
-[![Downloads](https://img.shields.io/github/downloads/STBBRD/ZongziTEK-Blackboard-Sticker/total?style=social&label=下载量&logo=github)](https://github.com/ClassIsland/ClassIsland/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/STBBRD/ZongziTEK-Blackboard-Sticker/total?style=social&label=下载量&logo=github)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/releases/latest)
 [![Release](https://img.shields.io/github/v/release/STBBRD/ZongziTEK-Blackboard-Sticker?style=flat-square&color=%233fb950&label=正式版)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/releases/latest) 
 [![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4｜1101582374-blue?style=flat&logo=TencentQQ)](https://jq.qq.com/?_wv=1027&k=epb9KDPe)
 
@@ -133,15 +133,51 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 
 <div align="center">
 
-###  Ink Canvas
+### <image src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Canvas%2FResources%2Flogo.png" height="20"/> Ink Canvas
+
+[![stars](https://img.shields.io/github/stars/WXRIW/Ink-Canvas?label=Stars)](https://github.com/WXRIW/Ink-Canvas)
+[![Downloads](https://img.shields.io/github/downloads/WXRIW/Ink-Canvas/total?style=social&label=下载量&logo=github)](https://github.com/WXRIW/Ink-Canvas/releases/latest)
+[![Release](https://img.shields.io/github/v/release/WXRIW/Ink-Canvas?style=flat-square&color=%233fb950&label=正式版)](https://github.com/WXRIW/Ink-Canvas/releases/latest) 
+[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4｜891913576-blue?style=flat&logo=TencentQQ)](https://jq.qq.com/?_wv=1027&k=NvlM1Rgg)
+
+Ink Canvas 画板是一款轻量级画板软件，基于WPF/C#，其针对希沃一体机进行了特别优化，与预装的“希沃白板 5”软件相比，启动速度大幅度提升（提升5-10 倍），系统资源占用更小，使用体验更佳。
 
 仓库地址：https://github.com/WXRIW/Ink-Canvas （更新状态：活跃）
 
 </div>
 
+#### 模式
+- 幻灯片模式
+- 画板模式（黑/白板模式）
+- 屏幕画笔模式
+
+#### 小工具
+- 倒计时
+  - 美观的 UI，并可以以接近全屏的大小显示
+- 抽奖
+  - 可导入名单（建议搭配 Excel 使用），可设置抽取人数
+- 保存墨迹
+  - 默认保存至 `文档\Ink Canvas Strokes`
+- 截图
+  - 任意模式模式下（包括鼠标）下点击相机图标截图并自动保存至 `图片\Ink Canvas Screenshots`，可在设置中开启“截图时自动保存墨迹”
+- 幻灯片自动保存墨迹
+  - 默认保存至 `文档\Ink Canvas Strokes`
+- 墨迹回放
+  - 从头自动书写一遍屏中墨迹
+
 <div align="center">
 
-### Ink Canvas Artistry
+### <image src="https://github.com/ChangSakura/Ink-Canvas/blob/master/Images/Ink%20Canvas%20Artistry.png" height="20"/> Ink Canvas Artistry
+
+![Screenshot-1](https://github.com/ChangSakura/Ink-Canvas/tree/master/Images/Screenshot1.png)
+![Screenshot-2](https://github.com/ChangSakura/Ink-Canvas/tree/master/Images/Screenshot2.png)
+![Screenshot-2](https://github.com/ChangSakura/Ink-Canvas/tree/master/Images/Screenshot3.png)
+
+[![stars](https://img.shields.io/github/stars/ChangSakura/Ink-Canvas?label=Stars)](https://github.com/ChangSakura/Ink-Canvas)
+[![Downloads](https://img.shields.io/github/downloads/ChangSakura/Ink-Canvas/total?style=social&label=下载量&logo=github)](https://github.com/ChangSakura/Ink-Canvas/releases/latest)
+[![Release](https://img.shields.io/github/v/release/ChangSakura/Ink-Canvas?style=flat-square&color=%233fb950&label=正式版)](https://github.com/ChangSakura/Ink-Canvas/releases/latest) 
+[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4｜617707731-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/AC777tzmEw)
+
 好用的屏幕批注/PPT批注工具，基于Ink Canvas的分支版本。
 
 仓库地址：https://github.com/ChangSakura/Ink-Canvas （更新状态：活跃）
@@ -178,6 +214,14 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，
 仓库地址：https://github.com/Alan-CRL/Inkeys （更新状态：暂时停更）
 
 ***(由于开发者本人原因，即日起至 2024.11 智绘教将临时停止更新)***
+
+</div>
+
+<div align="center">
+
+### inkways
+
+官网：https://inkore.net/zh-cn/products/inkways/
 
 </div>
 
