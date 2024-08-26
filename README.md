@@ -169,9 +169,9 @@ Ink Canvas 画板是一款轻量级画板软件，基于WPF/C#，其针对希沃
 
 ### <image src="https://github.com/ChangSakura/Ink-Canvas/blob/master/Images/Ink%20Canvas%20Artistry.png" height="20"/> Ink Canvas Artistry
 
-![Screenshot-1](https://github.com/ChangSakura/Ink-Canvas/tree/master/Images/Screenshot1.png)
-![Screenshot-2](https://github.com/ChangSakura/Ink-Canvas/tree/master/Images/Screenshot2.png)
-![Screenshot-2](https://github.com/ChangSakura/Ink-Canvas/tree/master/Images/Screenshot3.png)
+![Screenshot-1](https://github.com/ChangSakura/Ink-Canvas/blob/master/Images/Screenshot1.png)
+![Screenshot-2](https://github.com/ChangSakura/Ink-Canvas/blob/master/Images/Screenshot2.png)
+![Screenshot-3](https://github.com/ChangSakura/Ink-Canvas/blob/master/Images/Screenshot3.png)
 
 [![stars](https://img.shields.io/github/stars/ChangSakura/Ink-Canvas?label=Stars)](https://github.com/ChangSakura/Ink-Canvas)
 [![Downloads](https://img.shields.io/github/downloads/ChangSakura/Ink-Canvas/total?style=social&label=下载量&logo=github)](https://github.com/ChangSakura/Ink-Canvas/releases/latest)
