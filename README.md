@@ -133,7 +133,7 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 
 <div align="center">
 
-### <image src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Canvas%2FResources%2Flogo.png" height="20"/> Ink Canvas
+### <image src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Canvas%2FResources%2FInkCanvas.png" height="20"/> Ink Canvas
 
 [![stars](https://img.shields.io/github/stars/WXRIW/Ink-Canvas?label=Stars)](https://github.com/WXRIW/Ink-Canvas)
 [![Downloads](https://img.shields.io/github/downloads/WXRIW/Ink-Canvas/total?style=social&label=下载量&logo=github)](https://github.com/WXRIW/Ink-Canvas/releases/latest)
