@@ -142,6 +142,8 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 
 Ink Canvas 画板是一款轻量级画板软件，基于WPF/C#，其针对希沃一体机进行了特别优化，与预装的“希沃白板 5”软件相比，启动速度大幅度提升（提升5-10 倍），系统资源占用更小，使用体验更佳。
 
+  [<img src="https://get.microsoft.com/images/zh-CN%20dark.svg" style="width: 200px;"/>](https://www.microsoft.com/store/apps/9NXJFDD97XJ3?cid=ghreadme)
+
 仓库地址：https://github.com/WXRIW/Ink-Canvas （更新状态：活跃）
 
 </div>
