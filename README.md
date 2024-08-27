@@ -45,7 +45,8 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 
 <div align="center">
 
-### <image src="https://github.com/EnderWolf006/ElectronClassSchedule/blob/main/image%2Ficon.png" height="20"/>  ElectronClassSchedule
+### <image src="https://github.com/EnderWolf006/ElectronClassSchedule/blob/main/image%2Ficon.png" height="48"/>
+ElectronClassSchedule
 
 ![view](https://github.com/EnderWolf006/ElectronClassSchedule/blob/main/image%2FREADME%2Fview.png)
 
@@ -68,7 +69,8 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 
 <div align="center">
 
-### <image src="https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/blob/master/ZongziTEK_Blackboard_Sticker%2F%E9%BB%91%E6%9D%BF%E8%B4%B4.png" height="20"/> ZongziTEK 黑板贴
+### <image src="https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/blob/master/ZongziTEK_Blackboard_Sticker%2F%E9%BB%91%E6%9D%BF%E8%B4%B4.png" height="48"/>
+ZongziTEK 黑板贴
 
 ![Screenshot](https://i.postimg.cc/PfC89pfQ/Light.png)
 
@@ -105,7 +107,8 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 
 <div align="center">
 
-### <image src="https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/img%2FLogo.png" height="20"/> Class Widgets
+### <image src="https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/img%2FLogo.png" height="48"/>
+Class Widgets
 
 ![preview](https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/img%2Fpreview.png)
 
@@ -134,7 +137,8 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 
 <div align="center">
 
-### <image src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Canvas%2FResources%2FInkCanvas.png" height="20"/> Ink Canvas
+### <image src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Canvas%2FResources%2FInkCanvas.png" height="48"/>
+Ink Canvas
 
 [![stars](https://img.shields.io/github/stars/WXRIW/Ink-Canvas?label=Stars)](https://github.com/WXRIW/Ink-Canvas)
 [![Downloads](https://img.shields.io/github/downloads/WXRIW/Ink-Canvas/total?style=social&label=下载量&logo=github)](https://github.com/WXRIW/Ink-Canvas/releases/latest)
@@ -170,7 +174,8 @@ Ink Canvas 画板是一款轻量级画板软件，基于WPF/C#，其针对希沃
 
 <div align="center">
 
-### <image src="https://github.com/ChangSakura/Ink-Canvas/blob/master/Images/Ink%20Canvas%20Artistry.png" height="20"/> Ink Canvas Artistry
+### <image src="https://github.com/ChangSakura/Ink-Canvas/blob/master/Images/Ink%20Canvas%20Artistry.png" height="48"/>
+Ink Canvas Artistry
 
 ![Screenshot-1](https://github.com/ChangSakura/Ink-Canvas/blob/master/Images/Screenshot1.png)
 ![Screenshot-2](https://github.com/ChangSakura/Ink-Canvas/blob/master/Images/Screenshot2.png)
