@@ -26,7 +26,7 @@ ClassIsland
 
 ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具，可以在 Windows 屏幕上显示各种信息。
 
-##### [ClassIsland 网站](https://classisland.tech/)｜[ClassIsland 文档](https://docs.classisland.tech/zh-cn/latest/)
+[ClassIsland 网站](https://classisland.tech/)｜[ClassIsland 文档](https://docs.classisland.tech/zh-cn/latest/)
 
 仓库地址：https://github.com/ClassIsland/ClassIsland （更新状态：活跃）
 
@@ -140,6 +140,9 @@ Class Widgets
 ### <image src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Canvas%2FResources%2FInkCanvas.png" height="48"/>
 Ink Canvas
 
+![screen](https://github.com/Jursin/Awesome-Class-Softwares/blob/main/Screenshots%2FInkCanvas%2Fscreen.png)
+![board](https://github.com/Jursin/Awesome-Class-Softwares/blob/main/Screenshots%2FInkCanvas%2Fboard.png)
+
 [![stars](https://img.shields.io/github/stars/WXRIW/Ink-Canvas?label=Stars)](https://github.com/WXRIW/Ink-Canvas)
 [![Downloads](https://img.shields.io/github/downloads/WXRIW/Ink-Canvas/total?style=social&label=下载量&logo=github)](https://github.com/WXRIW/Ink-Canvas/releases/latest)
 [![Release](https://img.shields.io/github/v/release/WXRIW/Ink-Canvas?style=flat-square&color=%233fb950&label=正式版)](https://github.com/WXRIW/Ink-Canvas/releases/latest) 
@@ -194,22 +197,51 @@ Ink Canvas Artistry
 
 <div align="center">
 
-###  Ink Canvas for Class
-基于Ink Canvas的分支版本
+### <image src="https://github.com/InkCanvasForClass/InkCanvasForClass/blob/master/icc.png" height="48"/>
+Ink Canvas for Class
 
-***此项目仍在开发中，即将推出正式版并提供Release***
+![illustration](https://github.com/InkCanvasForClass/InkCanvasForClass/blob/master/icc-github-illustrations.png)
 
-- 爱发电：[https://afdian.net/a/dubi906w/](https://afdian.net/a/dubi906w/)
-- 新网站：[https://icc.bliemhax.com/](https://icc.bliemhax.com/)
-- QQ群聊：[https://qm.qq.com/q/ptrGkAcqMo/](https://qm.qq.com/q/ptrGkAcqMo/)
-- Telegram频道：[https://t.me/InkCanvasForClass/](https://t.me/InkCanvasForClass/) 
+[![stars](https://img.shields.io/github/stars/InkCanvasForClass/InkCanvasForClass?label=Stars)](https://github.com/InkCanvasForClass/InkCanvasForClass)
+![Gitea Last Commit](https://img.shields.io/gitea/last-commit/kriastans/InkCanvasForClass?gitea_url=https%3A%2F%2Fgitea.bliemhax.com%2F)
+[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4｜20825759306-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/ptrGkAcqMo)
+[![Telegram](https://img.shields.io/badge/-Telegram｜@InkCanvasForClass-blue?style=flat&logo=Telegram)](https://t.me/InkCanvasForClass)
+
+<div align="center"><strong>InkCanvasForClass 是基于 <a href="https://github.com/ChangSakura/">ChangSakura</a> 的 <a href="https://github.com/InkCanvas/Ink-Canvas-Artistry">Ink-Canvas-Artistry</a> 项目二次开发而来。该项目着重于优化原项目的 UI 设计使其变得更加便于在课堂上使用，同时也在积极开发新功能，修复原项目的不合理之处。</strong></div>
+
+[爱发电](https://afdian.net/a/dubi906w/)｜[新网站](https://icc.bliemhax.com/)
 
 仓库地址：
 - https://github.com/InkCanvasForClass/InkCanvasForClass （更新状态：活跃）
 - https://gitea.bliemhax.com/kriastans/InkCanvasForClass （更新状态：活跃）
 
+> [!important]
+> **此项目仍在开发中，只会在发布正式发行版时提供Release**<br>
+> [QQ 群](https://qm.qq.com/q/ptrGkAcqMo)内有 ICC 比较稳定的版本，可在群文件中获取
+
 </div>
 
+### 基础功能
+- [X] 屏幕批注
+- [X] PPT 批注
+- [X] 白板模式
+
+### 优化和改进
+- [ ] 浮动工具栏 UI 改进
+- [ ] 白板模式 UI 改进
+- [ ] **鼠标手势**，实现画布移动、缩放、旋转（正在开发）
+- [ ] **全新的设置 UI**
+- [ ] **画面冻结**，使当前画面定格
+- [ ] **重写形状绘制**，让绘图体验更舒适方便，支持函数绘制和物理图绘制
+- [ ] **禁用边缘手势**，禁用烦人的 Windows 10/11 的边缘触摸手势
+- [ ] **点名器优化**，将支持历史记录和多名单抽选，同时支持特殊配置
+- [ ] **内置小工具**，内置计算器，倒计时，秒表，放大镜，截图，英汉词典等实用小工具
+- [ ] **情境化配置**，可以为每位老师分配专属配置文件
+- [ ] **插件和脚本系统**，支持使用 dotNet Framework 开发原生扩展或使用 Javascript 开发脚本来实现自动化操作或其他扩展功能
+- [ ] **形状识别**，基于微软库的手绘形状自动识别，并提供形状绘制纠正功能
+- [ ] **板书库**，高效管理所有板书，课程自动分类，提供云端同步
+- [ ] **自动收纳**，检测到教学软件启动时，自动隐藏 ICC 界面并收纳到屏幕侧边
+……
 <div align="center">
 
 ### 智绘教Inkeys
