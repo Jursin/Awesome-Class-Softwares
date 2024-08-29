@@ -219,6 +219,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 [爱发电](https://afdian.net/a/dubi906w/)｜[新网站](https://icc.bliemhax.com/)
 
 GitHub仓库：https://github.com/InkCanvasForClass/InkCanvasForClass （更新状态：活跃）
+
 Gitea仓库：https://gitea.bliemhax.com/kriastans/InkCanvasForClass （更新状态：活跃）
 
 > [!important]
