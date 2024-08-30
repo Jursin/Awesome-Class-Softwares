@@ -4,6 +4,9 @@
 
 </div>
 
+> [!IMPORTANT]
+> **在使用任何软件之前，应仔细阅读其仓库中的 README 或其他形式的说明。**
+
 <div align="center">
 
 ## 课表类
