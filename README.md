@@ -30,7 +30,7 @@
 
 ClassIsland 是一款适用于班级一体机的课程信息显示工具，支持显示当日课程等各种信息。
 
-[ClassIsland 网站](https://classisland.tech/)%EF%BD%9C[ClassIsland 文档](https://docs.classisland.tech/zh-cn/latest/)
+[ClassIsland 网站](https://classisland.tech/)｜[ClassIsland 文档](https://docs.classisland.tech/zh-cn/latest/)
 
 <img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/ClassIsland/ClassIsland](https://github.com/ClassIsland/ClassIsland) （更新状态：活跃）
 
