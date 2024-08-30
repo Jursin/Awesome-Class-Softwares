@@ -6,6 +6,39 @@
 
 <div align="center">
 
+## 目录
+
+### [课表类](#-课表类)
+
+| 软件 | 开发者 |
+| - | - |
+| [ClassIsland](#-ClassIsland) | `HelloWRC` `ClassIsland` |
+| [ElectronClassSchedule](#-ElectronClassSchedule) | `EnderWolf006` |
+| [ZongziTEK 黑板贴](#-ZongziTEK-黑板贴) | `STBBRD` |
+| [Class Widgets](#-Class-Widgets) | `RinLit-233-shiroko` |
+
+### [画板类](#-画板类)
+
+| 软件 | 开发者 |
+| - | - |
+| [Ink Canvas](#-Ink-Canvas) | `WXRIW` |
+| [Ink Canvas Artistry](#-Ink-Canvas-Artistry) | `ChangSakura` |
+| [Ink Canvas for Class](#-Ink-Canvas-for-Class) | `Ink Canvas for Class` `kriastans` |
+| [智绘教Inkeys](#-智绘教Inkeys) | `Alan-CRL` |
+| [Inkways](#-Inkways) | `iNKORE-NET` |
+
+### [看板类](#-看板类)
+
+| 软件 | 开发者 |
+| - | - |
+| [EnderWolf006](#-EnderWolf006) | `EnderWolf006` |
+| [StickyHomeworks](#-StickyHomeworks) | `HelloWRC` |
+| [DSZ考试看板](#-DSZ考试看板) | `hello8693DSZ` |
+
+</div>
+
+<div align="center">
+
 ## 课表类
 
 </div>
