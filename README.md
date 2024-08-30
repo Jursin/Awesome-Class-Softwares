@@ -246,12 +246,12 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 </div>
 
-### 基础功能
+#### 基础功能
 - [X] 屏幕批注
 - [X] PPT 批注
 - [X] 白板模式
 
-### 优化和改进
+#### 优化和改进
 - [X] 浮动工具栏 UI 改进
 - [ ] 白板模式 UI 改进
 - [ ] **鼠标手势**，实现画布移动、缩放、旋转（正在开发）
