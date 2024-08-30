@@ -8,32 +8,32 @@
 
 ## 目录
 
-### [课表类](#-课表类)
+### [课表类](#课表类)
 
 | 软件 | 开发者 |
 | - | - |
-| [ClassIsland](#-ClassIsland) | `HelloWRC` `ClassIsland` |
-| [ElectronClassSchedule](#-ElectronClassSchedule) | `EnderWolf006` |
-| [ZongziTEK 黑板贴](#-ZongziTEK-黑板贴) | `STBBRD` |
-| [Class Widgets](#-Class-Widgets) | `RinLit-233-shiroko` |
+| [ClassIsland](#ClassIsland) | `HelloWRC` `ClassIsland` |
+| [ElectronClassSchedule](#ElectronClassSchedule) | `EnderWolf006` |
+| [ZongziTEK 黑板贴](#ZongziTEK-黑板贴) | `STBBRD` |
+| [Class Widgets](#Class-Widgets) | `RinLit-233-shiroko` |
 
-### [画板类](#-画板类)
-
-| 软件 | 开发者 |
-| - | - |
-| [Ink Canvas](#-Ink-Canvas) | `WXRIW` |
-| [Ink Canvas Artistry](#-Ink-Canvas-Artistry) | `ChangSakura` |
-| [Ink Canvas for Class](#-Ink-Canvas-for-Class) | `Ink Canvas for Class` `kriastans` |
-| [智绘教Inkeys](#-智绘教Inkeys) | `Alan-CRL` |
-| [Inkways](#-Inkways) | `iNKORE-NET` |
-
-### [看板类](#-看板类)
+### [画板类](#画板类)
 
 | 软件 | 开发者 |
 | - | - |
-| [HomeworkBoard](#-HomeworkBoard) | `EnderWolf006` |
-| [StickyHomeworks](#-StickyHomeworks) | `HelloWRC` |
-| [DSZ考试看板](#-DSZ考试看板) | `hello8693DSZ` |
+| [Ink Canvas](#Ink-Canvas) | `WXRIW` |
+| [Ink Canvas Artistry](#Ink-Canvas-Artistry) | `ChangSakura` |
+| [Ink Canvas for Class](#Ink-Canvas-for-Class) | `Ink Canvas for Class` `kriastans` |
+| [智绘教Inkeys](#智绘教Inkeys) | `Alan-CRL` |
+| [Inkways](#Inkways) | `iNKORE-NET` |
+
+### [看板类](#看板类)
+
+| 软件 | 开发者 |
+| - | - |
+| [HomeworkBoard](#HomeworkBoard) | `EnderWolf006` |
+| [StickyHomeworks](#StickyHomeworks) | `HelloWRC` |
+| [DSZ考试看板](#DSZ考试看板) | `hello8693DSZ` |
 
 </div>
 
@@ -114,7 +114,7 @@ ClassIsland 是一款适用于班级一体机的课程信息显示工具，支�
 
 <image src="https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/blob/master/ZongziTEK_Blackboard_Sticker%2F%E9%BB%91%E6%9D%BF%E8%B4%B4.png" height="48"/>
 
-### ZongziTEK 黑板贴
+### ZongziTEK-黑板贴
 
 ![Screenshot](https://i.postimg.cc/PfC89pfQ/Light.png)
 
@@ -155,7 +155,7 @@ ClassIsland 是一款适用于班级一体机的课程信息显示工具，支�
 
 <image src="https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/img%2FLogo.png" height="48"/>
 
-### Class Widgets
+### Class-Widgets
 
 ![preview](https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/img%2Fpreview.png)
 
@@ -189,7 +189,7 @@ ClassIsland 是一款适用于班级一体机的课程信息显示工具，支�
 
 <image src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Canvas%2FResources%2FInkCanvas.png" height="48"/>
 
-### Ink Canvas
+### Ink-Canvas
 
 ![screen](https://github.com/Jursin/Awesome-Class-Softwares/blob/main/Screenshots%2FInkCanvas%2Fscreen.png)
 ![board](https://github.com/Jursin/Awesome-Class-Softwares/blob/main/Screenshots%2FInkCanvas%2Fboard.png)
@@ -231,7 +231,7 @@ Ink Canvas 画板是一款轻量级画板软件，基于WPF/C#，其针对希沃
 
 <image src="https://github.com/ChangSakura/Ink-Canvas/blob/master/Images/Ink%20Canvas%20Artistry.png" height="48"/>
 
-### Ink Canvas Artistry
+### Ink-Canvas-Artistry
 
 ![Screenshot-1](https://github.com/ChangSakura/Ink-Canvas/blob/master/Images/Screenshot1.png)
 ![Screenshot-2](https://github.com/ChangSakura/Ink-Canvas/blob/master/Images/Screenshot2.png)
@@ -253,7 +253,7 @@ Ink Canvas 画板是一款轻量级画板软件，基于WPF/C#，其针对希沃
 
 <image src="https://github.com/InkCanvasForClass/InkCanvasForClass/blob/master/icc.png" height="48"/>
 
-### Ink Canvas for Class
+### Ink-Canvas-for-Class
 
 ![illustration](https://github.com/InkCanvasForClass/InkCanvasForClass/blob/master/icc-github-illustrations.png)
 ![toolbar](https://github.com/Jursin/Awesome-Class-Softwares/blob/main/Screenshots/InkCanvasForClass/toolbar.png)
