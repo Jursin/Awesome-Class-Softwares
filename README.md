@@ -138,16 +138,16 @@ ClassIsland 是一款适用于班级一体机的课程信息显示工具，支�
   - 保存的墨迹文件可以使用 WXRIW 的 Ink Canvas 画板打开
   - 可以锁定，防止误触
 - 启动台
-  - 快捷启动台，可以自己编辑里面的项目
+  - 快捷启动台，可以自行编辑里面的项目
 - 课程表
   - 自动切换显示每天课程
   - 上课前，提醒即将开始的课程名称及时间；下课时，提醒下一节课的名称及时间
   - 带有课程表编辑器
   - 以 json 格式存储
 - 信息看板
-  - 显示在顶端，轮播几个页面，可以自行选择轮播哪几个页面
-  - 日期页面：显示日期
-  - 倒数日页面：显示设置的倒数日
+  - 顶端显示：多个页面轮播，可自行选择
+  - 日期页面
+  - 倒数日页面
   - 实况天气页面：显示当前天气及气温
   - 天气预报页面：显示未来哪几天会下雨
 
@@ -243,7 +243,7 @@ Ink Canvas 画板是一款轻量级画板软件，基于WPF/C#，其针对希沃
 [![Release](https://img.shields.io/github/v/release/ChangSakura/Ink-Canvas?style=flat-square&color=%233fb950&label=正式版)](https://github.com/ChangSakura/Ink-Canvas/releases/latest)
 [![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C617707731-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/AC777tzmEw)
 
-好用的屏幕批注/PPT批注工具，基于Ink Canvas的分支版本。
+基于[Ink Canvas](https://github.com/WXRIW/Ink-Canvas)二次开发，优化了界面UI，是一款好用的屏幕批注/板书/PPT批注工具。
 
 <img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/ChangSakura/Ink-Canvas](https://github.com/ChangSakura/Ink-Canvas) （更新状态：活跃）
 
