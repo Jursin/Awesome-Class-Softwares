@@ -235,6 +235,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 > [!important]
 > **此项目仍在开发中，只会在发布正式发行版时提供Release**
+>
 > [QQ 群](https://qm.qq.com/q/ptrGkAcqMo)内有 ICC 比较稳定的版本，可在群文件中获取
 
 </div>
