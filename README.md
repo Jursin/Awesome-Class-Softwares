@@ -49,8 +49,9 @@ ClassIsland 是一款适用于班级一体机的课程信息显示工具，支�
 
 <div align="center">
 
-### <image src="https://github.com/EnderWolf006/ElectronClassSchedule/blob/main/image%2Ficon.png" height="48"/>
-ElectronClassSchedule
+<image src="https://github.com/EnderWolf006/ElectronClassSchedule/blob/main/image%2Ficon.png" height="48"/>
+
+### ElectronClassSchedule
 
 ![view](https://github.com/EnderWolf006/ElectronClassSchedule/blob/main/image%2FREADME%2Fview.png)
 
@@ -78,8 +79,9 @@ ElectronClassSchedule
 
 <div align="center">
 
-### <image src="https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/blob/master/ZongziTEK_Blackboard_Sticker%2F%E9%BB%91%E6%9D%BF%E8%B4%B4.png" height="48"/>
-ZongziTEK 黑板贴
+<image src="https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/blob/master/ZongziTEK_Blackboard_Sticker%2F%E9%BB%91%E6%9D%BF%E8%B4%B4.png" height="48"/>
+
+### ZongziTEK 黑板贴
 
 ![Screenshot](https://i.postimg.cc/PfC89pfQ/Light.png)
 
@@ -118,8 +120,9 @@ ZongziTEK 黑板贴
 
 <div align="center">
 
-### <image src="https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/img%2FLogo.png" height="48"/>
-Class Widgets
+<image src="https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/img%2FLogo.png" height="48"/>
+
+### Class Widgets
 
 ![preview](https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/img%2Fpreview.png)
 
@@ -151,8 +154,9 @@ Class Widgets
 
 <div align="center">
 
-### <image src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Canvas%2FResources%2FInkCanvas.png" height="48"/>
-Ink Canvas
+<image src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Canvas%2FResources%2FInkCanvas.png" height="48"/>
+
+### Ink Canvas
 
 ![screen](https://github.com/Jursin/Awesome-Class-Softwares/blob/main/Screenshots%2FInkCanvas%2Fscreen.png)
 ![board](https://github.com/Jursin/Awesome-Class-Softwares/blob/main/Screenshots%2FInkCanvas%2Fboard.png)
@@ -192,8 +196,9 @@ Ink Canvas 画板是一款轻量级画板软件，基于WPF/C#，其针对希沃
 
 <div align="center">
 
-### <image src="https://github.com/ChangSakura/Ink-Canvas/blob/master/Images/Ink%20Canvas%20Artistry.png" height="48"/>
-Ink Canvas Artistry
+<image src="https://github.com/ChangSakura/Ink-Canvas/blob/master/Images/Ink%20Canvas%20Artistry.png" height="48"/>
+
+### Ink Canvas Artistry
 
 ![Screenshot-1](https://github.com/ChangSakura/Ink-Canvas/blob/master/Images/Screenshot1.png)
 ![Screenshot-2](https://github.com/ChangSakura/Ink-Canvas/blob/master/Images/Screenshot2.png)
@@ -213,8 +218,9 @@ Ink Canvas Artistry
 
 <div align="center">
 
-### <image src="https://github.com/InkCanvasForClass/InkCanvasForClass/blob/master/icc.png" height="48"/>
-Ink Canvas for Class
+<image src="https://github.com/InkCanvasForClass/InkCanvasForClass/blob/master/icc.png" height="48"/>
+
+### Ink Canvas for Class
 
 ![illustration](https://github.com/InkCanvasForClass/InkCanvasForClass/blob/master/icc-github-illustrations.png)
 ![toolbar](https://github.com/Jursin/Awesome-Class-Softwares/blob/main/Screenshots/InkCanvasForClass/toolbar.png)
@@ -263,8 +269,9 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 ……
 <div align="center">
 
-### <image src="https://github.com/Alan-CRL/Inkeys/blob/main/GithubRes/logo.png" height="48"/>
-智绘教Inkeys
+<image src="https://github.com/Alan-CRL/Inkeys/blob/main/GithubRes/logo.png" height="48"/>
+
+### 智绘教Inkeys
 
 ![cover](https://github.com/Alan-CRL/Inkeys/blob/main/GithubRes/cover2.png)
 
@@ -291,8 +298,9 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 <div align="center">
 
-### <image src="https://inkore.net/wp-content/uploads/2024/01/Inkways_256.png" height="48"/>
-Inkways
+<image src="https://inkore.net/wp-content/uploads/2024/01/Inkways_256.png" height="48"/>
+
+### Inkways
 
 ![editor](https://inkore.net/wp-content/uploads/2023/10/image_inkways_10.png)
 ![board](https://inkore.net/wp-content/uploads/2023/10/image_inkways_6.png)
@@ -330,8 +338,9 @@ Inkways
 
 <div align="center">
 
-### <image src="https://github.com/EnderWolf006/HomeworkBoard/blob/main/ClientProject/public/vite.svg" height="48"/>
-HomeworkBoard
+<image src="https://github.com/EnderWolf006/HomeworkBoard/blob/main/ClientProject/public/vite.svg" height="48"/>
+
+### HomeworkBoard
 
 ![screenshot](https://github.com/EnderWolf006/HomeworkBoard/blob/main/ReadMeImages/img.png)
 
@@ -349,8 +358,9 @@ HomeworkBoard
 
 <div align="center">
 
-### <image src="https://github.com/HelloWRC/StickyHomeworks/blob/master/StickyHomeworks/Assets/AppLogo.png" height="48"/>
-StickyHomeworks
+<image src="https://github.com/HelloWRC/StickyHomeworks/blob/master/StickyHomeworks/Assets/AppLogo.png" height="48"/>
+
+### StickyHomeworks
 
 ![image](https://github.com/HelloWRC/StickyHomeworks/assets/55006226/d6dc1553-d3ff-4905-907c-aba79089fc9a)
 
@@ -386,8 +396,9 @@ StickyHomeworks 是一款支持富文本的桌面作业贴工具。
 
 <div align="center">
 
-### <image src="https://github.com/hello8693DSZ/dsz-exam-showboard/blob/master/resources/icon.png" height="48"/>
-DSZ考试看板
+<image src="https://github.com/hello8693DSZ/dsz-exam-showboard/blob/master/resources/icon.png" height="48"/>
+
+### DSZ考试看板
 
 [![stars](https://img.shields.io/github/stars/hello8693DSZ/dsz-exam-showboard?label=Stars)](https://github.com/hello8693DSZ/dsz-exam-showboard)
 [![forks](https://img.shields.io/github/forks/hello8693DSZ/dsz-exam-showboard?label=Forks)](https://github.com/hello8693DSZ/dsz-exam-showboard)
