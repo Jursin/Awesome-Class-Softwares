@@ -4,8 +4,6 @@
 
 </div>
 
-<div align="center">
-
 ## 目录
 
 ### [课表类](#-课表类)
@@ -34,8 +32,6 @@
 | [HomeworkBoard](#-HomeworkBoard) | `EnderWolf006` |
 | [StickyHomeworks](#-StickyHomeworks) | `HelloWRC` |
 | [DSZ考试看板](#-DSZ考试看板) | `hello8693DSZ` |
-
-</div>
 
 <div align="center">
 
