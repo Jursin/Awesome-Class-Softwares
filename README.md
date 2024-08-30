@@ -227,7 +227,7 @@ Ink Canvas for Class
 
 InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [Ink Canvas Artistry](https://github.com/InkCanvas/Ink-Canvas-Artistry)项目二次开发而来。该项目着重于优化原项目的 UI 设计，使其更便于课堂使用，同时也在积极开发新功能，修理原项目的不合理之处。
 
-[爱发电](https://afdian.net/a/dubi906w/)%EF%BD%9C[新网站](https://icc.bliemhax.com/)
+[爱发电](https://afdian.net/a/dubi906w/)｜[新网站](https://icc.bliemhax.com/)
 
 <img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/InkCanvasForClass/InkCanvasForClass](https://github.com/InkCanvasForClass/InkCanvasForClass) （更新状态：活跃）
 
