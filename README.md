@@ -222,10 +222,11 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 [爱发电](https://afdian.net/a/dubi906w/)｜[新网站](https://icc.bliemhax.com/)
 
 GitHub仓库：https://github.com/InkCanvasForClass/InkCanvasForClass （更新状态：活跃）
+
 Gitea仓库：https://gitea.bliemhax.com/kriastans/InkCanvasForClass （更新状态：活跃）
 
 > [!important]
-> **此项目仍在开发中，只会在发布正式发行版时提供Release**<br>
+> **此项目仍在开发中，只会在发布正式发行版时提供Release**
 > [QQ 群](https://qm.qq.com/q/ptrGkAcqMo)内有 ICC 比较稳定的版本，可在群文件中获取
 
 </div>
@@ -270,6 +271,7 @@ Gitea仓库：https://gitea.bliemhax.com/kriastans/InkCanvasForClass （更新�
 ***让屏幕演示变得简单，让教学授课变得高效！***
 
 <img src="https://github.com/Alan-CRL/Inkeys/blob/main/GithubRes/logo.png" width="16" height="16"><b> 官方网站</b>：<a herf="https://www.inkeys.top/">https://www.inkeys.top/</a>
+
 <img src="icons/bilibili.svg" width="16" height="16"><b> B站视频</b>: <a href="https://www.bilibili.com/video/BV1Tz421z72e/">BV1Tz421z72e</a>
 
 GitHub仓库：https://github.com/Alan-CRL/Inkeys （更新状态：暂时停更）
