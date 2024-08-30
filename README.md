@@ -4,9 +4,6 @@
 
 </div>
 
-> [!IMPORTANT]
-> **在使用任何软件之前，应仔细阅读其仓库中的 README 或其他形式的说明。**
-
 <div align="center">
 
 ## 课表类
@@ -243,12 +240,12 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 <img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/gitea.svg" width="16" height="16">Gitea仓库：[https://gitea.bliemhax.com/kriastans/InkCanvasForClass](https://gitea.bliemhax.com/kriastans/InkCanvasForClass) （更新状态：活跃）
 
+</div>
+
 > [!important]
 > **此项目仍在开发中，只会在发布正式发行版时提供Release**
 > 
 > **[QQ 群](https://qm.qq.com/q/ptrGkAcqMo)内有 ICC 比较稳定的版本，可在群文件中获取**
-
-</div>
 
 #### 基础功能
 - [X] 屏幕批注
@@ -376,14 +373,14 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 StickyHomeworks 是一款支持富文本的桌面作业贴工具。
 
+<img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/HelloWRC/StickyHomeworks](https://github.com/HelloWRC/StickyHomeworks) （更新状态：早期开发中）
+
+</div>
+
 > [!important]
 > **这个项目还在早期开发中**
 > 
 > **需要体验的可以在[QQ群｜ClassIsland](https://qm.qq.com/q/xNnPEuI8GQ)群文件中获取，文件来自@Plaxz.Fnardn编译。**
-
-<img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/HelloWRC/StickyHomeworks](https://github.com/HelloWRC/StickyHomeworks) （更新状态：早期开发中）
-
-</div>
 
 #### 功能
 - [X] 登记与修改作业
