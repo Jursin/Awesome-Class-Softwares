@@ -364,7 +364,7 @@ StickyHomeworks 是一款支持富文本的桌面作业贴工具。
 > [!important]
 > 这个项目还在早期开发中
 >
->需要体验的可以在[QQ群%EF%BD%9CClassIsland]()群文件中获取，文件来自@Plaxz.Fnardn编译。
+>需要体验的可以在[QQ群｜ClassIsland](https://qm.qq.com/q/TJEfGDCNeo)群文件中获取，文件来自@Plaxz.Fnardn编译。
 
 <img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/HelloWRC/StickyHomeworks](https://github.com/HelloWRC/StickyHomeworks) （更新状态：早期开发中）
 
