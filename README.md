@@ -12,8 +12,9 @@
 
 <div align="center">
 
-### <image src="https://github.com/ClassIsland/ClassIsland/blob/master/ClassIsland/Assets/AppLogo_AppLogo.svg" height="48"/>
-ClassIsland
+<image src="https://github.com/ClassIsland/ClassIsland/blob/master/ClassIsland/Assets/AppLogo_AppLogo.svg" height="48"/>
+
+### ClassIsland
 
 <!-- ![软件截图-主界面](https://github.com/ClassIsland/ClassIsland/assets/55006226/65e2bdba-be83-444c-b42f-b893aaace9c3) -->
 ![Banner](https://github.com/user-attachments/assets/a815dd7d-8343-4da5-aee4-3f754aa297e4)
@@ -29,7 +30,7 @@ ClassIsland
 
 ClassIsland 是一款适用于班级一体机的课程信息显示工具，支持显示当日课程等各种信息。
 
-[ClassIsland 网站](https://classisland.tech/)｜[ClassIsland 文档](https://docs.classisland.tech/zh-cn/latest/)
+[ClassIsland 网站](https://classisland.tech/)%EF%BD%9C[ClassIsland 文档](https://docs.classisland.tech/zh-cn/latest/)
 
 <img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/ClassIsland/ClassIsland](https://github.com/ClassIsland/ClassIsland) （更新状态：活跃）
 
@@ -227,7 +228,7 @@ Ink Canvas for Class
 
 InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [Ink Canvas Artistry](https://github.com/InkCanvas/Ink-Canvas-Artistry)项目二次开发而来。该项目着重于优化原项目的 UI 设计，使其更便于课堂使用，同时也在积极开发新功能，修理原项目的不合理之处。
 
-[爱发电](https://afdian.net/a/dubi906w/)｜[新网站](https://icc.bliemhax.com/)
+[爱发电](https://afdian.net/a/dubi906w/)%EF%BD%9C[新网站](https://icc.bliemhax.com/)
 
 <img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/InkCanvasForClass/InkCanvasForClass](https://github.com/InkCanvasForClass/InkCanvasForClass) （更新状态：活跃）
 
@@ -235,7 +236,6 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 > [!important]
 > **此项目仍在开发中，只会在发布正式发行版时提供Release**
->
 > [QQ 群](https://qm.qq.com/q/ptrGkAcqMo)内有 ICC 比较稳定的版本，可在群文件中获取
 
 </div>
@@ -365,7 +365,7 @@ StickyHomeworks 是一款支持富文本的桌面作业贴工具。
 > [!important]
 > 这个项目还在早期开发中
 >
->需要体验的可以在[QQ群｜ClassIsland](https://qm.qq.com/q/TJEfGDCNeo)群文件中获取，文件来自@Plaxz.Fnardn编译。
+>需要体验的可以在[QQ群%EF%BD%9CClassIsland]()群文件中获取，文件来自@Plaxz.Fnardn编译。
 
 <img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/HelloWRC/StickyHomeworks](https://github.com/HelloWRC/StickyHomeworks) （更新状态：早期开发中）
 
