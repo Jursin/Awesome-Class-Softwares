@@ -218,7 +218,6 @@ Ink Canvas for Class
 ![illustration](https://github.com/InkCanvasForClass/InkCanvasForClass/blob/master/icc-github-illustrations.png)
 ![toolbar](https://github.com/Jursin/Awesome-Class-Softwares/blob/main/Screenshots/InkCanvasForClass/toolbar.png)
 ![board](https://github.com/Jursin/Awesome-Class-Softwares/blob/main/Screenshots/InkCanvasForClass/board.png)
-![settings](https://github.com/Jursin/Awesome-Class-Softwares/blob/main/Screenshots/InkCanvasForClass/settings.png)
 
 [![stars](https://img.shields.io/github/stars/InkCanvasForClass/InkCanvasForClass?label=Stars)](https://github.com/InkCanvasForClass/InkCanvasForClass)
 [![forks](https://img.shields.io/github/forks/InkCanvasForClass/InkCanvasForClass?label=Forks)](https://github.com/InkCanvasForClass/InkCanvasForClass)
