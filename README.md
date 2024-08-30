@@ -31,7 +31,7 @@
 
 | 软件 | 开发者 |
 | - | - |
-| [EnderWolf006](#-EnderWolf006) | `EnderWolf006` |
+| [HomeworkBoard](#-HomeworkBoard) | `EnderWolf006` |
 | [StickyHomeworks](#-StickyHomeworks) | `HelloWRC` |
 | [DSZ考试看板](#-DSZ考试看板) | `hello8693DSZ` |
 
