@@ -20,7 +20,7 @@
 
 | 软件 | 开发者 |
 | - | - |
-| [Ink-Canvas](#ink-canvas) | [`WXRIW`](https://github.com/WXRIW) |
+| [Ink Canvas](#ink-canvas) | [`WXRIW`](https://github.com/WXRIW) |
 | [Ink Canvas Artistry](#ink-canvas-artistry) | [`InkCanvas`](https://github.com/InkCanvas) [`ChangSakura`](https://github.com/ChangSakura) |
 | [InkCanvasForClass](#inkcanvasforClass) | [`InkCanvasForClass`](https://github.com/InkCanvasForClass) [`Doubx690i`](https://github.com/kriastans) |
 | [智绘教Inkeys](#inkeys) | [`Alan-CRL`](https://github.com/Alan-CRL) |
