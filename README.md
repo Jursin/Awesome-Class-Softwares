@@ -457,7 +457,7 @@ https://github.com/hello8693DSZ/dsz-exam-showboard) （更新状态：早期开�
 
 <div align="center">
 
-<image src="https://github.com/clansty/ClassTools/blob/main/static/tray.png" height="48"/>
+<image src="icons/ClassTools.png" height="48"/>
 
 ### ClassTools
 
