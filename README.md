@@ -332,13 +332,13 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 <div align="center">
 
-<image src="https://inkore.net/wp-content/uploads/2024/01/Inkways_256.png" height="48"/>
+<image src="Screenshots/InkWays/Inkways_256.png" height="48"/>
 
 ### Inkways
 
-![editor](https://inkore.net/wp-content/uploads/2023/10/image_inkways_10.png)
-![board](https://inkore.net/wp-content/uploads/2023/10/image_inkways_6.png)
-![slide assistant](https://inkore.net/wp-content/uploads/2023/10/image_inkways_7.png)
+![editor](Screenshots/InkWays/image_inkways_10.png)
+![board](Screenshots/InkWays/image_inkways_6.png)
+![slide assistant](Screenshots/InkWays/image_inkways_7.png)
 
 ![Type](https://img.shields.io/badge/Type-Closed_Source-red)
 [![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C655979143-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/wzFUnRBF9C)
