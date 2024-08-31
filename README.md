@@ -302,7 +302,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 ### Inkways Classic
 
-![banner](Screenshots/Inkways/inkways_banner.png)
+![banner](Screenshots/InkWays/inkways_banner.png)
 ![editor](Screenshots/InkWays/image_inkways_10.png)
 ![board](Screenshots/InkWays/image_inkways_6.png)
 ![slide assistant](Screenshots/InkWays/image_inkways_7.png)
