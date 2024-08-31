@@ -12,33 +12,29 @@
 
 | 软件 | 开发者 |
 | - | - |
-| [ClassIsland](#ClassIsland) |  [`ClassIsland`](https://github.com/ClassIsland) [`HelloWRC`](https://github.com/HelloWRC) |
-| [ElectronClassSchedule](#ElectronClassSchedule) | [`EnderWolf006`](https://github.com/EnderWolf006) |
-| [Class-Widgets](#Class-Widgets) | [`RinLit-233-shiroko`](https://github.com/RinLit-233-shiroko) |
+| [ClassIsland](#classisland) |  [`ClassIsland`](https://github.com/ClassIsland) [`HelloWRC`](https://github.com/HelloWRC) |
+| [ElectronClassSchedule](#electronclassschedule) | [`EnderWolf006`](https://github.com/EnderWolf006) |
+| [Class-Widgets](#class-widgets) | [`RinLit-233-shiroko`](https://github.com/RinLit-233-shiroko) |
 
 ### [画板类](#画板类)
 
 | 软件 | 开发者 |
 | - | - |
-| [Ink-Canvas](#Ink-Canvas) | [`WXRIW`](https://github.com/WXRIW) |
-| [Ink Canvas Artistry](#Ink-Canvas-Artistry) | [`InkCanvas`](https://github.com/InkCanvas) [`ChangSakura`](https://github.com/ChangSakura) |
-| [InkCanvasForClass](#InkCanvasForClass) | [`InkCanvasForClass`](https://github.com/InkCanvasForClass) [`Doubx690i`](https://github.com/kriastans) |
-| [智绘教Inkeys](#Inkeys) | [`Alan-CRL`](https://github.com/Alan-CRL) |
-| [Inkways](#inkways-classic) | [`iNKORE Studios`](https://github.com/iNKORE-NET) |
+| [Ink-Canvas](#ink-canvas) | [`WXRIW`](https://github.com/WXRIW) |
+| [Ink Canvas Artistry](#ink-canvas-artistry) | [`InkCanvas`](https://github.com/InkCanvas) [`ChangSakura`](https://github.com/ChangSakura) |
+| [InkCanvasForClass](#inkcanvasforClass) | [`InkCanvasForClass`](https://github.com/InkCanvasForClass) [`Doubx690i`](https://github.com/kriastans) |
+| [智绘教Inkeys](#inkeys) | [`Alan-CRL`](https://github.com/Alan-CRL) |
+| [Inkways Classic](#inkways-classic) | [`iNKORE Studios`](https://github.com/iNKORE-NET) |
 
-### [桌面小工具](#桌面小工具)
-
-| 软件 | 开发者 |
-| - | - |
-| [ZongziTEK-Blackboard-Sticker](#ZongziTEK-Blackboard-Sticker) | [`STBBRD`](https://github.com/STBBRD) |
-
-### [看板类](#看板类)
+### [桌面小工具与看板类](#桌面小工具与看板类)
 
 | 软件 | 开发者 |
 | - | - |
-| [HomeworkBoard](#HomeworkBoard) | [`EnderWolf006`](https://github.com/EnderWolf006) |
-| [StickyHomeworks](#StickyHomeworks) | [`HelloWRC`](https://github.com/HelloWRC) |
-| [DSZ考试看板](#DSZ考试看板) | [`hello8693DSZ`](https://github.com/hello8693DSZ) |
+| [ZongziTEK-Blackboard-Sticker](#zongzitek-blackboard-sticker) | [`STBBRD`](https://github.com/STBBRD) |
+| [HomeworkBoard](#homeworkboard) | [`EnderWolf006`](https://github.com/EnderWolf006) |
+| [StickyHomeworks](#stickyhomeworks) | [`HelloWRC`](https://github.com/HelloWRC) |
+| [DSZ考试看板](#dsz考试看板) | [`hello8693DSZ`](https://github.com/hello8693DSZ) |
+| [ClassTools](#classtools) | [`clansty`](https://github.com/clansty) |
 
 </div>
 
@@ -119,7 +115,7 @@ ClassIsland 是一款适用于班级一体机的课程信息显示工具，支�
 
 <image src="https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/img%2FLogo.png" height="48"/>
 
-### Class-Widgets
+### Class Widgets
 
 ![preview](https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/img%2Fpreview.png)
 
@@ -153,7 +149,7 @@ ClassIsland 是一款适用于班级一体机的课程信息显示工具，支�
 
 <image src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Canvas%2FResources%2FInkCanvas.png" height="48"/>
 
-### Ink-Canvas
+### Ink Canvas
 
 ![screen](Screenshots/InkCanvas/screen.png)
 ![board](Screenshots/InkCanvas/board.png)
@@ -197,7 +193,7 @@ Ink Canvas 画板是一款轻量级画板软件，基于WPF/C#，其针对希沃
 
 <image src="https://github.com/ChangSakura/Ink-Canvas/blob/master/Images/Ink%20Canvas%20Artistry.png" height="48"/>
 
-### Ink-Canvas-Artistry
+### Ink Canvas Artistry
 
 ![Screenshot-1](https://github.com/ChangSakura/Ink-Canvas/blob/master/Images/Screenshot1.png)
 ![Screenshot-2](https://github.com/ChangSakura/Ink-Canvas/blob/master/Images/Screenshot2.png)
@@ -300,12 +296,12 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 <image src="Screenshots/InkWays/Inkways_256.png" height="48"/>
 
-### Inkways Classic
+### Inkways-Classic
 
-![banner](Screenshots/InkWays/inkways_banner.png)
-![editor](Screenshots/InkWays/image_inkways_10.png)
-![board](Screenshots/InkWays/image_inkways_6.png)
-![slide assistant](Screenshots/InkWays/image_inkways_7.png)
+![banner](Screenshots/Inkways/inkways_banner.png)
+![editor](Screenshots/Inkways/image_inkways_10.png)
+![board](Screenshots/Inkways/image_inkways_6.png)
+![slide assistant](Screenshots/Inkways/image_inkways_7.png)
 
 ![Type](https://img.shields.io/badge/Type-Closed_Source-green)
 [![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C655979143-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/wzFUnRBF9C)
@@ -333,7 +329,9 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 <div align="center">
 
-## 桌面小工具
+<div align="center">
+
+## 桌面小工具与看板类
 
 </div>
 
@@ -379,12 +377,6 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
   - 倒数日页面
   - 实况天气页面：显示当前天气及气温
   - 天气预报页面：显示未来哪几天会下雨
-
-<div align="center">
-
-## 看板类
-
-</div>
 
 <div align="center">
 
@@ -461,3 +453,35 @@ StickyHomeworks 是一款支持富文本的桌面作业贴工具。
 
 <img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/hello8693DSZ/dsz-exam-showboard](
 https://github.com/hello8693DSZ/dsz-exam-showboard) （更新状态：早期开发中）
+
+<image src="https://github.com/clansty/ClassTools/blob/main/static/tray.png" height="48"/>
+
+### ClassTools
+
+![壁纸主界面](https://github.com/clansty/ClassTools/blob/main/introduction/wallpaper.png)
+
+![作业看板](https://github.com/clansty/ClassTools/blob/main/introduction/views.png)
+
+[![stars](https://img.shields.io/github/stars/clansty/ClassTools?label=Stars)](https://github.com/clansty/ClassTools)
+[![forks](https://img.shields.io/github/forks/clansty/ClassTools?label=Forks)](https://github.com/clansty/ClassTools)
+[![Downloads](https://img.shields.io/github/downloads/clansty/ClassTools/total?style=social&label=下载量&logo=github)](https://github.com/clansty/ClassTools/releases/latest)
+[![Release](https://img.shields.io/github/v/release/clansty/ClassTools?style=flat-square&color=%233fb950&label=正式版)](https://github.com/clansty/ClassTools/releases/latest)
+
+该软件可以动态壁纸的方式呈现高考倒计时、作业、课程表、值日生等内容，并提供简单易用的设置界面。
+
+  [<img src="https://get.microsoft.com/images/zh-CN%20dark.svg" style="width: 200px;"/>](https://www.microsoft.com/store/apps/9PC000G9HGQ2)
+
+<img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/clansty/ClassTools](https://github.com/clansty/ClassTools)
+
+</div>
+
+#### 功能
+
+- 时钟显示
+- 高考倒计时
+- 实时天气
+- 作业布置
+- 独立作业看板
+- 标语展示
+- 值日生设置
+- 课程表展示
