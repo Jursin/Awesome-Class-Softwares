@@ -23,7 +23,7 @@
 | - | - |
 | [Ink Canvas](#Ink-Canvas) | `WXRIW` |
 | [Ink Canvas Artistry](#Ink-Canvas-Artistry) | `ChangSakura` |
-| [InkCanvasforClass](#InkCanvasforClass) | `InkCanvasforClass` `Doubx690i` |
+| [InkCanvasForClass](#InkCanvasForClass) | `InkCanvasForClass` `Doubx690i` |
 | [智绘教Inkeys](#智绘教Inkeys) | `Alan-CRL` |
 | [Inkways](#Inkways) | `iNKORE-NET` |
 
@@ -253,7 +253,7 @@ Ink Canvas 画板是一款轻量级画板软件，基于WPF/C#，其针对希沃
 
 <image src="https://github.com/InkCanvasForClass/InkCanvasForClass/blob/master/icc.png" height="48"/>
 
-### InkCanvasforClass
+### InkCanvasForClass
 
 ![illustration](https://github.com/InkCanvasForClass/InkCanvasForClass/blob/master/icc-github-illustrations.png)
 ![toolbar](https://github.com/Jursin/Awesome-Class-Softwares/blob/main/Screenshots/InkCanvasForClass/toolbar.png)
