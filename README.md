@@ -191,8 +191,8 @@ ClassIsland 是一款适用于班级一体机的课程信息显示工具，支�
 
 ### Ink-Canvas
 
-![screen](Screenshots\InkCanvas\screen.png)
-![board](Screenshots\InkCanvas\board.png)
+![screen](Screenshots/InkCanvas/screen.png)
+![board](Screenshots/InkCanvas/board.png)
 
 [![stars](https://img.shields.io/github/stars/WXRIW/Ink-Canvas?label=Stars)](https://github.com/WXRIW/Ink-Canvas)
 [![forks](https://img.shields.io/github/forks/WXRIW/Ink-Canvas?label=Forks)](https://github.com/WXRIW/Ink-Canvas)
@@ -434,9 +434,9 @@ StickyHomeworks 是一款支持富文本的桌面作业贴工具。
 
 ### DSZ考试看板
 
-![WelcomePage](Screenshots\DSZ-Exam-Showboard\WelcomePage.png)
+![WelcomePage](Screenshots/DSZ-Exam-Showboard/WelcomePage.png)
 
-![ExamPage](Screenshots\DSZ-Exam-Showboard\ExamPage.png)
+![ExamPage](Screenshots/DSZ-Exam-Showboard/ExamPage.png)
 
 [![stars](https://img.shields.io/github/stars/hello8693DSZ/dsz-exam-showboard?label=Stars)](https://github.com/hello8693DSZ/dsz-exam-showboard)
 [![forks](https://img.shields.io/github/forks/hello8693DSZ/dsz-exam-showboard?label=Forks)](https://github.com/hello8693DSZ/dsz-exam-showboard)
