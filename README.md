@@ -24,7 +24,7 @@
 | [Ink Canvas Artistry](#Ink-Canvas-Artistry) | [`InkCanvas`](https://github.com/InkCanvas) [`ChangSakura`](https://github.com/ChangSakura) |
 | [InkCanvasForClass](#InkCanvasForClass) | [`InkCanvasForClass`](https://github.com/InkCanvasForClass) [`Doubx690i`](https://github.com/kriastans) |
 | [智绘教Inkeys](#Inkeys) | [`Alan-CRL`](https://github.com/Alan-CRL) |
-| [Inkways](#Inkways) | [`iNKORE Studios`](https://github.com/iNKORE-NET) |
+| [Inkways](#inkways-classic) | [`iNKORE Studios`](https://github.com/iNKORE-NET) |
 
 ### [桌面小工具](#桌面小工具)
 
@@ -300,13 +300,14 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 <image src="Screenshots/InkWays/Inkways_256.png" height="48"/>
 
-### Inkways
+### Inkways Classic
 
-![editor](Screenshots/InkWays/image_inkways_10.png)
-![board](Screenshots/InkWays/image_inkways_6.png)
-![slide assistant](Screenshots/InkWays/image_inkways_7.png)
+![banner](Screenshots/Inkways/inkways_banner.png)
+![editor](Screenshots/Inkways/image_inkways_10.png)
+![board](Screenshots/Inkways/image_inkways_6.png)
+![slide assistant](Screenshots/Inkways/image_inkways_7.png)
 
-![Type](https://img.shields.io/badge/Type-Closed_Source-red)
+![Type](https://img.shields.io/badge/Type-Closed_Source-green)
 [![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C655979143-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/wzFUnRBF9C)
 [![QQ频道](https://img.shields.io/badge/-QQ%E9%A2%91%E9%81%93%EF%BD%9C1nkoreStudios-blue?style=flat&logo=TencentQQ)](https://pd.qq.com/s/g3o1pmidm)
 [![Telegram](https://img.shields.io/badge/-Telegram%EF%BD%9C@iNKORE_Studios-blue?style=flat&logo=Telegram)](https://t.me/iNKORE)
