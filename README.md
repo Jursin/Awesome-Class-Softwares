@@ -14,13 +14,13 @@
 | - | - |
 | [ClassIsland](#classisland) |  [`ClassIsland`](https://github.com/ClassIsland) [`HelloWRC`](https://github.com/HelloWRC) |
 | [ElectronClassSchedule](#electronclassschedule) | [`EnderWolf006`](https://github.com/EnderWolf006) |
-| [Class Widgets](#class-widgets) | [`RinLit-233-shiroko`](https://github.com/RinLit-233-shiroko) |
+| [Class-Widgets](#class-widgets) | [`RinLit-233-shiroko`](https://github.com/RinLit-233-shiroko) |
 
 ### [画板类](#画板类)
 
 | 软件 | 开发者 |
 | - | - |
-| [Ink Canvas](#ink-canvas) | [`WXRIW`](https://github.com/WXRIW) |
+| [Ink-Canvas](#ink-canvas) | [`WXRIW`](https://github.com/WXRIW) |
 | [Ink Canvas Artistry](#ink-canvas-artistry) | [`InkCanvas`](https://github.com/InkCanvas) [`ChangSakura`](https://github.com/ChangSakura) |
 | [InkCanvasForClass](#inkcanvasforClass) | [`InkCanvasForClass`](https://github.com/InkCanvasForClass) [`Doubx690i`](https://github.com/kriastans) |
 | [智绘教Inkeys](#inkeys) | [`Alan-CRL`](https://github.com/Alan-CRL) |
@@ -263,6 +263,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 - [ ] **板书库**，高效管理所有板书，课程自动分类，提供云端同步
 - [X] **自动收纳**，检测到教学软件启动时，自动隐藏 ICC 界面并收纳到屏幕侧边
 ……
+
 <div align="center">
 
 <image src="https://github.com/Alan-CRL/Inkeys/blob/main/GithubRes/logo.png" height="48"/>
@@ -326,8 +327,6 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 <img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/iNKORE-NET/Inkways](https://github.com/iNKORE-NET/Inkways)
 
 </div>
-
-<div align="center">
 
 <div align="center">
 
@@ -453,6 +452,10 @@ StickyHomeworks 是一款支持富文本的桌面作业贴工具。
 
 <img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/hello8693DSZ/dsz-exam-showboard](
 https://github.com/hello8693DSZ/dsz-exam-showboard) （更新状态：早期开发中）
+
+</div>
+
+<div align="center">
 
 <image src="https://github.com/clansty/ClassTools/blob/main/static/tray.png" height="48"/>
 
