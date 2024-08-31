@@ -295,7 +295,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 <div align="center">
 
-<image src="Screenshots/InkWays/Inkways_256.png" height="48"/>
+<image src="Screenshots/Inkways/Inkways_256.png" height="48"/>
 
 ### Inkways-Classic
 
