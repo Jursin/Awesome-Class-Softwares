@@ -1,6 +1,6 @@
 <div align="center">
 
-# Awesome Class Softwares 令人惊叹的班辅软件
+# Awesome Class Softwares 令人惊叹的班辅软件合集
 
 </div>
 
