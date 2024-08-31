@@ -191,8 +191,8 @@ ClassIsland 是一款适用于班级一体机的课程信息显示工具，支�
 
 ### Ink-Canvas
 
-![screen](https://github.com/Jursin/Awesome-Class-Softwares/blob/main/Screenshots%2FInkCanvas%2Fscreen.png)
-![board](https://github.com/Jursin/Awesome-Class-Softwares/blob/main/Screenshots%2FInkCanvas%2Fboard.png)
+![screen](Screenshots\InkCanvas\screen.png)
+![board](Screenshots\InkCanvas\board.png)
 
 [![stars](https://img.shields.io/github/stars/WXRIW/Ink-Canvas?label=Stars)](https://github.com/WXRIW/Ink-Canvas)
 [![forks](https://img.shields.io/github/forks/WXRIW/Ink-Canvas?label=Forks)](https://github.com/WXRIW/Ink-Canvas)
@@ -256,8 +256,8 @@ Ink Canvas 画板是一款轻量级画板软件，基于WPF/C#，其针对希沃
 ### Ink-Canvas-for-Class
 
 ![illustration](https://github.com/InkCanvasForClass/InkCanvasForClass/blob/master/icc-github-illustrations.png)
-![toolbar](https://github.com/Jursin/Awesome-Class-Softwares/blob/main/Screenshots/InkCanvasForClass/toolbar.png)
-![board](https://github.com/Jursin/Awesome-Class-Softwares/blob/main/Screenshots/InkCanvasForClass/board.png)
+![toolbar](Screenshots/InkCanvasForClass/toolbar.png)
+![board](Screenshots/InkCanvasForClass/board.png)
 
 [![stars](https://img.shields.io/github/stars/InkCanvasForClass/InkCanvasForClass?label=Stars)](https://github.com/InkCanvasForClass/InkCanvasForClass)
 [![forks](https://img.shields.io/github/forks/InkCanvasForClass/InkCanvasForClass?label=Forks)](https://github.com/InkCanvasForClass/InkCanvasForClass)
@@ -433,6 +433,10 @@ StickyHomeworks 是一款支持富文本的桌面作业贴工具。
 <image src="https://github.com/hello8693DSZ/dsz-exam-showboard/blob/master/resources/icon.png" height="48"/>
 
 ### DSZ考试看板
+
+![WelcomePage](Screenshots\DSZ-Exam-Showboard\WelcomePage.png)
+
+![ExamPage](Screenshots\DSZ-Exam-Showboard\ExamPage.png)
 
 [![stars](https://img.shields.io/github/stars/hello8693DSZ/dsz-exam-showboard?label=Stars)](https://github.com/hello8693DSZ/dsz-exam-showboard)
 [![forks](https://img.shields.io/github/forks/hello8693DSZ/dsz-exam-showboard?label=Forks)](https://github.com/hello8693DSZ/dsz-exam-showboard)
