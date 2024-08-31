@@ -12,28 +12,33 @@
 
 | 软件 | 开发者 |
 | - | - |
-| [ClassIsland](#ClassIsland) |  `ClassIsland` `HelloWRC` |
-| [ElectronClassSchedule](#ElectronClassSchedule) | `EnderWolf006` |
-| [ZongziTEK 黑板贴](#ZongziTEK-黑板贴) | `STBBRD` |
-| [Class Widgets](#Class-Widgets) | `RinLit-233-shiroko` |
+| [ClassIsland](#ClassIsland) |  [`ClassIsland`](https://github.com/ClassIsland) [`HelloWRC`](https://github.com/HelloWRC) |
+| [ElectronClassSchedule](#ElectronClassSchedule) | [`EnderWolf006`](https://github.com/EnderWolf006) |
+| [Class-Widgets](#Class-Widgets) | [`RinLit-233-shiroko`](https://github.com/RinLit-233-shiroko) |
 
 ### [画板类](#画板类)
 
 | 软件 | 开发者 |
 | - | - |
-| [Ink Canvas](#Ink-Canvas) | `WXRIW` |
-| [Ink Canvas Artistry](#Ink-Canvas-Artistry) | `ChangSakura` |
-| [InkCanvasForClass](#InkCanvasForClass) | `InkCanvasForClass` `Doubx690i` |
-| [智绘教Inkeys](#智绘教Inkeys) | `Alan-CRL` |
-| [Inkways](#Inkways) | `iNKORE-NET` |
+| [Ink-Canvas](#Ink-Canvas) | [`WXRIW`](https://github.com/WXRIW) |
+| [Ink Canvas Artistry](#Ink-Canvas-Artistry) | [`InkCanvas`](https://github.com/InkCanvas) [`ChangSakura`](https://github.com/ChangSakura) |
+| [InkCanvasForClass](#InkCanvasForClass) | [`InkCanvasForClass`](https://github.com/InkCanvasForClass) [`Doubx690i`](https://github.com/kriastans) |
+| [智绘教Inkeys](#Inkeys) | [`Alan-CRL`](https://github.com/Alan-CRL) |
+| [Inkways](#Inkways) | [`iNKORE Studios`](https://github.com/iNKORE-NET) |
+
+### [桌面小工具](#桌面小工具)
+
+| 软件 | 开发者 |
+| - | - |
+| [ZongziTEK-Blackboard-Sticker](#ZongziTEK-Blackboard-Sticker) | [`STBBRD`](https://github.com/STBBRD) |
 
 ### [看板类](#看板类)
 
 | 软件 | 开发者 |
 | - | - |
-| [HomeworkBoard](#HomeworkBoard) | `EnderWolf006` |
-| [StickyHomeworks](#StickyHomeworks) | `HelloWRC` |
-| [DSZ考试看板](#DSZ考试看板) | `hello8693DSZ` |
+| [HomeworkBoard](#HomeworkBoard) | [`EnderWolf006`](https://github.com/EnderWolf006) |
+| [StickyHomeworks](#StickyHomeworks) | [`HelloWRC`](https://github.com/HelloWRC) |
+| [DSZ考试看板](#DSZ考试看板) | [`hello8693DSZ`](https://github.com/hello8693DSZ) |
 
 </div>
 
@@ -112,47 +117,6 @@ ClassIsland 是一款适用于班级一体机的课程信息显示工具，支�
 
 <div align="center">
 
-<image src="https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/blob/master/ZongziTEK_Blackboard_Sticker%2F%E9%BB%91%E6%9D%BF%E8%B4%B4.png" height="48"/>
-
-### ZongziTEK-黑板贴
-
-![Screenshot](https://i.postimg.cc/PfC89pfQ/Light.png)
-
-[![stars](https://img.shields.io/github/stars/STBBRD/ZongziTEK-Blackboard-Sticker?label=Stars)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker)
-[![forks](https://img.shields.io/github/forks/STBBRD/ZongziTEK-Blackboard-Sticker?label=Forks)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker)
-[![Downloads](https://img.shields.io/github/downloads/STBBRD/ZongziTEK-Blackboard-Sticker/total?style=social&label=下载量&logo=github)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/releases/latest)
-[![Release](https://img.shields.io/github/v/release/STBBRD/ZongziTEK-Blackboard-Sticker?style=flat-square&color=%233fb950&label=正式版)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/releases/latest) 
-[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C1101582374-blue?style=flat&logo=TencentQQ)](https://jq.qq.com/?_wv=1027&k=epb9KDPe)
-[![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9CZongziTEK%E7%89%9B%E9%80%9A-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/472376649)
-
-用于一体机的桌面部件
-
-<img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker) （更新状态：活跃）
-
-</div>
-
-#### 功能
-- 小黑板
-  - 计算笔锋
-  - 墨迹自动保存，打开时自动读取
-  - 保存的墨迹文件可以使用 WXRIW 的 Ink Canvas 画板打开
-  - 可以锁定，防止误触
-- 启动台
-  - 快捷启动台，可以自行编辑里面的项目
-- 课程表
-  - 自动切换显示每天课程
-  - 上课前，提醒即将开始的课程名称及时间；下课时，提醒下一节课的名称及时间
-  - 带有课程表编辑器
-  - 以 json 格式存储
-- 信息看板
-  - 顶端显示：多个页面轮播，可自行选择
-  - 日期页面
-  - 倒数日页面
-  - 实况天气页面：显示当前天气及气温
-  - 天气预报页面：显示未来哪几天会下雨
-
-<div align="center">
-
 <image src="https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/img%2FLogo.png" height="48"/>
 
 ### Class-Widgets
@@ -201,6 +165,8 @@ ClassIsland 是一款适用于班级一体机的课程信息显示工具，支�
 [![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C891913576-blue?style=flat&logo=TencentQQ)](https://jq.qq.com/?_wv=1027&k=NvlM1Rgg)
 
 Ink Canvas 画板是一款轻量级画板软件，基于WPF/C#，其针对希沃一体机进行了特别优化，与预装的“希沃白板 5”软件相比，启动速度大幅度提升（提升5-10 倍），系统资源占用更小，使用体验更佳。
+
+[使用指南](https://github.com/WXRIW/Ink-Canvas/blob/master/Manual.md/ "说明和指南") | [常见问题](https://github.com/WXRIW/Ink-Canvas#FAQ "FAQ")
 
   [<img src="https://get.microsoft.com/images/zh-CN%20dark.svg" style="width: 200px;"/>](https://www.microsoft.com/store/apps/9NXJFDD97XJ3?cid=ghreadme)
 
@@ -305,7 +271,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 <image src="https://github.com/Alan-CRL/Inkeys/blob/main/GithubRes/logo.png" height="48"/>
 
-### 智绘教Inkeys
+### Inkeys
 
 ![cover](https://github.com/Alan-CRL/Inkeys/blob/main/GithubRes/cover2.png)
 
@@ -318,7 +284,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 [![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9Calan_CRL-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/1330313497)
 [![bilibili](https://img.shields.io/badge/-bilibili%E8%A7%86%E9%A2%91%EF%BD%9CBV1Tz421z72e-%23FB7299?style=flat&logo=bilibili)](https://www.bilibili.com/video/BV1Tz421z72e)
 
-原名 Intelligent-Drawing-Teaching（简称 IDT），Windows 屏幕批注工具，拥有批注高效和功能丰富等特点，适用于触摸设备和PC端。
+原名 Intelligent-Drawing-Teaching（简称 IDT），Windows 屏幕批注工具，拥有批注高效和功能丰富等特点，适用于触摸设备和PC端。
 
 ***让屏幕演示变得简单，让教学授课变得高效！***
 
@@ -343,8 +309,8 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 ![Type](https://img.shields.io/badge/Type-Closed_Source-red)
 [![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C655979143-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/wzFUnRBF9C)
 [![QQ频道](https://img.shields.io/badge/-QQ%E9%A2%91%E9%81%93%EF%BD%9C1nkoreStudios-blue?style=flat&logo=TencentQQ)](https://pd.qq.com/s/g3o1pmidm)
-[![Telegram](https://img.shields.io/badge/-Telegram%EF%BD%9C@iNKORE-blue?style=flat&logo=Telegram)](https://t.me/iNKORE)
-[![Facebook](https://img.shields.io/badge/-Facebook%EF%BD%9C@iNKORE.NET-blue?style=flat&logo=Facebook)](https://www.facebook.com/iNKORE.NET)
+[![Telegram](https://img.shields.io/badge/-Telegram%EF%BD%9C@iNKORE_Studios-blue?style=flat&logo=Telegram)](https://t.me/iNKORE)
+[![Facebook](https://img.shields.io/badge/-Facebook%EF%BD%9C@iNKORE_Studios-blue?style=flat&logo=Facebook)](https://www.facebook.com/iNKORE.NET)
 [![X](https://img.shields.io/badge/-X%EF%BD%9C@iNKORE_NET-black?style=flat&logo=X)](https://x.com/iNKORE_NET)
 [![Discord](https://img.shields.io/badge/-Discord%EF%BD%9Cm6NPNVk4bs-white?style=flat&logo=Discord)](https://discord.com/invite/m6NPNVk4bs)
 
@@ -358,11 +324,60 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 强大的墨迹分析和优化算法
 
-<img src="https://inkore.net/wp-content/uploads/2024/01/Inkore_Badge_256.png" width="16" height="16">官方网站：[https://inkore.net/zh-cn/products/inkways/](https://inkore.net/zh-cn/products/inkways/)
+<img src="icons/Inkore_Badge_256.png" width="16" height="16">官方网站：[https://inkore.net/zh-cn/products/inkways/](https://inkore.net/zh-cn/products/inkways/)
 
 <img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/iNKORE-NET/Inkways](https://github.com/iNKORE-NET/Inkways)
 
 </div>
+
+<div align="center">
+
+## 桌面小工具
+
+</div>
+
+<div align="center">
+
+<image src="https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/blob/master/ZongziTEK_Blackboard_Sticker%2F%E9%BB%91%E6%9D%BF%E8%B4%B4.png" height="48"/>
+
+### ZongziTEK-Blackboard-Sticker
+
+![Screenshot](https://i.postimg.cc/PfC89pfQ/Light.png)
+
+[![stars](https://img.shields.io/github/stars/STBBRD/ZongziTEK-Blackboard-Sticker?label=Stars)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker)
+[![forks](https://img.shields.io/github/forks/STBBRD/ZongziTEK-Blackboard-Sticker?label=Forks)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker)
+[![Downloads](https://img.shields.io/github/downloads/STBBRD/ZongziTEK-Blackboard-Sticker/total?style=social&label=下载量&logo=github)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/releases/latest)
+[![Release](https://img.shields.io/github/v/release/STBBRD/ZongziTEK-Blackboard-Sticker?style=flat-square&color=%233fb950&label=正式版)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/releases/latest) 
+[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C1101582374-blue?style=flat&logo=TencentQQ)](https://jq.qq.com/?_wv=1027&k=epb9KDPe)
+[![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9CZongziTEK%E7%89%9B%E9%80%9A-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/472376649)
+
+用于一体机的桌面部件
+
+<img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker) （更新状态：活跃）
+
+<img src="https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/blob/master/ZongziTEK_Blackboard_Sticker%2F%E9%BB%91%E6%9D%BF%E8%B4%B4.png" width="16" height="16">官方网站：[https://zztek.top/](https://zztek.top/)
+
+</div>
+
+#### 功能
+- 小黑板
+  - 计算笔锋
+  - 墨迹自动保存，打开时自动读取
+  - 保存的墨迹文件可以使用 WXRIW 的 Ink Canvas 画板打开
+  - 可以锁定，防止误触
+- 启动台
+  - 快捷启动台，可以自行编辑里面的项目
+- 课程表
+  - 自动切换显示每天课程
+  - 上课前，提醒即将开始的课程名称及时间；下课时，提醒下一节课的名称及时间
+  - 带有课程表编辑器
+  - 以 json 格式存储
+- 信息看板
+  - 顶端显示：多个页面轮播，可自行选择
+  - 日期页面
+  - 倒数日页面
+  - 实况天气页面：显示当前天气及气温
+  - 天气预报页面：显示未来哪几天会下雨
 
 <div align="center">
 
