@@ -471,6 +471,8 @@ StickyHomeworks 是一款支持富文本的桌面作业贴工具。
 [![forks](https://img.shields.io/github/forks/hello8693DSZ/dsz-exam-showboard?label=Forks)](https://github.com/hello8693DSZ/dsz-exam-showboard)
 [![Downloads](https://img.shields.io/github/downloads/hello8693DSZ/dsz-exam-showboard/total?style=social&label=下载量&logo=github)](https://github.com/hello8693DSZ/dsz-exam-showboard/releases/latest)
 [![Beta](https://img.shields.io/github/v/release/hello8693DSZ/dsz-exam-showboard?include_prereleases&style=flat-square&label=测试版)](https://github.com/hello8693DSZ/dsz-exam-showboard/releases/)
+[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C901670561-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/zDiEipHsaI)
+
 
 <img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/hello8693DSZ/dsz-exam-showboard](
 https://github.com/hello8693DSZ/dsz-exam-showboard) （更新状态：早期开发中）
