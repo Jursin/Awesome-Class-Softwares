@@ -58,6 +58,7 @@
 [![Downloads](https://img.shields.io/github/downloads/ClassIsland/ClassIsland/total?style=social&label=下载量&logo=github)](https://github.com/ClassIsland/ClassIsland/releases/latest)
 [![Release](https://img.shields.io/github/v/release/ClassIsland/ClassIsland?style=flat-square&color=%233fb950&label=正式版)](https://github.com/ClassIsland/ClassIsland/releases/latest) 
 [![Beta](https://img.shields.io/github/v/release/ClassIsland/ClassIsland?include_prereleases&style=flat-square&label=测试版)](https://github.com/ClassIsland/ClassIsland/releases/)
+[![Github Last Commit](https://img.shields.io/github/last-commit/ClassIsland/ClassIsland)](https://github.com/ClassIsland/ClassIsland/commits/master)
 [![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C958840932-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/4NsDQKiAuQ)
 [![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9CHelloWRC_dev-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/355897687)
 [![bilibili](https://img.shields.io/badge/-bilibili%E8%A7%86%E9%A2%91%EF%BD%9CBV1EEsNeYEc9-%23FB7299?style=flat&logo=bilibili)](https://www.bilibili.com/video/BV1EEsNeYEc9)
@@ -93,6 +94,7 @@ ClassIsland 是一款适用于班级一体机的课程信息显示工具，支�
 [![forks](https://img.shields.io/github/forks/EnderWolf006/ElectronClassSchedule?label=Forks)](https://github.com/EnderWolf006/ElectronClassSchedule)
 [![Downloads](https://img.shields.io/github/downloads/EnderWolf006/ElectronClassSchedule/total?style=social&label=下载量&logo=github)](https://github.com/EnderWolf006/ElectronClassSchedule/releases/latest)
 [![Release](https://img.shields.io/github/v/release/EnderWolf006/ElectronClassSchedule?style=flat-square&color=%233fb950&label=正式版)](https://github.com/EnderWolf006/ElectronClassSchedule/releases/latest) 
+[![Github Last Commit](https://img.shields.io/github/last-commit/EnderWolf006/ElectronClassSchedule)](https://github.com/EnderWolf006/ElectronClassSchedule/commits/main)
 [![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C914887202-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/cgi-bin/qm/qr?k=SL4_VQ9Zmpch-64RbYhkKbTZ5cNjIZ-N&jump_from=webapi&authKey=kxhiNZcQZwoSC/85e3dPxUsL+kpaLIBmxbrcfRLjSJeH35o0D0a/tHBVYI1as5p1)
 [![Telegram](https://img.shields.io/badge/-Telegram%EF%BD%9C@%E7%94%B5%E5%AD%90%E8%AF%BE%E8%A1%A8%E4%BA%A4%E6%B5%81%E7%BE%A4ElectronClassSchedule-blue?style=flat&logo=Telegram)](https://t.me/ECSchedule)
 [![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9CEnder_Wolf-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/3494364340816031)
@@ -102,7 +104,7 @@ ClassIsland 是一款适用于班级一体机的课程信息显示工具，支�
 
 [使用说明](https://github.com/EnderWolf006/ElectronClassSchedule?tab=readme-ov-file#%E9%A3%9F%E7%94%A8%E8%AF%B4%E6%98%8E)
 
-<img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/EnderWolf006/ElectronClassSchedule](https://github.com/EnderWolf006/ElectronClassSchedule) （更新状态：活跃）
+<img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/EnderWolf006/ElectronClassSchedule](https://github.com/EnderWolf006/ElectronClassSchedule) （更新状态：较不活跃）
 
 </div>
 
@@ -125,6 +127,7 @@ ClassIsland 是一款适用于班级一体机的课程信息显示工具，支�
 [![forks](https://img.shields.io/github/forks/RinLit-233-shiroko/Class-Widgets?label=Forks)](https://github.com/RinLit-233-shiroko/Class-Widgets)
 [![Downloads](https://img.shields.io/github/downloads/RinLit-233-shiroko/Class-Widgets/total?style=social&label=下载量&logo=github)](https://github.com/RinLit-233-shiroko/Class-Widgets/releases/latest)
 [![Release](https://img.shields.io/github/v/release/RinLit-233-shiroko/Class-Widgets?style=flat-square&color=%233fb950&label=正式版)](https://github.com/RinLit-233-shiroko/Class-Widgets/releases/latest) 
+[![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/Class-Widgets)](https://github.com/RinLit-233-shiroko/Class-Widgets/commits/main/)
 [![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9CRinLit_233OuO-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/569522843)
 [![bilibili](https://img.shields.io/badge/-bilibili%E8%A7%86%E9%A2%91%EF%BD%9CBV1xwW9eyEGu-%23FB7299?style=flat&logo=bilibili)](https://www.bilibili.com/video/BV1xwW9eyEGu)
 
@@ -160,6 +163,7 @@ ClassIsland 是一款适用于班级一体机的课程信息显示工具，支�
 [![forks](https://img.shields.io/github/forks/WXRIW/Ink-Canvas?label=Forks)](https://github.com/WXRIW/Ink-Canvas)
 [![Downloads](https://img.shields.io/github/downloads/WXRIW/Ink-Canvas/total?style=social&label=下载量&logo=github)](https://github.com/WXRIW/Ink-Canvas/releases/latest)
 [![Release](https://img.shields.io/github/v/release/WXRIW/Ink-Canvas?style=flat-square&color=%233fb950&label=正式版)](https://github.com/WXRIW/Ink-Canvas/releases/latest)
+[![Github Last Commit](https://img.shields.io/github/last-commit/WXRIW/Ink-Canvas)](https://github.com/WXRIW/Ink-Canvas/commits/master/)
 [![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C891913576-blue?style=flat&logo=TencentQQ)](https://jq.qq.com/?_wv=1027&k=NvlM1Rgg)
 
 Ink Canvas 画板是一款轻量级画板软件，基于WPF/C#，其针对希沃一体机进行了特别优化，与预装的“希沃白板 5”软件相比，启动速度大幅度提升（提升5-10 倍），系统资源占用更小，使用体验更佳。
@@ -205,6 +209,7 @@ Ink Canvas 画板是一款轻量级画板软件，基于WPF/C#，其针对希沃
 [![forks](https://img.shields.io/github/forks/ChangSakura/Ink-Canvas?label=Forks)](https://github.com/ChangSakura/Ink-Canvas)
 [![Downloads](https://img.shields.io/github/downloads/ChangSakura/Ink-Canvas/total?style=social&label=下载量&logo=github)](https://github.com/ChangSakura/Ink-Canvas/releases/latest)
 [![Release](https://img.shields.io/github/v/release/ChangSakura/Ink-Canvas?style=flat-square&color=%233fb950&label=正式版)](https://github.com/ChangSakura/Ink-Canvas/releases/latest)
+[![Github Last Commit](https://img.shields.io/github/last-commit/ChangSakura/Ink-Canvas)](https://github.com/ChangSakura/Ink-Canvas/commits/master)
 [![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C617707731-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/AC777tzmEw)
 
 基于[Ink Canvas](https://github.com/WXRIW/Ink-Canvas)二次开发，优化了界面UI，是一款好用的屏幕批注/板书/PPT批注工具。
@@ -228,6 +233,7 @@ Ink Canvas 画板是一款轻量级画板软件，基于WPF/C#，其针对希沃
 [![stars](https://img.shields.io/github/stars/InkCanvasForClass/InkCanvasForClass?label=Stars)](https://github.com/InkCanvasForClass/InkCanvasForClass)
 [![forks](https://img.shields.io/github/forks/InkCanvasForClass/InkCanvasForClass?label=Forks)](https://github.com/InkCanvasForClass/InkCanvasForClass)
 ![Gitea Last Commit](https://img.shields.io/gitea/last-commit/kriastans/InkCanvasForClass?gitea_url=https%3A%2F%2Fgitea.bliemhax.com%2F)
+[![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvasForClass/InkCanvasForClass)](https://github.com/InkCanvasForClass/InkCanvasForClass/commits/master)
 [![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C20825759306-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/ptrGkAcqMo)
 [![Telegram](https://img.shields.io/badge/-Telegram%EF%BD%9C@InkCanvasForClass-blue?style=flat&logo=Telegram)](https://t.me/InkCanvasForClass)
 
@@ -281,6 +287,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 [![forks](https://img.shields.io/github/forks/Alan-CRL/Inkeys?label=Forks)](https://github.com/Alan-CRL/Inkeys)
 [![Downloads](https://img.shields.io/github/downloads/Alan-CRL/Inkeys/total?style=social&label=下载量&logo=github)](https://github.com/Alan-CRL/Inkeys/releases/latest)
 [![Release](https://img.shields.io/github/v/release/Alan-CRL/Inkeys?style=flat-square&color=%233fb950&label=正式版)](https://github.com/Alan-CRL/Inkeys/releases/latest)
+[![Github Last Commit](https://img.shields.io/github/last-commit/Alan-CRL/Inkeys)](https://github.com/Alan-CRL/Inkeys/commits/main)
 [![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C618720802-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/iEDzSL0Wn)
 [![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9Calan_CRL-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/1330313497)
 [![bilibili](https://img.shields.io/badge/-bilibili%E8%A7%86%E9%A2%91%EF%BD%9CBV1Tz421z72e-%23FB7299?style=flat&logo=bilibili)](https://www.bilibili.com/video/BV1Tz421z72e)
@@ -301,7 +308,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 <image src="Screenshots/Inkways/Inkways_256.png" height="48"/>
 
-### Inkways-Classic
+### Inkways Classic
 
 ![banner](Screenshots/Inkways/inkways_banner.png)
 ![editor](Screenshots/Inkways/image_inkways_10.png)
@@ -350,6 +357,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 [![forks](https://img.shields.io/github/forks/STBBRD/ZongziTEK-Blackboard-Sticker?label=Forks)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker)
 [![Downloads](https://img.shields.io/github/downloads/STBBRD/ZongziTEK-Blackboard-Sticker/total?style=social&label=下载量&logo=github)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/releases/latest)
 [![Release](https://img.shields.io/github/v/release/STBBRD/ZongziTEK-Blackboard-Sticker?style=flat-square&color=%233fb950&label=正式版)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/releases/latest) 
+[![Github Last Commit](https://img.shields.io/github/last-commit/STBBRD/ZongziTEK-Blackboard-Sticker)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/commits/master)
 [![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C1101582374-blue?style=flat&logo=TencentQQ)](https://jq.qq.com/?_wv=1027&k=epb9KDPe)
 [![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9CZongziTEK%E7%89%9B%E9%80%9A-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/472376649)
 
@@ -393,6 +401,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 [![forks](https://img.shields.io/github/forks/EnderWolf006/HomeworkBoard?label=Forks)](https://github.com/EnderWolf006/HomeworkBoard)
 [![Downloads](https://img.shields.io/github/downloads/EnderWolf006/HomeworkBoard/total?style=social&label=下载量&logo=github)](https://github.com/EnderWolf006/HomeworkBoard/releases/latest)
 [![Release](https://img.shields.io/github/v/release/EnderWolf006/HomeworkBoard?style=flat-square&color=%233fb950&label=正式版)](https://github.com/EnderWolf006/HomeworkBoard/releases/latest)
+[![Github Last Commit](https://img.shields.io/github/last-commit/EnderWolf006/HomeworkBoard)](https://github.com/EnderWolf006/HomeworkBoard/commits/main)
 [![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9CEnder_Wolf-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/3494364340816031)
 
 支持云同步的作业展示板
@@ -431,6 +440,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 [![stars](https://img.shields.io/github/stars/HelloWRC/StickyHomeworks?label=Stars)](https://github.com/HelloWRC/StickyHomeworks)
 [![forks](https://img.shields.io/github/forks/HelloWRC/StickyHomeworks?label=Forks)](https://github.com/HelloWRC/StickyHomeworks)
+[![Github Last Commit](https://img.shields.io/github/last-commit/HelloWRC/StickyHomeworks)](https://github.com/HelloWRC/StickyHomeworks/commits/master)
 [![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9CHelloWRC_dev-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/355897687)
 
 StickyHomeworks 是一款支持富文本的桌面作业贴工具。
@@ -470,6 +480,7 @@ StickyHomeworks 是一款支持富文本的桌面作业贴工具。
 [![forks](https://img.shields.io/github/forks/hello8693DSZ/dsz-exam-showboard?label=Forks)](https://github.com/hello8693DSZ/dsz-exam-showboard)
 [![Downloads](https://img.shields.io/github/downloads/hello8693DSZ/dsz-exam-showboard/total?style=social&label=下载量&logo=github)](https://github.com/hello8693DSZ/dsz-exam-showboard/releases/latest)
 [![Beta](https://img.shields.io/github/v/release/hello8693DSZ/dsz-exam-showboard?include_prereleases&style=flat-square&label=测试版)](https://github.com/hello8693DSZ/dsz-exam-showboard/releases/)
+[![Github Last Commit](https://img.shields.io/github/last-commit/hello8693DSZ/dsz-exam-showboard)](https://github.com/hello8693DSZ/dsz-exam-showboard/commits/master)
 [![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C901670561-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/zDiEipHsaI)
 
 一款显示考试时间与详细信息的看板类软件
@@ -488,13 +499,13 @@ https://github.com/hello8693DSZ/dsz-exam-showboard) （更新状态：早期开�
 ### ClassTools
 
 ![壁纸主界面](https://github.com/clansty/ClassTools/blob/main/introduction/wallpaper.png)
-
 ![作业看板](https://github.com/clansty/ClassTools/blob/main/introduction/views.png)
 
 [![stars](https://img.shields.io/github/stars/clansty/ClassTools?label=Stars)](https://github.com/clansty/ClassTools)
 [![forks](https://img.shields.io/github/forks/clansty/ClassTools?label=Forks)](https://github.com/clansty/ClassTools)
 [![Downloads](https://img.shields.io/github/downloads/clansty/ClassTools/total?style=social&label=下载量&logo=github)](https://github.com/clansty/ClassTools/releases/latest)
 [![Release](https://img.shields.io/github/v/release/clansty/ClassTools?style=flat-square&color=%233fb950&label=正式版)](https://github.com/clansty/ClassTools/releases/latest)
+[![Github Last Commit](https://img.shields.io/github/last-commit/clansty/ClassTools)](https://github.com/clansty/ClassTools/commits/main)
 
 该软件可以动态壁纸的方式呈现高考倒计时、作业、课程表、值日生等内容，并提供简单易用的设置界面。
 
