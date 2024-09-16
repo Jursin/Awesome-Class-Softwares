@@ -377,6 +377,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 [![Github Last Commit](https://img.shields.io/github/last-commit/STBBRD/ZongziTEK-Blackboard-Sticker)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/commits/master)
 [![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C1101582374-blue?style=flat&logo=TencentQQ)](https://jq.qq.com/?_wv=1027&k=epb9KDPe)
 [![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9CZongziTEK%E7%89%9B%E9%80%9A-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/472376649)
+[![bilibili](https://img.shields.io/badge/-bilibili%E8%A7%86%E9%A2%91%EF%BD%9CBV1Lz4UeREEW-%23FB7299?style=flat&logo=bilibili)](https://www.bilibili.com/video/BV1Lz4UeREEW)
 
 用于一体机的桌面部件
 
