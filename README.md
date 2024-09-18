@@ -66,14 +66,14 @@
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHelloWRC%2FClassIsland.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHelloWRC%2FClassIsland?ref=badge_shield&style=square) 
 [![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C958840932-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/4NsDQKiAuQ)
 [![QQ频道](https://img.shields.io/badge/-QQ%E9%A2%91%E9%81%93%EF%BD%9Cclassisland-blue?style=flat&logo=TencentQQ)](https://pd.qq.com/s/10sd1flp0)
-[![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9CHelloWRC_dev-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/355897687)
+[![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9CHelloWRC__dev-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/355897687)
 [![bilibili](https://img.shields.io/badge/-bilibili%E8%A7%86%E9%A2%91%EF%BD%9CBV1EEsNeYEc9-%23FB7299?style=flat&logo=bilibili)](https://www.bilibili.com/video/BV1EEsNeYEc9)
 
 ClassIsland 是一款适用于班级一体机的课程信息显示工具，支持显示当日课程等各种信息。
 
 [ClassIsland 网站](https://classisland.tech/)｜[ClassIsland 文档](https://docs.classisland.tech/zh-cn/latest/)
 
-<img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/ClassIsland/ClassIsland](https://github.com/ClassIsland/ClassIsland) （更新状态：非常活跃）
+<img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/ClassIsland/ClassIsland](https://github.com/ClassIsland/ClassIsland) （状态：非常活跃）
 
 </div>
 
@@ -107,14 +107,14 @@ ClassIsland 是一款适用于班级一体机的课程信息显示工具，支�
 [![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/EnderWolf006/ElectronClassSchedule/blob/main/LICENSE)
 [![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C914887202-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/cgi-bin/qm/qr?k=SL4_VQ9Zmpch-64RbYhkKbTZ5cNjIZ-N&jump_from=webapi&authKey=kxhiNZcQZwoSC/85e3dPxUsL+kpaLIBmxbrcfRLjSJeH35o0D0a/tHBVYI1as5p1)
 [![Telegram](https://img.shields.io/badge/-Telegram%EF%BD%9C@%E7%94%B5%E5%AD%90%E8%AF%BE%E8%A1%A8%E4%BA%A4%E6%B5%81%E7%BE%A4ElectronClassSchedule-blue?style=flat&logo=Telegram)](https://t.me/ECSchedule)
-[![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9CEnder_Wolf-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/3494364340816031)
+[![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9CEnder__Wolf-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/3494364340816031)
 [![bilibili](https://img.shields.io/badge/-bilibili%E8%A7%86%E9%A2%91%EF%BD%9CBV1Wm411k7n8-%23FB7299?style=flat&logo=bilibili)](https://www.bilibili.com/video/BV1Wm411k7n8)
 
 一款电子课程表软件
 
 [使用说明](https://github.com/EnderWolf006/ElectronClassSchedule?tab=readme-ov-file#%E9%A3%9F%E7%94%A8%E8%AF%B4%E6%98%8E)
 
-<img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/EnderWolf006/ElectronClassSchedule](https://github.com/EnderWolf006/ElectronClassSchedule) （更新状态：较不活跃）
+<img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/EnderWolf006/ElectronClassSchedule](https://github.com/EnderWolf006/ElectronClassSchedule) （状态：较不活跃）
 
 </div>
 
@@ -142,12 +142,12 @@ ClassIsland 是一款适用于班级一体机的课程信息显示工具，支�
 [![Release](https://img.shields.io/github/v/release/RinLit-233-shiroko/Class-Widgets?style=social-square&color=%233fb950&label=正式版)](https://github.com/RinLit-233-shiroko/Class-Widgets/releases/latest) 
 [![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/Class-Widgets)](https://github.com/RinLit-233-shiroko/Class-Widgets/commits/main/)
 [![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/LICENSE)
-[![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9CRinLit_233OuO-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/569522843)
+[![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9CRinLit__233OuO-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/569522843)
 [![bilibili](https://img.shields.io/badge/-bilibili%E8%A7%86%E9%A2%91%EF%BD%9CBV1xwW9eyEGu-%23FB7299?style=flat&logo=bilibili)](https://www.bilibili.com/video/BV1xwW9eyEGu)
 
 一款桌面课表软件
 
-<img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/RinLit-233-shiroko/Class-Widgets](https://github.com/RinLit-233-shiroko/Class-Widgets) （更新状态：活跃）
+<img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/RinLit-233-shiroko/Class-Widgets](https://github.com/RinLit-233-shiroko/Class-Widgets) （状态：活跃）
 
 </div>
 
@@ -190,7 +190,7 @@ Ink Canvas 画板是一款轻量级画板软件，基于WPF/C#，其针对希沃
 
   [<img src="https://get.microsoft.com/images/zh-CN%20dark.svg" style="width: 200px;"/>](https://www.microsoft.com/store/apps/9NXJFDD97XJ3?cid=ghreadme)
 
-<img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/WXRIW/Ink-Canvas](https://github.com/WXRIW/Ink-Canvas) （更新状态：较不活跃）
+<img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/WXRIW/Ink-Canvas](https://github.com/WXRIW/Ink-Canvas) （状态：较不活跃）
 
 </div>
 
@@ -238,7 +238,7 @@ Ink Canvas 画板是一款轻量级画板软件，基于WPF/C#，其针对希沃
 
 [常见问题](https://github.com/InkCanvas/Ink-Canvas-Artistry?tab=readme-ov-file#-faq)
 
-<img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/ChangSakura/Ink-Canvas](https://github.com/ChangSakura/Ink-Canvas) （更新状态：较不活跃）
+<img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/ChangSakura/Ink-Canvas](https://github.com/ChangSakura/Ink-Canvas) （状态：较不活跃）
 
 </div>
 
@@ -266,9 +266,9 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 <img src="https://static.afdiancdn.com/static/img/logo/logo.png" width="16" height="16">[爱发电](https://afdian.net/a/dubi906w/)｜[新网站](https://icc.bliemhax.com/)｜[常见问题](https://github.com/InkCanvasForClass/InkCanvasForClass?tab=readme-ov-file#faq)
 
-<img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/InkCanvasForClass/InkCanvasForClass](https://github.com/InkCanvasForClass/InkCanvasForClass) （更新状态：🗃️已存档·只读）
+<img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/InkCanvasForClass/InkCanvasForClass](https://github.com/InkCanvasForClass/InkCanvasForClass) （状态：🗃️暂时存档·只读）
 
-<img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/gitea.svg" width="16" height="16">Gitea仓库：[https://gitea.bliemhax.com/kriastans/InkCanvasForClass](https://gitea.bliemhax.com/kriastans/InkCanvasForClass) （更新状态：🗃️已存档·只读）
+<img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/gitea.svg" width="16" height="16">Gitea仓库：[https://gitea.bliemhax.com/kriastans/InkCanvasForClass](https://gitea.bliemhax.com/kriastans/InkCanvasForClass) （状态：🗃️暂时存档·只读）
 
 </div>
 
@@ -326,7 +326,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 [![Github Last Commit](https://img.shields.io/github/last-commit/Alan-CRL/Inkeys)](https://github.com/Alan-CRL/Inkeys/commits/main)
 [![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/Alan-CRL/Inkeys/blob/main/LICENSE)
 [![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C618720802-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/iEDzSL0Wn)
-[![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9Calan_CRL-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/1330313497)
+[![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9Calan--CRL-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/1330313497)
 [![bilibili](https://img.shields.io/badge/-bilibili%E8%A7%86%E9%A2%91%EF%BD%9CBV1Tz421z72e-%23FB7299?style=flat&logo=bilibili)](https://www.bilibili.com/video/BV1Tz421z72e)
 
 原名 Intelligent-Drawing-Teaching（简称 IDT），Windows 屏幕批注工具，拥有批注高效和功能丰富等特点，适用于触摸设备和PC端。
@@ -335,7 +335,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 <img src="https://github.com/Alan-CRL/Inkeys/blob/main/GithubRes/logo.png" width="16" height="16">官方网站：[https://www.inkeys.top/](https://www.inkeys.top/)
 
-<img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/Alan-CRL/Inkeys](https://github.com/Alan-CRL/Inkeys) （更新状态：暂时停更）
+<img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/Alan-CRL/Inkeys](https://github.com/Alan-CRL/Inkeys) （状态：暂时停更）
 
 ***(由于开发者本人原因，即日起至 2024.11 智绘教将临时停止更新)***
 
@@ -433,7 +433,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 用于一体机的桌面部件
 
-<img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker) （更新状态：较不活跃）
+<img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker) （状态：较不活跃）
 
 <img src="https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/blob/master/ZongziTEK_Blackboard_Sticker%2F%E9%BB%91%E6%9D%BF%E8%B4%B4.png" width="16" height="16">官方网站：[https://zztek.top/](https://zztek.top/)
 
@@ -481,7 +481,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 [使用说明](https://github.com/EnderWolf006/HomeworkBoard?tab=readme-ov-file#%E9%A3%9F%E7%94%A8%E8%AF%B4%E6%98%8E)
 
-<img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/EnderWolf006/HomeworkBoard](https://github.com/EnderWolf006/HomeworkBoard) （更新状态：较不活跃）
+<img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/EnderWolf006/HomeworkBoard](https://github.com/EnderWolf006/HomeworkBoard) （状态：较不活跃）
 
 </div>
 
@@ -521,7 +521,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 StickyHomeworks 是一款支持富文本的桌面作业贴工具。
 
-<img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/HelloWRC/StickyHomeworks](https://github.com/HelloWRC/StickyHomeworks) （更新状态：早期开发中）
+<img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/HelloWRC/StickyHomeworks](https://github.com/HelloWRC/StickyHomeworks) （状态：早期开发中）
 
 </div>
 
@@ -566,7 +566,7 @@ StickyHomeworks 是一款支持富文本的桌面作业贴工具。
 下载 [Realeases](https://github.com/hello8693DSZ/dsz-exam-showboard/releases) | [Actions](https://github.com/hello8693DSZ/dsz-exam-showboard/actions)
 
 <img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/hello8693DSZ/dsz-exam-showboard](
-https://github.com/hello8693DSZ/dsz-exam-showboard) （更新状态：早期开发中）
+https://github.com/hello8693DSZ/dsz-exam-showboard) （状态：早期开发中）
 
 </div>
 
@@ -605,7 +605,7 @@ https://github.com/hello8693DSZ/dsz-exam-showboard) （更新状态：早期开�
 
   [<img src="https://get.microsoft.com/images/zh-CN%20dark.svg" style="width: 200px;"/>](https://www.microsoft.com/store/apps/9PC000G9HGQ2)
 
-<img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/clansty/ClassTools](https://github.com/clansty/ClassTools) （更新状态：长时间未更新）
+<img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/clansty/ClassTools](https://github.com/clansty/ClassTools) （状态：长时间未更新）
 
 </div>
 
