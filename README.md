@@ -268,14 +268,14 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 <img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/InkCanvasForClass/InkCanvasForClass](https://github.com/InkCanvasForClass/InkCanvasForClass) （状态：🗃️暂时存档·只读）
 
-<img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/gitea.svg" width="16" height="16">Gitea仓库：[https://gitea.bliemhax.com/kriastans/InkCanvasForClass](https://gitea.bliemhax.com/kriastans/InkCanvasForClass) （状态：🗃️暂时存档·只读）
+<img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/gitea.svg" width="16" height="16">Gitea仓库：[https://gitea.bliemhax.com/kriastans/InkCanvasForClass](https://gitea.bliemhax.com/kriastans/InkCanvasForClass) （状态：活跃）
 
 </div>
 
 > [!important]
 > **此项目仍在开发中，只会在发布正式发行版时提供Release**
 > 
-> **[QQ 群](https://qm.qq.com/q/ptrGkAcqMo)内有 ICC 比较稳定的版本，可在群文件中获取**
+> **[`QQ 群`](https://qm.qq.com/q/EcOQryBQNW)内有 ICC 比较稳定的版本，可在群文件中获取**
 
 #### 基础功能
 - 屏幕批注
@@ -528,7 +528,7 @@ StickyHomeworks 是一款支持富文本的桌面作业贴工具。
 > [!important]
 > **这个项目还在早期开发中**
 > 
-> **需要体验的可以在[QQ群｜ClassIsland](https://qm.qq.com/q/xNnPEuI8GQ)群文件中获取，文件来自@Plaxz.Fnardn编译。**
+> **需要体验的可以在[`QQ群｜ClassIsland`](https://qm.qq.com/q/xNnPEuI8GQ)群文件中获取，文件来自@Plaxz.Fnardn编译。**
 
 #### 功能
 - [X] 登记与修改作业
