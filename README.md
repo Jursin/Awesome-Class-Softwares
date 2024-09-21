@@ -71,22 +71,32 @@
 
 ClassIsland 是一款适用于班级一体机的课程信息显示工具，支持显示当日课程等各种信息。
 
-[ClassIsland 网站](https://classisland.tech/)｜[ClassIsland 文档](https://docs.classisland.tech/zh-cn/latest/)
+[ClassIsland 网站](https://classisland.tech/)｜[ClassIsland 文档](https://docs.classisland.tech)
 
 <img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/ClassIsland/ClassIsland](https://github.com/ClassIsland/ClassIsland) （状态：非常活跃）
 
 </div>
 
 #### 功能
-- 当日课程显示
-- 上、下课提醒，天气、预警提醒
-- 档案管理（课表、时间表、科目）
-  - 直观的编辑工具，从Excel或其他软件导入
-  - 多周轮换，临时换课，临时启用课表
-- 组件化设计，可自由组合显示内容
+- [主界面](https://docs.classisland.tech/app/basic.html#%E4%B8%BB%E7%95%8C%E9%9D%A2)
+  - 显示各[组件](https://docs.classisland.tech/app/basic.html#%E7%BB%84%E4%BB%B6)信息，如当天课表、课程信息
+- [提醒](https://docs.classisland.tech/app/notifications.html)
+  - 支持[`上下课提醒`、`放学提醒`、`天气/预警提醒`](https://docs.classisland.tech/app/notifications.html#%E6%8F%90%E9%86%92%E8%AE%BE%E7%BD%AE)，可设置提醒优先级，可自选搭配[`提醒音效`、`强调特效`和`提醒语音`](https://docs.classisland.tech/app/notifications.html#%E5%BC%BA%E8%B0%83%E6%8F%90%E9%86%92)
+- [档案编辑](https://docs.classisland.tech/app/profile/)
+  - [科目](https://docs.classisland.tech/app/profile/subject.html)
+  - [时间表](https://docs.classisland.tech/app/profile/time-layout.html)
+  - [课表](https://docs.classisland.tech/app/profile/classplan.html)
+    - 应在编辑好`科目`与`时间表`之后
+    - 支持[`临时课表与临时层`](https://docs.classisland.tech/app/profile/classplan.html#%E4%B8%B4%E6%97%B6%E8%AF%BE%E8%A1%A8%E4%B8%8E%E4%B8%B4%E6%97%B6%E5%B1%82)、[`课表群`](https://docs.classisland.tech/app/profile/classplan.html#%E8%AF%BE%E8%A1%A8%E7%BE%A4)
+  - [附加设置](https://docs.classisland.tech/app/profile/attached-settings.html)
+  - [从表格导入](https://docs.classisland.tech/app/profile/#%E4%BB%8E%E8%A1%A8%E6%A0%BC%E5%AF%BC%E5%85%A5)
+  - [从其他软件导入](https://docs.classisland.tech/app/migrate/)
+  - 多周轮换，[临时换课](https://docs.classisland.tech/app/profile/classplan.html#%E6%8D%A2%E8%AF%BE)
+- [组件](https://docs.classisland.tech/app/basic.html#%E7%BB%84%E4%BB%B6)
   - 日期、时间、课程表、天气简报、倒数日、自定义文本 
-- 插件系统，可选扩展功能 ***（开发中）***
-- 集控管理 ***（即将发布）***
+- 插件
+- [集控管理](https://docs.classisland.tech/management/) ***（即将发布）***
+- [获取调试信息](https://docs.classisland.tech/app/faq/reporting-issue.html)
 
 <div align="center">
 
