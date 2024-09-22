@@ -10,7 +10,7 @@
 [![All Contributors](https://img.shields.io/github/all-contributors/Jursin/Awesome-Class-Softwares?color=ee8449&style=flat)](#contributors)
 [![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9C%E6%BE%84%E6%B1%9F%E7%99%BD%E7%BB%83-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/1575907920)
 
-<div>
+</div>
 
 > [!important]
 > **本README旨在推荐以下优质软件，尽可能详细展现其功能，对于使用方法与提出问题，请前往对应仓库/交流平台**
