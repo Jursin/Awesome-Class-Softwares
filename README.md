@@ -15,13 +15,10 @@
 > [!important]
 > **本README旨在推荐以下优质软件，尽可能详细展现其功能，对于使用方法与提出问题，请前往对应仓库/交流平台**
 
-> [!tips]
+> [!notice]
 > **你知道吗？**
-> 
-> 以下项目开发者基本都是高中生🤓
-> 
-> 以下徽章点击后可跳转到对应链接🔗
-> 
+> **以下项目开发者基本都是高中生**🤓
+> **以下徽章点击后可跳转到对应链接**🔗
 > **同类项目**
 > [https://github.com/kriastans/Awesome-Iwb](https://github.com/kriastans/Awesome-Iwb)
 
@@ -92,8 +89,10 @@
 [![bilibili](https://img.shields.io/badge/-bilibili%E8%A7%86%E9%A2%91%EF%BD%9CBV1EEsNeYEc9-%23FB7299?style=flat&logo=bilibili)](https://www.bilibili.com/video/BV1EEsNeYEc9)
 
 一款适用于班级一体机的课程信息显示软件，支持显示当日课表、课程信息与各`组件`信息，具有丰富的`插件系统`，支持各种精细化设置。
+
 本项目名称的灵感源于`iOS 灵动岛（Dynamic Island）`
-本项目受到`[DuguSand/class_form](https://github.com/DuguSand/class_form)`的启发而开发。
+
+本项目受到[`DuguSand/class_form`](https://github.com/DuguSand/class_form)的启发而开发。
 
 [ClassIsland 网站](https://classisland.tech/)｜[ClassIsland 文档](https://docs.classisland.tech)
 
