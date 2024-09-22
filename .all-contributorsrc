@@ -1,0 +1,28 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "Jursin",
+      "name": "Jursin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127487914?v=4",
+      "profile": "https://github.com/Jursin",
+      "contributions": [
+        "doc",
+        "ideas",
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 3,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "Awesome-Class-Softwares",
+  "projectOwner": "Awesome-Class-Softwares"
+}
