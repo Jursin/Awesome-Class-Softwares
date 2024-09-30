@@ -320,8 +320,6 @@ forked from [WXRIW/Ink-Canvas](https://github.com/WXRIW/Ink-Canvas)
 
 ### InkCanvasForClass
 
-forked from [ChangSakura/Ink-Canvas](https://github.com/ChangSakura/Ink-Canvas)
-
 ![illustration](https://github.com/InkCanvasForClass/InkCanvasForClass/blob/master/icc-github-illustrations.png)
 ![toolbar](Screenshots/InkCanvasForClass/toolbar.png)
 ![board](Screenshots/InkCanvasForClass/board.png)
