@@ -11,7 +11,7 @@
 [![Created At](https://img.shields.io/github/created-at/Jursin/Awesome-Class-Softwares)](https://github.com/Jursin/Awesome-Class-Softwares)
 [![Github Last Commit](https://img.shields.io/github/last-commit/Jursin/Awesome-Class-Softwares)](https://github.com/Jursin/Awesome-Class-Softwares/commits/master)
 [![All Contributors](https://img.shields.io/github/all-contributors/Jursin/Awesome-Class-Softwares?color=ee8449&style=flat)](#contributors)
-[![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9C%E6%BE%84%E6%B1%9F%E7%99%BD%E7%BB%83-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/1575907920)
+[![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9CHello__Jursin-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/1575907920)
 
 </div>
 
