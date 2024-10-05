@@ -352,7 +352,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 ![](https://favicon.twenty.com/github.com/16)GitHub仓库：[https://github.com/InkCanvasForClass/InkCanvasForClass](https://github.com/InkCanvasForClass/InkCanvasForClass) 
 
-<img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/gitea.svg" width="16" height="16">Gitea仓库：[https://gitea.bliemhax.com/kriastans/InkCanvasForClass](https://gitea.bliemhax.com/kriastans/InkCanvasForClass) 
+![](https://favicon.twenty.com/gitea.com/16)Gitea仓库：[https://gitea.bliemhax.com/kriastans/InkCanvasForClass](https://gitea.bliemhax.com/kriastans/InkCanvasForClass) 
 
 </div>
 
