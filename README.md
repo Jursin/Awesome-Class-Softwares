@@ -339,7 +339,7 @@ forked from [WXRIW/Ink-Canvas](https://github.com/WXRIW/Ink-Canvas)
 
 InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [Ink Canvas Artistry](https://github.com/InkCanvas/Ink-Canvas-Artistry)项目二次开发而来。该项目着重于优化原项目的 UI 设计，使其更便于课堂使用，同时也在积极开发新功能，修理原项目的不合理之处。
 
-<img src="https://static.afdiancdn.com/static/img/logo/logo.png" width="16" height="16">[爱发电](https://afdian.net/a/dubi906w/)｜[新网站](https://icc.bliemhax.com/)｜[常见问题](https://github.com/InkCanvasForClass/InkCanvasForClass?tab=readme-ov-file#faq)
+[新网站](https://icc.bliemhax.com/)｜[常见问题](https://github.com/InkCanvasForClass/InkCanvasForClass?tab=readme-ov-file#faq)
 
 <img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/InkCanvasForClass/InkCanvasForClass](https://github.com/InkCanvasForClass/InkCanvasForClass) 
 
