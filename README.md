@@ -83,7 +83,7 @@
 
 <div align="center">
 
-<image src="https://github.com/ClassIsland/ClassIsland/blob/master/ClassIsland/Assets/AppLogo_AppLogo.svg" height="64"/>
+<image src="https://github.com/ClassIsland/ClassIsland/blob/master/ClassIsland/Assets/AppLogo_AppLogo.svg" height="128"/>
 
 ### ClassIsland
 
@@ -153,7 +153,7 @@
 
 <div align="center">
 
-<image src="https://github.com/EnderWolf006/ElectronClassSchedule/blob/main/image%2Ficon.png" height="64"/>
+<image src="https://github.com/EnderWolf006/ElectronClassSchedule/blob/main/image%2Ficon.png" width="16" height="128"/>
 
 ### ElectronClassSchedule
 
@@ -194,7 +194,7 @@
 
 <div align="center">
 
-<image src="https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/img%2FLogo.png" height="64"/>
+<image src="https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/img%2FLogo.png" height="128"/>
 
 ### Class Widgets
 
@@ -237,7 +237,7 @@
 
 <div align="center">
 
-<image src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Canvas%2FResources%2FInkCanvas.png" height="64"/>
+<image src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Canvas%2FResources%2FInkCanvas.png" height="128"/>
 
 ### Ink Canvas
 
@@ -290,7 +290,7 @@ Ink Canvas 画板是一款轻量级画板软件，基于WPF/C#，其针对希沃
 
 <div align="center">
 
-<image src="https://github.com/ChangSakura/Ink-Canvas/blob/master/Images/Ink%20Canvas%20Artistry.png" height="64"/>
+<image src="https://github.com/ChangSakura/Ink-Canvas/blob/master/Images/Ink%20Canvas%20Artistry.png" height="128"/>
 
 ### Ink Canvas Artistry
 
@@ -325,7 +325,7 @@ forked from [WXRIW/Ink-Canvas](https://github.com/WXRIW/Ink-Canvas)
 
 <div align="center">
 
-<image src="https://github.com/InkCanvasForClass/InkCanvasForClass/blob/master/icc.png" height="64"/>
+<image src="https://github.com/InkCanvasForClass/InkCanvasForClass/blob/master/icc.png" height="128"/>
 
 ### InkCanvasForClass
 
@@ -352,7 +352,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 ![](https://favicon.twenty.com/github.com/16)GitHub仓库：[https://github.com/InkCanvasForClass/InkCanvasForClass](https://github.com/InkCanvasForClass/InkCanvasForClass) 
 
-![](https://favicon.twenty.com/gitea.com/16)Gitea仓库：[https://gitea.bliemhax.com/kriastans/InkCanvasForClass](https://gitea.bliemhax.com/kriastans/InkCanvasForClass) 
+<img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/gitea.svg" width="16" height="16">Gitea仓库：[https://gitea.bliemhax.com/kriastans/InkCanvasForClass](https://gitea.bliemhax.com/kriastans/InkCanvasForClass) 
 
 </div>
 
@@ -393,7 +393,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 <div align="center">
 
-<image src="https://github.com/Alan-CRL/Inkeys/blob/main/GithubRes/logo.png" height="64"/>
+<image src="https://github.com/Alan-CRL/Inkeys/blob/main/GithubRes/logo.png" height="128"/>
 
 ### 智绘教Inkeys
 
@@ -460,7 +460,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 <div align="center">
 
-<image src="Screenshots/Inkways/Inkways_256.png" height="64"/>
+<image src="Screenshots/Inkways/Inkways_256.png" height="128"/>
 
 ### Inkways Classic
 
@@ -501,7 +501,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 <div align="center">
 
-<image src="https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/blob/master/ZongziTEK_Blackboard_Sticker%2F%E9%BB%91%E6%9D%BF%E8%B4%B4.png" height="64"/>
+<image src="https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/blob/master/ZongziTEK_Blackboard_Sticker%2F%E9%BB%91%E6%9D%BF%E8%B4%B4.png" height="128"/>
 
 ### ZongziTEK-Blackboard-Sticker
 
@@ -553,7 +553,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 <div align="center">
 
-<img src="https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker/blob/master/MoonCakeTEK_Blackboard_Sticker/mbs.png" height="64">
+<img src="https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker/blob/master/MoonCakeTEK_Blackboard_Sticker/mbs.png" height="128">
 
 ### MoonCakeTEK黑板贴
 
@@ -689,7 +689,7 @@ Sticky-attention 是一款适用于Windows 系统教室一体机的作业显示�
 
 <div align="center">
 
-<image src="https://github.com/EnderWolf006/HomeworkBoard/blob/main/ClientProject/public/vite.svg" height="64"/>
+<image src="https://github.com/EnderWolf006/HomeworkBoard/blob/main/ClientProject/public/vite.svg" height="128"/>
 
 ### HomeworkBoard
 
@@ -735,7 +735,7 @@ Sticky-attention 是一款适用于Windows 系统教室一体机的作业显示�
 
 <div align="center">
 
-<image src="https://github.com/hello8693DSZ/dsz-exam-showboard/blob/master/resources/icon.png" height="64"/>
+<image src="https://github.com/hello8693DSZ/dsz-exam-showboard/blob/master/resources/icon.png" height="128"/>
 
 ### DSZ考试看板
 
@@ -778,7 +778,7 @@ https://github.com/hello8693DSZ/dsz-exam-showboard)
 
 <div align="center">
 
-<image src="icons/ClassTools.png" height="64"/>
+<image src="icons/ClassTools.png" height="128"/>
 
 ### ClassTools
 
@@ -843,6 +843,7 @@ https://github.com/hello8693DSZ/dsz-exam-showboard)
 [![LICENSE](https://img.shields.io/badge/License-MIT-red.svg "LICENSE")](https://github.com/SectionIstool/SectionIstool/blob/master/LICENSE.txt)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flzy98276%2FSectionIstool.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Flzy98276%2FSectionIstool?ref=badge_shield&style=flat)
 [![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C833875216-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/ASRSNUJuve)
+[![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9C%E9%BB%8E%E6%B3%BD%E6%87%BF-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/520571577)
 
 一款方便、快捷下载适合班级一体机使用的各类软件的下载器
 
