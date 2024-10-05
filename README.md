@@ -616,7 +616,7 @@ forked from [HelloWRC/StickyHomeworks](https://github.com/HelloWRC/StickyHomewor
 [![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/Sticky-attention/Sticky-attention/blob/master/LICENSE.txt)
 [![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C680019081-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/neHPnfBSJq)
 [![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9C%E7%BA%AA%E6%B7%8B2024-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/3546750482647776)
-[![bilibili](https://img.shields.io/badge/-bilibili%E8%A7%86%E9%A2%91%EF%BD%9CBV11exqeiEwf-%23FB7299?style=flat&logo=bilibili)](https://www.bilibili.com/video/BV11exqeiEwf)
+[![bilibili](https://img.shields.io/badge/-bilibili%E8%A7%86%E9%A2%91%EF%BD%9CBV1YJ4Fe5EgD-%23FB7299?style=flat&logo=bilibili)](https://www.bilibili.com/video/BV1YJ4Fe5EgD)
 
 Sticky-attention 是一款适用于Windows 系统教室一体机的作业显示工具，可以展示各科作业等信息，后续将添加更多新内容。
 
