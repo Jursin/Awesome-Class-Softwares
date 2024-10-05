@@ -588,7 +588,7 @@ StickyHomeworks 是一款支持富文本的桌面作业贴工具。
 
 <div align="center">
 
-<image src="https://avatars.githubusercontent.com/u/183182916?s=48&v=4" height="64"/>
+<image src="https://avatars.githubusercontent.com/u/183182916?s=200&v=4" height="64"/>
 
 ### Sticky-attention
 
