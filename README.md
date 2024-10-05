@@ -83,7 +83,7 @@
 
 <div align="center">
 
-<image src="https://github.com/ClassIsland/ClassIsland/blob/master/ClassIsland/Assets/AppLogo_AppLogo.svg" height="128"/>
+<image src="https://github.com/ClassIsland/ClassIsland/blob/master/ClassIsland/Assets/AppLogo_AppLogo.svg" height="64"/>
 
 ### ClassIsland
 
@@ -153,7 +153,7 @@
 
 <div align="center">
 
-<image src="https://github.com/EnderWolf006/ElectronClassSchedule/blob/main/image%2Ficon.png" width="16" height="128"/>
+<image src="https://github.com/EnderWolf006/ElectronClassSchedule/blob/main/image%2Ficon.png" height="64"/>
 
 ### ElectronClassSchedule
 
@@ -194,7 +194,7 @@
 
 <div align="center">
 
-<image src="https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/img%2FLogo.png" height="128"/>
+<image src="https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/img%2FLogo.png" height="64"/>
 
 ### Class Widgets
 
@@ -237,7 +237,7 @@
 
 <div align="center">
 
-<image src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Canvas%2FResources%2FInkCanvas.png" height="128"/>
+<image src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Canvas%2FResources%2FInkCanvas.png" height="64"/>
 
 ### Ink Canvas
 
@@ -290,7 +290,7 @@ Ink Canvas 画板是一款轻量级画板软件，基于WPF/C#，其针对希沃
 
 <div align="center">
 
-<image src="https://github.com/ChangSakura/Ink-Canvas/blob/master/Images/Ink%20Canvas%20Artistry.png" height="128"/>
+<image src="https://github.com/ChangSakura/Ink-Canvas/blob/master/Images/Ink%20Canvas%20Artistry.png" height="64"/>
 
 ### Ink Canvas Artistry
 
@@ -325,7 +325,7 @@ forked from [WXRIW/Ink-Canvas](https://github.com/WXRIW/Ink-Canvas)
 
 <div align="center">
 
-<image src="https://github.com/InkCanvasForClass/InkCanvasForClass/blob/master/icc.png" height="128"/>
+<image src="https://github.com/InkCanvasForClass/InkCanvasForClass/blob/master/icc.png" height="64"/>
 
 ### InkCanvasForClass
 
@@ -393,7 +393,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 <div align="center">
 
-<image src="https://github.com/Alan-CRL/Inkeys/blob/main/GithubRes/logo.png" height="128"/>
+<image src="https://github.com/Alan-CRL/Inkeys/blob/main/GithubRes/logo.png" height="64"/>
 
 ### 智绘教Inkeys
 
@@ -460,7 +460,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 <div align="center">
 
-<image src="Screenshots/Inkways/Inkways_256.png" height="128"/>
+<image src="Screenshots/Inkways/Inkways_256.png" height="64"/>
 
 ### Inkways Classic
 
@@ -501,7 +501,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 <div align="center">
 
-<image src="https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/blob/master/ZongziTEK_Blackboard_Sticker%2F%E9%BB%91%E6%9D%BF%E8%B4%B4.png" height="128"/>
+<image src="https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/blob/master/ZongziTEK_Blackboard_Sticker%2F%E9%BB%91%E6%9D%BF%E8%B4%B4.png" height="64"/>
 
 ### ZongziTEK-Blackboard-Sticker
 
@@ -553,7 +553,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 <div align="center">
 
-<img src="https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker/blob/master/MoonCakeTEK_Blackboard_Sticker/mbs.png" height="128">
+<img src="https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker/blob/master/MoonCakeTEK_Blackboard_Sticker/mbs.png" height="64">
 
 ### MoonCakeTEK黑板贴
 
@@ -595,7 +595,7 @@ forked from [STBBRD/ZongziTEK-Blackboard-Sticker](https://github.com/STBBRD/Zong
 
 <div align="center">
 
-<image src="https://github.com/HelloWRC/StickyHomeworks/blob/master/StickyHomeworks/Assets/AppLogo.png" height="128"/>
+<image src="https://github.com/HelloWRC/StickyHomeworks/blob/master/StickyHomeworks/Assets/AppLogo.png" height="64"/>
 
 ### StickyHomeworks
 
@@ -689,7 +689,7 @@ Sticky-attention 是一款适用于Windows 系统教室一体机的作业显示�
 
 <div align="center">
 
-<image src="https://github.com/EnderWolf006/HomeworkBoard/blob/main/ClientProject/public/vite.svg" height="128"/>
+<image src="https://github.com/EnderWolf006/HomeworkBoard/blob/main/ClientProject/public/vite.svg" height="64"/>
 
 ### HomeworkBoard
 
@@ -735,7 +735,7 @@ Sticky-attention 是一款适用于Windows 系统教室一体机的作业显示�
 
 <div align="center">
 
-<image src="https://github.com/hello8693DSZ/dsz-exam-showboard/blob/master/resources/icon.png" height="128"/>
+<image src="https://github.com/hello8693DSZ/dsz-exam-showboard/blob/master/resources/icon.png" height="64"/>
 
 ### DSZ考试看板
 
@@ -778,7 +778,7 @@ https://github.com/hello8693DSZ/dsz-exam-showboard)
 
 <div align="center">
 
-<image src="icons/ClassTools.png" height="128"/>
+<image src="icons/ClassTools.png" height="64"/>
 
 ### ClassTools
 
