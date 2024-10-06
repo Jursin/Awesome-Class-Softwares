@@ -153,7 +153,7 @@
 
 <div align="center">
 
-<image src="https://github.com/EnderWolf006/ElectronClassSchedule/blob/main/image%2Ficon.png" width="16" height="64"/>
+<image src="https://github.com/EnderWolf006/ElectronClassSchedule/blob/main/image%2Ficon.png" height="64"/>
 
 ### ElectronClassSchedule
 
