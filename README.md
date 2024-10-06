@@ -119,9 +119,9 @@
 
 <image src="https://github.com/ClassIsland/ClassIsland/blob/master/ClassIsland/Assets/AppLogo_AppLogo.svg" height="16"/>[ClassIsland 官网](https://classisland.tech/)｜[ClassIsland 文档](https://docs.classisland.tech)｜[ClassIsland 投票](https://github.com/ClassIsland/voting/discussions)
 
-![](https://favicon.twenty.com/github.com/16)GitHub仓库：[https://github.com/ClassIsland/ClassIsland](https://github.com/ClassIsland/ClassIsland)
+<img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/ClassIsland/ClassIsland](https://github.com/ClassIsland/ClassIsland)
 
-![](https://favicon.twenty.com/github.com/16)`.NET 6`兼容版仓库：[https://github.com/ClassIsland/ClassIsland-net6](https://github.com/ClassIsland/ClassIsland-net6)（可在`Windows 7`上正常运行）
+<img src="icons/github.svg" width="16" height="16">`.NET 6`兼容版仓库：[https://github.com/ClassIsland/ClassIsland-net6](https://github.com/ClassIsland/ClassIsland-net6)（可在`Windows 7`上正常运行）
 
 </div>
 
@@ -182,7 +182,7 @@
 
 [使用说明](https://github.com/EnderWolf006/ElectronClassSchedule?tab=readme-ov-file#%E9%A3%9F%E7%94%A8%E8%AF%B4%E6%98%8E)
 
-![](https://favicon.twenty.com/github.com/16)GitHub仓库：[https://github.com/EnderWolf006/ElectronClassSchedule](https://github.com/EnderWolf006/ElectronClassSchedule)
+<img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/EnderWolf006/ElectronClassSchedule](https://github.com/EnderWolf006/ElectronClassSchedule)
 
 </div>
 
@@ -226,7 +226,7 @@
 
 [Releases](https://github.com/RinLit-233-shiroko/Class-Widgets/releases)｜[使用文档](https://www.yuque.com/rinlit/class-widgets_help)
 
-![](https://favicon.twenty.com/github.com/16)GitHub仓库：[https://github.com/RinLit-233-shiroko/Class-Widgets](https://github.com/RinLit-233-shiroko/Class-Widgets) 
+<img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/RinLit-233-shiroko/Class-Widgets](https://github.com/RinLit-233-shiroko/Class-Widgets) 
 
 </div>
 
@@ -277,7 +277,7 @@ Ink Canvas 画板是一款轻量级画板软件，基于WPF/C#，其针对希沃
 
   [<img src="https://get.microsoft.com/images/zh-CN%20dark.svg" style="width: 200px;"/>](https://www.microsoft.com/store/apps/9NXJFDD97XJ3?cid=ghreadme)
 
-![](https://favicon.twenty.com/github.com/16)GitHub仓库：[https://github.com/WXRIW/Ink-Canvas](https://github.com/WXRIW/Ink-Canvas) 
+<img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/WXRIW/Ink-Canvas](https://github.com/WXRIW/Ink-Canvas) 
 
 </div>
 
@@ -331,7 +331,7 @@ forked from [WXRIW/Ink-Canvas](https://github.com/WXRIW/Ink-Canvas)
 
 [常见问题](https://github.com/InkCanvas/Ink-Canvas-Artistry?tab=readme-ov-file#-faq)
 
-![](https://favicon.twenty.com/github.com/16)GitHub仓库：[https://github.com/ChangSakura/Ink-Canvas](https://github.com/ChangSakura/Ink-Canvas)
+<img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/ChangSakura/Ink-Canvas](https://github.com/ChangSakura/Ink-Canvas)
 
 </div>
 
@@ -348,7 +348,6 @@ forked from [WXRIW/Ink-Canvas](https://github.com/WXRIW/Ink-Canvas)
 [![stars](https://img.shields.io/github/stars/InkCanvasForClass/InkCanvasForClass?label=Stars)](https://github.com/InkCanvasForClass/InkCanvasForClass)
 [![forks](https://img.shields.io/github/forks/InkCanvasForClass/InkCanvasForClass?label=Forks)](https://github.com/InkCanvasForClass/InkCanvasForClass)
 [![Watchers](https://img.shields.io/github/watchers/InkCanvasForClass/InkCanvasForClass?style=social)](https://github.com/InkCanvasForClass/InkCanvasForClass/watchers)
-[![Gitea Last Commit](https://img.shields.io/gitea/last-commit/kriastans/InkCanvasForClass?gitea_url=https%3A%2F%2Fgitea.bliemhax.com%2F)](https://gitea.bliemhax.com/kriastans/InkCanvasForClass/commits/branch/master)
 [![Created At](https://img.shields.io/github/created-at/InkCanvasForClass/InkCanvasForClass)](https://github.com/InkCanvasForClass/InkCanvasForClass)
 [![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvasForClass/InkCanvasForClass)](https://github.com/InkCanvasForClass/InkCanvasForClass/commits/master)
 ![Update Status](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E6%B4%BB%E8%B7%83-blue)
@@ -362,9 +361,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 [新网站](https://icc.bliemhax.com/)｜[常见问题](https://github.com/InkCanvasForClass/InkCanvasForClass?tab=readme-ov-file#faq)
 
-![](https://favicon.twenty.com/github.com/16)GitHub仓库：[https://github.com/InkCanvasForClass/InkCanvasForClass](https://github.com/InkCanvasForClass/InkCanvasForClass) 
-
-![](https://favicon.twenty.com/gitea.com/16)Gitea仓库：[https://gitea.bliemhax.com/kriastans/InkCanvasForClass](https://gitea.bliemhax.com/kriastans/InkCanvasForClass) 
+<img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/InkCanvasForClass/InkCanvasForClass](https://github.com/InkCanvasForClass/InkCanvasForClass) 
 
 </div>
 
@@ -435,7 +432,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 <img src="https://github.com/Alan-CRL/Inkeys/blob/main/GithubRes/logo.png" width="16" height="16">官方网站：[https://www.inkeys.top/](https://www.inkeys.top/)
 
-![](https://favicon.twenty.com/github.com/16)GitHub仓库：[https://github.com/Alan-CRL/Inkeys](https://github.com/Alan-CRL/Inkeys)
+<img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/Alan-CRL/Inkeys](https://github.com/Alan-CRL/Inkeys)
 
 ***(由于开发者本人原因，即日起至 2024.11 智绘教将临时停止更新)***
 
@@ -501,7 +498,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 <img src="icons/Inkore_Badge_256.png" width="16" height="16">官方网站：[https://inkore.net/zh-cn/products/inkways/](https://inkore.net/zh-cn/products/inkways/)
 
-![](https://favicon.twenty.com/github.com/16)GitHub仓库：[https://github.com/iNKORE-NET/Inkways](https://github.com/iNKORE-NET/Inkways)
+<img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/iNKORE-NET/Inkways](https://github.com/iNKORE-NET/Inkways)
 
 </div>
 
@@ -537,7 +534,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 用于班级一体机的桌面小部件
 
-![](https://favicon.twenty.com/github.com/16)GitHub仓库：[https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker)
+<img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker)
 
 <img src="https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/blob/master/ZongziTEK_Blackboard_Sticker%2F%E9%BB%91%E6%9D%BF%E8%B4%B4.png" width="16" height="16">官方网站：[https://zztek.top/](https://zztek.top/)
 
@@ -588,7 +585,7 @@ forked from [STBBRD/ZongziTEK-Blackboard-Sticker](https://github.com/STBBRD/Zong
 
 用于班级一体机的桌面小部件
 
-![](https://favicon.twenty.com/github.com/16)GitHub仓库：[https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker](https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker)
+<img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker](https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker)
 
 </div>
 
@@ -630,7 +627,7 @@ forked from [STBBRD/ZongziTEK-Blackboard-Sticker](https://github.com/STBBRD/Zong
 
 StickyHomeworks 是一款支持富文本的桌面作业贴工具。
 
-![](https://favicon.twenty.com/github.com/16)GitHub仓库：[https://github.com/HelloWRC/StickyHomeworks](https://github.com/HelloWRC/StickyHomeworks)
+<img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/HelloWRC/StickyHomeworks](https://github.com/HelloWRC/StickyHomeworks)
 
 </div>
 
@@ -684,7 +681,7 @@ forked from [HelloWRC/StickyHomeworks](https://github.com/HelloWRC/StickyHomewor
 
 Sticky-attention 是一款适用于Windows 系统教室一体机的作业显示工具，可以展示各科作业等信息，后续将添加更多新内容。
 
-![](https://favicon.twenty.com/github.com/16)GitHub仓库：[https://github.com/Sticky-attention/Sticky-attention](https://github.com/Sticky-attention/Sticky-attention)
+<img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/Sticky-attention/Sticky-attention](https://github.com/Sticky-attention/Sticky-attention)
 
 </div>
 
@@ -726,7 +723,7 @@ Sticky-attention 是一款适用于Windows 系统教室一体机的作业显示�
 
 [使用说明](https://github.com/EnderWolf006/HomeworkBoard?tab=readme-ov-file#%E9%A3%9F%E7%94%A8%E8%AF%B4%E6%98%8E)
 
-![](https://favicon.twenty.com/github.com/16)GitHub仓库：[https://github.com/EnderWolf006/HomeworkBoard](https://github.com/EnderWolf006/HomeworkBoard)
+<img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/EnderWolf006/HomeworkBoard](https://github.com/EnderWolf006/HomeworkBoard)
 
 </div>
 
@@ -773,7 +770,7 @@ Sticky-attention 是一款适用于Windows 系统教室一体机的作业显示�
 
 下载 [Realeases](https://github.com/hello8693DSZ/dsz-exam-showboard/releases) | [Actions](https://github.com/hello8693DSZ/dsz-exam-showboard/actions)
 
-![](https://favicon.twenty.com/github.com/16)GitHub仓库：[https://github.com/hello8693DSZ/dsz-exam-showboard](
+<img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/hello8693DSZ/dsz-exam-showboard](
 https://github.com/hello8693DSZ/dsz-exam-showboard)
 
 </div>
@@ -815,7 +812,7 @@ https://github.com/hello8693DSZ/dsz-exam-showboard)
 
   [<img src="https://get.microsoft.com/images/zh-CN%20dark.svg" style="width: 200px;"/>](https://www.microsoft.com/store/apps/9PC000G9HGQ2)
 
-![](https://favicon.twenty.com/github.com/16)GitHub仓库：[https://github.com/clansty/ClassTools](https://github.com/clansty/ClassTools) （状态：长时间未更新）
+<img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/clansty/ClassTools](https://github.com/clansty/ClassTools) （状态：长时间未更新）
 
 </div>
 
@@ -860,7 +857,7 @@ https://github.com/hello8693DSZ/dsz-exam-showboard)
 
 一款方便、快捷下载适合班级一体机使用的各类软件的下载器
 
-![](https://favicon.twenty.com/github.com/16)GitHub仓库：[https://github.com/SectionIstool/SectionIstool](https://github.com/SectionIstool/SectionIstool)
+<img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/SectionIstool/SectionIstool](https://github.com/SectionIstool/SectionIstool)
 
 下载｜[Releases](https://github.com/lzy98276/SectionIstool/releases)
 
