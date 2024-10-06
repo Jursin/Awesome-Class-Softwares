@@ -41,28 +41,28 @@
 | - | - |
 | [ClassIsland](#classisland) |  [`ClassIsland`](https://github.com/ClassIsland) [`HelloWRC`](https://github.com/HelloWRC) |
 | [ElectronClassSchedule](#electronclassschedule) | [`EnderWolf006`](https://github.com/EnderWolf006) |
-| [Class-Widgets](#class-widgets) | [`RinLit-233-shiroko`](https://github.com/RinLit-233-shiroko) |
+| [Class Widgets](#class%20widgets) | [`RinLit-233-shiroko`](https://github.com/RinLit-233-shiroko) |
 
 ### [画板类](#画板类)
 
 | 软件 | 组织/开发者 |
 | - | - |
 | [Ink-Canvas](#ink-canvas) | [`WXRIW`](https://github.com/WXRIW) |
-| [Ink Canvas Artistry](#ink-canvas-artistry) | [`InkCanvas`](https://github.com/InkCanvas) [`ChangSakura`](https://github.com/ChangSakura) |
+| [Ink Canvas Artistry](#ink%20canvas%20artistry) | [`InkCanvas`](https://github.com/InkCanvas) [`ChangSakura`](https://github.com/ChangSakura) |
 | [InkCanvasForClass](#inkcanvasforclass) | [`InkCanvasForClass`](https://github.com/InkCanvasForClass) [`Doubx690i`](https://github.com/kriastans) |
-| [智绘教 Inkeys](#智绘教inkeys) | [`Alan-CRL`](https://github.com/Alan-CRL) |
-| [Inkways Classic](#inkways-classic) | [`iNKORE Studios`](https://github.com/iNKORE-NET) |
+| [智绘教 Inkeys](#智绘教%20inkeys) | [`Alan-CRL`](https://github.com/Alan-CRL) |
+| [Inkways Classic](#inkways%20classic) | [`iNKORE Studios`](https://github.com/iNKORE-NET) |
 
 ### [桌面小工具与看板类](#桌面小工具与看板类)
 
 | 软件 | 组织/开发者 |
 | - | - |
-| [ZongziTEK-Blackboard-Sticker](#zongzitek-blackboard-sticker) | [`STBBRD`](https://github.com/STBBRD) |
-| [MoonCakeTEK 黑板贴](#mooncaketek黑板贴) | [`Doubx690i`](https://github.com/kriastans) |
+| [ZongziTEK 黑板贴](#zongzitek%20黑板贴) | [`STBBRD`](https://github.com/STBBRD) |
+| [MoonCakeTEK 黑板贴](#mooncaketek%20黑板贴) | [`Doubx690i`](https://github.com/kriastans) |
 | [StickyHomeworks](#stickyhomeworks) | [`HelloWRC`](https://github.com/HelloWRC) |
 | [Sticky-attention](#sticky-attention) | [`Sticky-attention`](https://github.com/Sticky-attention) [`jizilin6732`](https://github.com/jizilin6732) |
 | [HomeworkBoard](#homeworkboard) | [`EnderWolf006`](https://github.com/EnderWolf006) |
-| [DSZ 考试看板](#dsz考试看板) | [`hello8693DSZ`](https://github.com/hello8693DSZ) |
+| [DSZ 考试看板](#dsz%20考试看板) | [`hello8693DSZ`](https://github.com/hello8693DSZ) |
 | [ClassTools](#classtools) | [`clansty`](https://github.com/clansty) |
 
 
@@ -98,7 +98,7 @@
 [![GitHub Issues](https://img.shields.io/github/issues-search/ClassIsland/ClassIsland?query=is%3Aopen&style=flat&logo=github&label=Issues&color=%233fb950)](https://github.com/ClassIsland/ClassIsland/issues)
 [![GitHub Discussions](https://img.shields.io/github/discussions/ClassIsland/ClassIsland?style=flat&logo=Github&label=Discussions)](https://github.com/ClassIsland/ClassIsland/discussions)
 [![Release](https://img.shields.io/github/v/release/ClassIsland/ClassIsland?style=flat&color=%233fb950&label=正式版)](https://github.com/ClassIsland/ClassIsland/releases/latest)
-[![Beta](https://img.shields.io/github/v/release/ClassIsland/ClassIsland?include_prereleases&style=flat&label=测试版)](https://github.com/ClassIsland/ClassIsland/releases/)
+[![Beta](https://img.shields.io/github/v/release/ClassIsland/ClassIsland?include_prereleases&style=flat&label=测试版)](https://github.com/ClassIsland/ClassIsland/releases)
 [![Created At](https://img.shields.io/github/created-at/ClassIsland/ClassIsland)](https://github.com/ClassIsland/ClassIsland)
 [![Github Last Commit](https://img.shields.io/github/last-commit/ClassIsland/ClassIsland)](https://github.com/ClassIsland/ClassIsland/commits/master)
 ![Update Status](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E9%9D%9E%E5%B8%B8%E6%B4%BB%E8%B7%83-green)
@@ -198,7 +198,11 @@
 
 ### Class Widgets
 
-![preview](https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/img%2Fpreview.png)
+![Banner](https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/img%2FBanner.png)
+
+![Light](https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/img%2Fscreenshot_0.png)
+
+![Dark](https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/img%2Fscreenshot_1.png)
 
 [![stars](https://img.shields.io/github/stars/RinLit-233-shiroko/Class-Widgets?label=Stars)](https://github.com/RinLit-233-shiroko/Class-Widgets)
 [![forks](https://img.shields.io/github/forks/RinLit-233-shiroko/Class-Widgets?label=Forks)](https://github.com/RinLit-233-shiroko/Class-Widgets)
@@ -207,6 +211,7 @@
 [![GitHub Issues](https://img.shields.io/github/issues-search/RinLit-233-shiroko/Class-Widgets?query=is%3Aopen&style=flat&logo=github&label=Issues&color=%233fb950)](https://github.com/RinLit-233-shiroko/Class-Widgets/issues)
 [![GitHub Discussions](https://img.shields.io/github/discussions/RinLit-233-shiroko/Class-Widgets?style=flat&logo=Github&label=Discussions)](https://github.com/RinLit-233-shiroko/Class-Widgets/discussions)
 [![Release](https://img.shields.io/github/v/release/RinLit-233-shiroko/Class-Widgets?style=flat&color=%233fb950&label=正式版)](https://github.com/RinLit-233-shiroko/Class-Widgets/releases/latest) 
+[![Beta](https://img.shields.io/github/v/release/RinLit-233-shiroko/Class-Widgets?include_prereleases&style=flat&label=测试版)](https://github.com/RinLit-233-shiroko/Class-Widgets/releases)
 [![Created At](https://img.shields.io/github/created-at/RinLit-233-shiroko/Class-Widgets)](https://github.com/RinLit-233-shiroko/Class-Widgets)
 [![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/Class-Widgets)](https://github.com/RinLit-233-shiroko/Class-Widgets/commits/main/)
 ![Update Status](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E6%B4%BB%E8%B7%83-blue)
@@ -223,11 +228,15 @@
 </div>
 
 #### 功能
-- 显示日期、时间，当前活动，接下来课程
-- 方便的提醒系统
-- 易用的课程表编辑界面
+- 以小组件形式显示：
+	- 当前活动结束剩余时间、当前活动、接下来课程
+	- 天气、倒数日
+- 方便的提醒系统：
+	- 上下课提醒和预备铃
+- 简洁直观的课程表编辑界面
 - 快捷调休/换课
-- 同时存储多套课表
+- 同时存储多套课表，支持文件导入/导出
+- 个性化主题设置，支持浅色/深色模式
 
 <div align="center">
 
@@ -395,7 +404,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 <image src="https://github.com/Alan-CRL/Inkeys/blob/main/GithubRes/logo.png" height="64"/>
 
-### 智绘教Inkeys
+### 智绘教 Inkeys
 
 ![cover](https://github.com/Alan-CRL/Inkeys/blob/main/GithubRes/cover2.png)
 
@@ -503,7 +512,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 <image src="https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/blob/master/ZongziTEK_Blackboard_Sticker%2F%E9%BB%91%E6%9D%BF%E8%B4%B4.png" height="64"/>
 
-### ZongziTEK-Blackboard-Sticker
+### ZongziTEK 黑板贴
 
 ![Screenshot](https://i.postimg.cc/PfC89pfQ/Light.png)
 
@@ -555,7 +564,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 <img src="https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker/blob/master/MoonCakeTEK_Blackboard_Sticker/mbs.png" height="64">
 
-### MoonCakeTEK黑板贴
+### MoonCakeTEK 黑板贴
 
 forked from [STBBRD/ZongziTEK-Blackboard-Sticker](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker)
 
@@ -572,6 +581,7 @@ forked from [STBBRD/ZongziTEK-Blackboard-Sticker](https://github.com/STBBRD/Zong
 [![GitHub Language Count](https://img.shields.io/github/languages/count/kriastans/MoonCakeTEK-Blackboard-Sticker)](https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/kriastans/MoonCakeTEK-Blackboard-Sticker)](https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker)
 [![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker/blob/master/LICENSE.txt)
+[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C773462012-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/IKD5lLWGAu)
 
 用于班级一体机的桌面小部件
 
@@ -658,7 +668,7 @@ forked from [HelloWRC/StickyHomeworks](https://github.com/HelloWRC/StickyHomewor
 [![GitHub Issues](https://img.shields.io/github/issues-search/Sticky-attention/Sticky-attention?query=is%3Aopen&style=flat&logo=github&label=Issues&color=%233fb950)](https://github.com/Sticky-attention/Sticky-attention/issues)
 [![GitHub Discussions](https://img.shields.io/github/discussions/Sticky-attention/Sticky-attention?style=flat&logo=Github&label=Discussions)](https://github.com/Sticky-attention/Sticky-attention/discussions)
 [![Release](https://img.shields.io/github/v/release/Sticky-attention/Sticky-attention?style=flat&color=%233fb950&label=正式版)](https://github.com/Sticky-attention/Sticky-attention/releases/latest) 
-[![Beta](https://img.shields.io/github/v/release/Sticky-attention/Sticky-attention?include_prereleases&style=flat&label=测试版)](https://github.com/Sticky-attention/Sticky-attention/releases/)
+[![Beta](https://img.shields.io/github/v/release/Sticky-attention/Sticky-attention?include_prereleases&style=flat&label=测试版)](https://github.com/Sticky-attention/Sticky-attention/releases)
 [![Created At](https://img.shields.io/github/created-at/Sticky-attention/Sticky-attention)](https://github.com/Sticky-attention/Sticky-attention)
 [![Github Last Commit](https://img.shields.io/github/last-commit/Sticky-attention/Sticky-attention)](https://github.com/Sticky-attention/Sticky-attention/commits/master)
 ![Update Status](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E9%9D%9E%E5%B8%B8%E6%B4%BB%E8%B7%83-green)
@@ -737,7 +747,7 @@ Sticky-attention 是一款适用于Windows 系统教室一体机的作业显示�
 
 <image src="https://github.com/hello8693DSZ/dsz-exam-showboard/blob/master/resources/icon.png" height="64"/>
 
-### DSZ考试看板
+### DSZ 考试看板
 
 ![WelcomePage](Screenshots/DSZ-Exam-Showboard/WelcomePage.png)
 ![ExamPage](Screenshots/DSZ-Exam-Showboard/ExamPage.png)
@@ -747,7 +757,7 @@ Sticky-attention 是一款适用于Windows 系统教室一体机的作业显示�
 [![Watchers](https://img.shields.io/github/watchers/hello8693DSZ/dsz-exam-showboard?style=social)](https://github.com/hello8693DSZ/dsz-exam-showboard/watchers)
 [![Downloads](https://img.shields.io/github/downloads/hello8693DSZ/dsz-exam-showboard/total?style=social&label=Downloads&logo=github)](https://github.com/hello8693DSZ/dsz-exam-showboard/releases/latest)
 [![GitHub Issues](https://img.shields.io/github/issues-search/hello8693DSZ/dsz-exam-showboard?query=is%3Aopen&style=flat&logo=github&label=Issues&color=%233fb950)](https://github.com/hello8693DSZ/dsz-exam-showboard/issues)
-[![Beta](https://img.shields.io/github/v/release/hello8693DSZ/dsz-exam-showboard?include_prereleases&style=flat&label=测试版)](https://github.com/hello8693DSZ/dsz-exam-showboard/releases/)
+[![Beta](https://img.shields.io/github/v/release/hello8693DSZ/dsz-exam-showboard?include_prereleases&style=flat&label=测试版)](https://github.com/hello8693DSZ/dsz-exam-showboard/releases)
 [![Created At](https://img.shields.io/github/created-at/hello8693DSZ/dsz-exam-showboard)](https://github.com/hello8693DSZ/dsz-exam-showboard)
 [![Github Last Commit](https://img.shields.io/github/last-commit/hello8693DSZ/dsz-exam-showboard)](https://github.com/hello8693DSZ/dsz-exam-showboard/commits/master)
 ![Update Status](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E6%97%A9%E6%9C%9F%E5%BC%80%E5%8F%91%E4%B8%AD-red)
