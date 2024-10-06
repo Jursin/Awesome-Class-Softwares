@@ -70,7 +70,7 @@
 
 | 软件 | 组织/开发者 |
 | - | - |
-| [`SectionIstool`](#SectionIstool) | [`SectionIstool`](https://github.com/SectionIstool) [`lzy98276`](https://github.com/lzy98276) |
+| [SectionIstool](#SectionIstool) | [`SectionIstool`](https://github.com/SectionIstool) [`lzy98276`](https://github.com/lzy98276) |
 
 
 </div>
@@ -760,7 +760,7 @@ Sticky-attention 是一款适用于Windows 系统教室一体机的作业显示�
 [![Beta](https://img.shields.io/github/v/release/hello8693DSZ/dsz-exam-showboard?include_prereleases&style=flat&label=测试版)](https://github.com/hello8693DSZ/dsz-exam-showboard/releases)
 [![Created At](https://img.shields.io/github/created-at/hello8693DSZ/dsz-exam-showboard)](https://github.com/hello8693DSZ/dsz-exam-showboard)
 [![Github Last Commit](https://img.shields.io/github/last-commit/hello8693DSZ/dsz-exam-showboard)](https://github.com/hello8693DSZ/dsz-exam-showboard/commits/master)
-![Update Status](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E6%97%A9%E6%9C%9F%E5%BC%80%E5%8F%91%E4%B8%AD-red)
+![Update Status](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E6%97%A9%E6%9C%9F%E5%BC%80%E5%8F%91%E4%B8%AD%EF%BD%9C%E5%8D%B3%E5%B0%86%E9%95%BF%E6%9C%9F%E5%81%9C%E6%9B%B4-red)
 [![GitHub Language Count](https://img.shields.io/github/languages/count/hello8693DSZ/dsz-exam-showboard)](https://github.com/hello8693DSZ/dsz-exam-showboard)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/hello8693DSZ/dsz-exam-showboard)](https://github.com/hello8693DSZ/dsz-exam-showboard)
 [![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/EnderWolf006/HomeworkBoard/blob/main/LICENSE)
@@ -776,6 +776,8 @@ https://github.com/hello8693DSZ/dsz-exam-showboard)
 </div>
 
 > [!warning]
+> **因作者学业原因，该项目在作者上高中后停更，上大学后恢复！**
+> 
 > **此项目仍在早期开发中，使用过程中可能会遇到一些未知的问题！**
 
 #### 功能
