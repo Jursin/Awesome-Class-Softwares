@@ -41,28 +41,28 @@
 | - | - |
 | [ClassIsland](#classisland) |  [`ClassIsland`](https://github.com/ClassIsland) [`HelloWRC`](https://github.com/HelloWRC) |
 | [ElectronClassSchedule](#electronclassschedule) | [`EnderWolf006`](https://github.com/EnderWolf006) |
-| [Class Widgets](#class%20widgets) | [`RinLit-233-shiroko`](https://github.com/RinLit-233-shiroko) |
+| [Class-Widgets](#class%20widgets) | [`RinLit-233-shiroko`](https://github.com/RinLit-233-shiroko) |
 
 ### [画板类](#画板类)
 
 | 软件 | 组织/开发者 |
 | - | - |
 | [Ink-Canvas](#ink-canvas) | [`WXRIW`](https://github.com/WXRIW) |
-| [Ink Canvas Artistry](#ink%20canvas%20artistry) | [`InkCanvas`](https://github.com/InkCanvas) [`ChangSakura`](https://github.com/ChangSakura) |
+| [Ink-Canvas-Artistry](#ink%20canvas%20artistry) | [`InkCanvas`](https://github.com/InkCanvas) [`ChangSakura`](https://github.com/ChangSakura) |
 | [InkCanvasForClass](#inkcanvasforclass) | [`InkCanvasForClass`](https://github.com/InkCanvasForClass) [`Doubx690i`](https://github.com/kriastans) |
-| [智绘教 Inkeys](#智绘教%20inkeys) | [`Alan-CRL`](https://github.com/Alan-CRL) |
-| [Inkways Classic](#inkways%20classic) | [`iNKORE Studios`](https://github.com/iNKORE-NET) |
+| [智绘教Inkeys](#智绘教%20inkeys) | [`Alan-CRL`](https://github.com/Alan-CRL) |
+| [Inkways-Classic](#inkways%20classic) | [`iNKORE Studios`](https://github.com/iNKORE-NET) |
 
 ### [桌面小工具与看板类](#桌面小工具与看板类)
 
 | 软件 | 组织/开发者 |
 | - | - |
-| [ZongziTEK 黑板贴](#zongzitek%20黑板贴) | [`STBBRD`](https://github.com/STBBRD) |
-| [MoonCakeTEK 黑板贴](#mooncaketek%20黑板贴) | [`Doubx690i`](https://github.com/kriastans) |
+| [ZongziTEK黑板贴](#zongzitek%20黑板贴) | [`STBBRD`](https://github.com/STBBRD) |
+| [MoonCakeTEK黑板贴](#mooncaketek%20黑板贴) | [`Doubx690i`](https://github.com/kriastans) |
 | [StickyHomeworks](#stickyhomeworks) | [`HelloWRC`](https://github.com/HelloWRC) |
 | [Sticky-attention](#sticky-attention) | [`Sticky-attention`](https://github.com/Sticky-attention) [`jizilin6732`](https://github.com/jizilin6732) |
 | [HomeworkBoard](#homeworkboard) | [`EnderWolf006`](https://github.com/EnderWolf006) |
-| [DSZ 考试看板](#dsz%20考试看板) | [`hello8693DSZ`](https://github.com/hello8693DSZ) |
+| [DSZ考试看板](#dsz%20考试看板) | [`hello8693DSZ`](https://github.com/hello8693DSZ) |
 | [ClassTools](#classtools) | [`clansty`](https://github.com/clansty) |
 
 
