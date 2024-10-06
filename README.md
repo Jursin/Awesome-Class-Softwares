@@ -234,11 +234,11 @@
 	- 当前活动结束剩余时间、当前活动、接下来课程
 	- 天气、倒数日
 - 方便的提醒系统：
-	- [上下课提醒](https://www.yuque.com/rinlit/class-widgets_help/fv2ou1i1ngap0hrl))和预备铃
-- 简洁直观的[课程表编辑界面](https://www.yuque.com/rinlit/class-widgets_help/oozelh8r56tmw0xb))
-- [快捷调休/换课](https://www.yuque.com/rinlit/class-widgets_help/gc4epffu7g5bf9os))
+	- [上下课提醒](https://www.yuque.com/rinlit/class-widgets_help/fv2ou1i1ngap0hrl)和预备铃
+- 简洁直观的[课程表编辑界面](https://www.yuque.com/rinlit/class-widgets_help/oozelh8r56tmw0xb)
+- [快捷调休/换课](https://www.yuque.com/rinlit/class-widgets_help/gc4epffu7g5bf9os)
 - 同时存储多套课表，支持文件导入/导出
-- [个性化](https://www.yuque.com/rinlit/class-widgets_help/qyly70ht1ogge1pi))主题设置，支持浅色/深色模式
+- [个性化](https://www.yuque.com/rinlit/class-widgets_help/qyly70ht1ogge1pi)主题设置，支持浅色/深色模式
 
 <div align="center">
 
