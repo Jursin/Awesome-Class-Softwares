@@ -41,28 +41,28 @@
 | - | - |
 | [ClassIsland](#classisland) |  [`ClassIsland`](https://github.com/ClassIsland) [`HelloWRC`](https://github.com/HelloWRC) |
 | [ElectronClassSchedule](#electronclassschedule) | [`EnderWolf006`](https://github.com/EnderWolf006) |
-| [Class-Widgets](#class%20widgets) | [`RinLit-233-shiroko`](https://github.com/RinLit-233-shiroko) |
+| [Class-Widgets](#class-widgets) | [`RinLit-233-shiroko`](https://github.com/RinLit-233-shiroko) |
 
 ### [画板类](#画板类)
 
 | 软件 | 组织/开发者 |
 | - | - |
 | [Ink-Canvas](#ink-canvas) | [`WXRIW`](https://github.com/WXRIW) |
-| [Ink-Canvas-Artistry](#ink%20canvas%20artistry) | [`InkCanvas`](https://github.com/InkCanvas) [`ChangSakura`](https://github.com/ChangSakura) |
+| [Ink-Canvas-Artistry](#ink-canvas-artistry) | [`InkCanvas`](https://github.com/InkCanvas) [`ChangSakura`](https://github.com/ChangSakura) |
 | [InkCanvasForClass](#inkcanvasforclass) | [`InkCanvasForClass`](https://github.com/InkCanvasForClass) [`Doubx690i`](https://github.com/kriastans) |
-| [智绘教Inkeys](#智绘教%20inkeys) | [`Alan-CRL`](https://github.com/Alan-CRL) |
-| [Inkways-Classic](#inkways%20classic) | [`iNKORE Studios`](https://github.com/iNKORE-NET) |
+| [智绘教Inkeys](#智绘教inkeys) | [`Alan-CRL`](https://github.com/Alan-CRL) |
+| [Inkways-Classic](#inkways-classic) | [`iNKORE Studios`](https://github.com/iNKORE-NET) |
 
 ### [桌面小工具与看板类](#桌面小工具与看板类)
 
 | 软件 | 组织/开发者 |
 | - | - |
-| [ZongziTEK黑板贴](#zongzitek%20黑板贴) | [`STBBRD`](https://github.com/STBBRD) |
-| [MoonCakeTEK黑板贴](#mooncaketek%20黑板贴) | [`Doubx690i`](https://github.com/kriastans) |
+| [ZongziTEK黑板贴](#zongzitek黑板贴) | [`STBBRD`](https://github.com/STBBRD) |
+| [MoonCakeTEK黑板贴](#mooncaketek黑板贴) | [`Doubx690i`](https://github.com/kriastans) |
 | [StickyHomeworks](#stickyhomeworks) | [`HelloWRC`](https://github.com/HelloWRC) |
 | [Sticky-attention](#sticky-attention) | [`Sticky-attention`](https://github.com/Sticky-attention) [`jizilin6732`](https://github.com/jizilin6732) |
 | [HomeworkBoard](#homeworkboard) | [`EnderWolf006`](https://github.com/EnderWolf006) |
-| [DSZ考试看板](#dsz%20考试看板) | [`hello8693DSZ`](https://github.com/hello8693DSZ) |
+| [DSZ考试看板](#dsz考试看板) | [`hello8693DSZ`](https://github.com/hello8693DSZ) |
 | [ClassTools](#classtools) | [`clansty`](https://github.com/clansty) |
 
 
@@ -197,7 +197,7 @@
 
 <image src="https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/img%2FLogo.png" height="64"/>
 
-### Class Widgets
+### Class-Widgets
 
 ![Banner](https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/img%2FBanner.png)
 
@@ -304,7 +304,7 @@ Ink Canvas 画板是一款轻量级画板软件，基于WPF/C#，其针对希沃
 
 <image src="https://github.com/ChangSakura/Ink-Canvas/blob/master/Images/Ink%20Canvas%20Artistry.png" height="64"/>
 
-### Ink Canvas Artistry
+### Ink-Canvas-Artistry
 
 forked from [WXRIW/Ink-Canvas](https://github.com/WXRIW/Ink-Canvas)
 
@@ -404,7 +404,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 <image src="https://github.com/Alan-CRL/Inkeys/blob/main/GithubRes/logo.png" height="64"/>
 
-### 智绘教 Inkeys
+### 智绘教Inkeys
 
 ![cover](https://github.com/Alan-CRL/Inkeys/blob/main/GithubRes/cover2.png)
 
@@ -471,7 +471,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 <image src="Screenshots/Inkways/Inkways_256.png" height="64"/>
 
-### Inkways Classic
+### Inkways-Classic
 
 ![banner](Screenshots/Inkways/inkways_banner.png)
 ![editor](Screenshots/Inkways/image_inkways_10.png)
@@ -512,7 +512,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 <image src="https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/blob/master/ZongziTEK_Blackboard_Sticker%2F%E9%BB%91%E6%9D%BF%E8%B4%B4.png" height="64"/>
 
-### ZongziTEK 黑板贴
+### ZongziTEK黑板贴
 
 ![Screenshot](https://i.postimg.cc/PfC89pfQ/Light.png)
 
@@ -564,7 +564,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 <img src="https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker/blob/master/MoonCakeTEK_Blackboard_Sticker/mbs.png" height="64">
 
-### MoonCakeTEK 黑板贴
+### MoonCakeTEK黑板贴
 
 forked from [STBBRD/ZongziTEK-Blackboard-Sticker](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker)
 
@@ -747,7 +747,7 @@ Sticky-attention 是一款适用于Windows 系统教室一体机的作业显示�
 
 <image src="https://github.com/hello8693DSZ/dsz-exam-showboard/blob/master/resources/icon.png" height="64"/>
 
-### DSZ 考试看板
+### DSZ考试看板
 
 ![WelcomePage](Screenshots/DSZ-Exam-Showboard/WelcomePage.png)
 ![ExamPage](Screenshots/DSZ-Exam-Showboard/ExamPage.png)
