@@ -883,23 +883,27 @@ https://github.com/hello8693DSZ/dsz-exam-showboard)
 	- [X] 亮色主题
 	- [X] 使用方便
 
+<div align="center">
 
 ## Contributors
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Jursin"><img src="https://avatars.githubusercontent.com/u/127487914?v=4?s=100" width="100px;" alt="Jursin"/><br /><sub><b>Jursin</b></sub></a><br /><a href="https://github.com/Jursin/Awesome-Class-Softwares/commits?author=Jurisn" title="Code">💻</a> <a href="#design-Jurain" title="Design">🎨</a> <a href="https://github.com/Jursin/Awesome-Class-Softwares/commits?author=Jursin" title="Documentation">📖</a> <a href="#ideas-Jursin" title="Ideas, Planning, & Feedback">🤔</a>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Jursin"><img src="https://avatars.githubusercontent.com/u/178344462?v=4?s=100" width="100px;" alt="MKStoler4096"/><br /><sub><b>MKStoler4096</b></sub></a><br /><a href="https://github.com/Jursin/Awesome-Class-Softwares/commits?author=Jurisn" title="Code">💻</a> <a href="#design-Jurain" title="Design">🎨</a> <a href="https://github.com/Jursin/Awesome-Class-Softwares/commits?author=Jursin" title="Documentation">📖</a> <a href="#ideas-MKStoler4096" title="Ideas, Planning, & Feedback">🤔</a>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Aris-Offline"><img src="https://avatars.githubusercontent.com/u/65645068?v=4?s=100" width="100px;" alt="Aris-Offline"/><br /><sub><b>Aris-Offline</b></sub></a><br /><a href="https://github.com/Jursin/Awesome-Class-Softwares/commits?author=Jurisn" title="Code">💻</a> <a href="#design-Jurain" title="Design">🎨</a> <a href="https://github.com/Jursin/Awesome-Class-Softwares/commits?author=Jursin" title="Documentation">📖</a> <a href="#ideas-Aris-Offline" title="Ideas, Planning, & Feedback">🤔</a></td>
+    </tr>
+  </tbody>
+</table>
 
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
+</div>
 
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+<div align="center">
 
 ## Stars 历史
 
 [![Star 历史](https://starchart.cc/Jursin/Awesome-Class-Softwares.svg?variant=adaptive)](https://starchart.cc/Jursin/Awesome-Class-Softwares)
-
-<div align="center">
 
 如果这个项目对您有帮助，请点亮 Star ⭐
 
