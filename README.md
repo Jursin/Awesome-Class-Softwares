@@ -904,8 +904,6 @@ https://github.com/hello8693DSZ/dsz-exam-showboard)
 ![Update Status](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E9%9D%9E%E5%B8%B8%E6%B4%BB%E8%B7%83-green)
 [![GitHub Language Count](https://img.shields.io/github/languages/count/CNwenwen/SeewoHUB)](https://github.com/CNwenwen/SeewoHUB)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/CNwenwen/SeewoHUB)](https://github.com/CNwenwen/SeewoHUB)
-[![LICENSE](https://img.shields.io/badge/License-MIT-red.svg "LICENSE")](https://github.com/SectionIstool/SectionIstool/blob/master/LICENSE.txt)
-
 
 一款方便、快捷下载适合班级一体机使用的各类软件的下载器
 
