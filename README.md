@@ -63,12 +63,12 @@
 | 软件 | 组织/开发者 |
 | - | - |
 | [ZongziTEK黑板贴](#zongzitek黑板贴) | [`STBBRD`](https://github.com/STBBRD) |
-| [MoonCakeTEK黑板贴（已删库）](#mooncaketek黑板贴（已删库）) | [`Doubx690i(永远怀念)`](https://github.com/kriastans) |
+| [MoonCakeTEK黑板贴](#mooncaketek黑板贴) | [`Doubx690i(永远怀念)`](https://github.com/kriastans) |
 | [StickyHomeworks](#stickyhomeworks) | [`HelloWRC`](https://github.com/HelloWRC) |
 | [Sticky-attention](#sticky-attention) | [`Sticky-attention`](https://github.com/Sticky-attention) [`jizilin6732`](https://github.com/jizilin6732) |
 | [HomeworkBoard](#homeworkboard) | [`EnderWolf006`](https://github.com/EnderWolf006) |
 | [DSZ考试看板](#dsz考试看板) | [`hello8693DSZ`](https://github.com/hello8693DSZ) |
-| [DSZ考试看板Next](#dsz考试看板next（原dsz考试看板）) | [`ProjectCampus-CH`](https://github.com/ProjectCampus-CH) |
+| [DSZ考试看板Next](#dsz考试看板next) | [`ProjectCampus-CH`](https://github.com/ProjectCampus-CH) |
 | [ClassTools](#classtools) | [`clansty`](https://github.com/clansty) |
 
 
@@ -574,7 +574,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 <img src="https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker/blob/master/MoonCakeTEK_Blackboard_Sticker/mbs.png" height="64">
 
-### MoonCakeTEK黑板贴（已删库）
+### MoonCakeTEK黑板贴
 
 forked from [STBBRD/ZongziTEK-Blackboard-Sticker](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker)
 
@@ -783,9 +783,6 @@ Sticky-attention 是一款适用于Windows 系统教室一体机的作业显示�
 
 一款显示当前时间与考试详细信息的看板类软件。
 
-| 下载 | [Realeases](https://github.com/hello8693DSZ/dsz-exam-showboard/releases) | [Actions](https://github.com/hello8693DSZ/dsz-exam-showboard/actions) |
-| - | - | - |
-
 <img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/hello8693DSZ/dsz-exam-showboard](
 https://github.com/hello8693DSZ/dsz-exam-showboard)
 
@@ -806,9 +803,9 @@ https://github.com/hello8693DSZ/dsz-exam-showboard)
 
 <div align="center">
 
-<image src="resources/icon.png" height="64"/>
+<image src="https://github.com/ProjectCampus-CH/dsz-exam-showboard-next/blob/master/resources%2Ficon.png" height="64"/>
 
-### DSZ考试看板Next（原DSZ考试看板）
+### DSZ考试看板Next
 
 forked from [hello8693DSZ/dsz-exam-showboard](
 https://github.com/hello8693DSZ/dsz-exam-showboard)
@@ -831,9 +828,6 @@ https://github.com/hello8693DSZ/dsz-exam-showboard)
 [![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C901670561-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/zDiEipHsaI)
 
 一款显示当前时间与考试详细信息的看板类软件
-
-| 下载 | [Releases](https://github.com/ProjectCampus-CH/dsz-exam-showboard-next/releases) | [Actions](https://github.com/ProjectCampus-CH/dsz-exam-showboard-next/actions) |
-| - | - | - |
 
 </div>
 
@@ -922,8 +916,6 @@ https://github.com/hello8693DSZ/dsz-exam-showboard)
 
 <img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/SectionIstool/SectionIstool](https://github.com/SectionIstool/SectionIstool)
 
-下载｜[Releases](https://github.com/lzy98276/SectionIstool/releases)
-
 </div>
 
 > [!warning]
@@ -969,9 +961,6 @@ https://github.com/hello8693DSZ/dsz-exam-showboard)
 一款方便、快捷下载适合班级一体机使用的各类软件的下载器
 
 <img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/CNwenwen/SeewoHUB](https://github.com/CNwenwen/SeewoHUB)
-
-| 下载 | [Releases](https://github.com/CNwenwen/SeewoHUB/releases) |
-| - | - |
 
 </div>
 
