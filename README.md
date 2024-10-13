@@ -20,15 +20,18 @@
 > 
 > **欢迎为本合集项目推荐新软件或提出问题，您可以提交[`Issues`](https://github.com/Jursin/Awesome-Class-Softwares/issues)或[`Pull Requests`](https://github.com/Jursin/Awesome-Class-Softwares/pulls)。**
 
+> [!warning]
+> **以下软件均为免费，如遇收费提示请注意甄别！**
+
 > [!tip]
 > **你知道吗？**
 > 
-> **以下项目开发者基本都是高中生**🤓
+> **以下项目开发者基本都是学生**🤓
 > 
 > **以下徽章大部分点击后可跳转到对应链接**🔗
 > 
 > **同类项目**
-> [kriastans/Awesome-Iwb](https://github.com/kriastans/Awesome-Iwb)
+> [Aris-Station/Awesome-Iwb](https://github.com/Aris-Station/Awesome-Iwb)
 > [hello8693DSZ/awesome-whiteboard](https://github.com/hello8693DSZ/awesome-whiteboard)
 
 <div align="center">
@@ -49,7 +52,7 @@
 | - | - |
 | [Ink-Canvas](#ink-canvas) | [`WXRIW`](https://github.com/WXRIW) |
 | [Ink-Canvas-Artistry](#ink-canvas-artistry) | [`InkCanvas`](https://github.com/InkCanvas) [`ChangSakura`](https://github.com/ChangSakura) |
-| [InkCanvasForClass](#inkcanvasforclass) | [`InkCanvasForClass`](https://github.com/InkCanvasForClass) [`Doubx690i`](https://github.com/kriastans) |
+| [InkCanvasForClass](#inkcanvasforclass) | [`InkCanvasForClass`](https://github.com/InkCanvasForClass) [`Doubx690i(永远怀念)`](https://github.com/kriastans) |
 | [智绘教Inkeys](#智绘教inkeys) | [`Alan-CRL`](https://github.com/Alan-CRL) |
 | [Inkways-Classic](#inkways-classic) | [`iNKORE Studios`](https://github.com/iNKORE-NET) |
 
@@ -58,11 +61,12 @@
 | 软件 | 组织/开发者 |
 | - | - |
 | [ZongziTEK黑板贴](#zongzitek黑板贴) | [`STBBRD`](https://github.com/STBBRD) |
-| [MoonCakeTEK黑板贴](#mooncaketek黑板贴) | [`Doubx690i`](https://github.com/kriastans) |
+| [MoonCakeTEK黑板贴](#mooncaketek黑板贴) | [`Doubx690i(永远怀念)`](https://github.com/kriastans) |
 | [StickyHomeworks](#stickyhomeworks) | [`HelloWRC`](https://github.com/HelloWRC) |
 | [Sticky-attention](#sticky-attention) | [`Sticky-attention`](https://github.com/Sticky-attention) [`jizilin6732`](https://github.com/jizilin6732) |
 | [HomeworkBoard](#homeworkboard) | [`EnderWolf006`](https://github.com/EnderWolf006) |
 | [DSZ考试看板](#dsz考试看板) | [`hello8693DSZ`](https://github.com/hello8693DSZ) |
+| [DSZ考试看板Next](#dsz考试看板next（原dsz考试看板）) | [`ProjectCampus-CH`](https://github.com/ProjectCampus-CH) |
 | [ClassTools](#classtools) | [`clansty`](https://github.com/clansty) |
 
 
@@ -169,7 +173,7 @@
 [![Release](https://img.shields.io/github/v/release/EnderWolf006/ElectronClassSchedule?style=flat&color=%233fb950&label=正式版)](https://github.com/EnderWolf006/ElectronClassSchedule/releases/latest) 
 [![Created At](https://img.shields.io/github/created-at/EnderWolf006/ElectronClassSchedule)](https://github.com/EnderWolf006/ElectronClassSchedule)
 [![Github Last Commit](https://img.shields.io/github/last-commit/EnderWolf006/ElectronClassSchedule)](https://github.com/EnderWolf006/ElectronClassSchedule/commits/main)
-![Update Status](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E8%BE%83%E4%B8%8D%E6%B4%BB%E8%B7%83-yellow)
+![Update Status](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E9%97%B2%E7%BD%AE-yellow)
 [![GitHub Language Count](https://img.shields.io/github/languages/count/ClassIsland/ClassIsland)](https://github.com/ClassIsland/ClassIsland)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/EnderWolf006/ElectronClassSchedule)](https://github.com/EnderWolf006/ElectronClassSchedule)
 [![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/EnderWolf006/ElectronClassSchedule/blob/main/LICENSE)
@@ -337,38 +341,42 @@ forked from [WXRIW/Ink-Canvas](https://github.com/WXRIW/Ink-Canvas)
 
 <div align="center">
 
-<image src="https://github.com/InkCanvasForClass/InkCanvasForClass/blob/master/icc.png" height="64"/>
+<image src="https://github.com/InkCanvas/InkCanvasForClass/blob/master/icc.png" height="64"/>
 
 ### InkCanvasForClass
 
-![illustration](https://github.com/InkCanvasForClass/InkCanvasForClass/blob/master/icc-github-illustrations.png)
+![illustration](https://github.com/InkCanvas/InkCanvasForClass/blob/master/icc-github-illustrations.png)
 ![toolbar](Screenshots/InkCanvasForClass/toolbar.png)
 ![board](Screenshots/InkCanvasForClass/board.png)
 
-[![stars](https://img.shields.io/github/stars/InkCanvasForClass/InkCanvasForClass?label=Stars)](https://github.com/InkCanvasForClass/InkCanvasForClass)
-[![forks](https://img.shields.io/github/forks/InkCanvasForClass/InkCanvasForClass?label=Forks)](https://github.com/InkCanvasForClass/InkCanvasForClass)
-[![Watchers](https://img.shields.io/github/watchers/InkCanvasForClass/InkCanvasForClass?style=social)](https://github.com/InkCanvasForClass/InkCanvasForClass/watchers)
-[![Created At](https://img.shields.io/github/created-at/InkCanvasForClass/InkCanvasForClass)](https://github.com/InkCanvasForClass/InkCanvasForClass)
-[![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvasForClass/InkCanvasForClass)](https://github.com/InkCanvasForClass/InkCanvasForClass/commits/master)
-![Update Status](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E6%B4%BB%E8%B7%83-blue)
-[![GitHub Language Count](https://img.shields.io/github/languages/count/InkCanvasForClass/InkCanvasForClass)](https://github.com/InkCanvasForClass/InkCanvasForClass)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/InkCanvasForClass/InkCanvasForClass)](https://github.com/InkCanvasForClass/InkCanvasForClass)
-[![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/InkCanvasForClass/InkCanvasForClass/blob/master/LICENSE)
-[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C979119289-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/YRcULbjimI)
+[![stars](https://img.shields.io/github/stars/InkCanvas/InkCanvasForClass?label=Stars)](https://github.com/InkCanvas/InkCanvasForClass)
+[![forks](https://img.shields.io/github/forks/InkCanvas/InkCanvasForClass?label=Forks)](https://github.com/InkCanvas/InkCanvasForClass)
+[![Watchers](https://img.shields.io/github/watchers/InkCanvas/InkCanvasForClass?style=social)](https://github.com/InkCanvas/InkCanvasForClass/watchers)
+[![Created At](https://img.shields.io/github/created-at/InkCanvas/InkCanvasForClass)](https://github.com/InkCanvas/InkCanvasForClass)
+[![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvas/InkCanvasForClass)](https://github.com/InkCanvas/InkCanvasForClass/commits/master)
+![Update Status](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E5%B7%B2%E5%AD%98%E6%A1%A3%C2%B7%E5%8F%AA%E8%AF%BB-red)
+[![GitHub Language Count](https://img.shields.io/github/languages/count/InkCanvas/InkCanvasForClass)](https://github.com/InkCanvas/InkCanvasForClass)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/InkCanvas/InkCanvasForClass)](https://github.com/InkCanvas/InkCanvasForClass)
+[![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/InkCanvas/InkCanvasForClass/blob/master/LICENSE)
+[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C979119289%EF%BC%88%E5%B7%B2%E8%A7%A3%E6%95%A3%EF%BC%89-grey?style=flat&logo=TencentQQ)](https://qm.qq.com/q/YRcULbjimI)
 [![Telegram](https://img.shields.io/badge/-Telegram%EF%BD%9C@InkCanvasForClass-blue?style=flat&logo=Telegram)](https://t.me/InkCanvasForClass)
 
 InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [Ink Canvas Artistry](https://github.com/InkCanvas/Ink-Canvas-Artistry)项目二次开发而来。该项目着重于优化原项目的 UI 设计，使其更便于课堂使用，同时也在积极开发新功能，修理原项目的不合理之处。
 
-[新网站](https://icc.bliemhax.com/)｜[常见问题](https://github.com/InkCanvasForClass/InkCanvasForClass?tab=readme-ov-file#faq)
+> 原作者 kriastans 在 2024/10/12 与父母发生矛盾后注销了其大多数社交及 GitHub 账号，并宣布退网。
+> 
+> [发生了什么？](#发生了什么)
 
-<img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/InkCanvasForClass/InkCanvasForClass](https://github.com/InkCanvasForClass/InkCanvasForClass) 
+[新网站](https://icc.bliemhax.com/)｜[常见问题](https://github.com/InkCanvas/InkCanvasForClass?tab=readme-ov-file#faq)
+
+<img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/InkCanvas/InkCanvasForClass](https://github.com/InkCanvas/InkCanvasForClass) 
 
 </div>
 
 > [!important]
 > **此项目仍在开发中，只会在发布正式发行版时提供Release**
 > 
-> **[`QQ 群`](https://qm.qq.com/q/EcOQryBQNW)内有 ICC 比较稳定的版本，可在群文件中获取**
+> **[`QQ 群(已解散)`](https://qm.qq.com/q/EcOQryBQNW)内有 ICC 比较稳定的版本，可在群文件中获取**
 
 #### 基础功能
 - 屏幕批注
@@ -564,7 +572,7 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
 
 <img src="https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker/blob/master/MoonCakeTEK_Blackboard_Sticker/mbs.png" height="64">
 
-### MoonCakeTEK黑板贴
+### MoonCakeTEK黑板贴（已删库）
 
 forked from [STBBRD/ZongziTEK-Blackboard-Sticker](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker)
 
@@ -574,16 +582,19 @@ forked from [STBBRD/ZongziTEK-Blackboard-Sticker](https://github.com/STBBRD/Zong
 [![Downloads](https://img.shields.io/github/downloads/kriastans/MoonCakeTEK-Blackboard-Sticker/total?style=social&label=Downloads&logo=github)](https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker/releases/latest)
 [![GitHub Issues](https://img.shields.io/github/issues-search/kriastans/MoonCakeTEK-Blackboard-Sticker?query=is%3Aopen&style=flat&logo=github&label=Issues&color=%233fb950)](https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker/issues)
 [![GitHub Discussions](https://img.shields.io/github/discussions/kriastans/MoonCakeTEK-Blackboard-Sticker?style=flat&logo=Github&label=Discussions)](https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker/discussions)
-[![Release](https://img.shields.io/github/v/release/kriastans/MoonCakeTEK-Blackboard-Sticker?style=flat&color=%233fb950&label=正式版)](https://github.com/SectionIstool/SectionIstool/releases/latest) 
 [![Created At](https://img.shields.io/github/created-at/kriastans/MoonCakeTEK-Blackboard-Sticker)](https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker)
 [![Github Last Commit](https://img.shields.io/github/last-commit/kriastans/MoonCakeTEK-Blackboard-Sticker)](https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker/commits/master)
-![Update Status](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E9%9D%9E%E5%B8%B8%E6%B4%BB%E8%B7%83-green)
+![Update Status](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E5%B7%B2%E5%88%A0%E5%BA%93-red)
 [![GitHub Language Count](https://img.shields.io/github/languages/count/kriastans/MoonCakeTEK-Blackboard-Sticker)](https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/kriastans/MoonCakeTEK-Blackboard-Sticker)](https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker)
 [![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker/blob/master/LICENSE.txt)
-[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C773462012-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/IKD5lLWGAu)
+[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C773462012%EF%BC%88%E5%B7%B2%E8%A7%A3%E6%95%A3%EF%BC%89-grey?style=flat&logo=TencentQQ)](https://qm.qq.com/q/IKD5lLWGAu)
 
 用于班级一体机的桌面小部件
+
+> 原作者 kriastans 在 2024/10/12 与父母发生矛盾后注销了其大多数社交及 GitHub 账号，并宣布退网。
+> 
+> [发生了什么？](#发生了什么)
 
 <img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker](https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker)
 
@@ -619,7 +630,7 @@ forked from [STBBRD/ZongziTEK-Blackboard-Sticker](https://github.com/STBBRD/Zong
 [![GitHub Issues](https://img.shields.io/github/issues-search/HelloWRC/StickyHomeworks?query=is%3Aopen&style=flat&logo=github&label=Issues&color=%233fb950)](https://github.com/HelloWRC/StickyHomeworks/issues)
 [![Created At](https://img.shields.io/github/created-at/HelloWRC/StickyHomeworks)](https://github.com/HelloWRC/StickyHomeworks)
 [![Github Last Commit](https://img.shields.io/github/last-commit/HelloWRC/StickyHomeworks)](https://github.com/HelloWRC/StickyHomeworks/commits/master)
-![Update Status](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E6%97%A9%E6%9C%9F%E5%BC%80%E5%8F%91%E4%B8%AD-red)
+![Update Status](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E6%97%A9%E6%9C%9F%E5%BC%80%E5%8F%91%E4%B8%AD%EF%BD%9C%E9%97%B2%E7%BD%AE-red)
 [![GitHub Language Count](https://img.shields.io/github/languages/count/HelloWRC/StickyHomeworks)](https://github.com/HelloWRC/StickyHomeworks)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/HelloWRC/StickyHomeworks)](https://github.com/HelloWRC/StickyHomeworks)
 [![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/HelloWRC/StickyHomeworks/blob/master/LICENSE.txt)
@@ -657,7 +668,8 @@ forked from [HelloWRC/StickyHomeworks](https://github.com/HelloWRC/StickyHomewor
 
 ![banner](https://github.com/Sticky-attention/Sticky-attention/blob/master/image/banner.jpg)
 
-![主界面](https://github.com/Sticky-attention/Sticky-attention/blob/master/image/%E4%B8%BB%E7%95%8C%E9%9D%A2.jpg)
+![主界面](Screenshots/Sticky-attention/主界面.png)
+![设置](Screenshots/Sticky-attention/设置.png)
 
 主界面
 
@@ -692,10 +704,11 @@ Sticky-attention 是一款适用于Windows 系统教室一体机的作业显示�
 - [X] 按科目分类，科目预设
 - [X] 为作业添加标签
 - [X] 主界面全局缩放
-- [X] 自动清理过期作业
+- [X] 一键清理/恢复过期作业
 - [X] 导出作业面板截图
-- [ ] 支持软件自动更新
-- [ ] 界面圆角
+- [X] 支持软件自动更新
+- [X] 界面圆角
+- [X] 插入图片
 
 <div align="center">
 
@@ -713,7 +726,7 @@ Sticky-attention 是一款适用于Windows 系统教室一体机的作业显示�
 [![Release](https://img.shields.io/github/v/release/EnderWolf006/HomeworkBoard?style=flat&color=%233fb950&label=正式版)](https://github.com/EnderWolf006/HomeworkBoard/releases/latest)
 [![Created At](https://img.shields.io/github/created-at/EnderWolf006/HomeworkBoard)](https://github.com/EnderWolf006/HomeworkBoard)
 [![Github Last Commit](https://img.shields.io/github/last-commit/EnderWolf006/HomeworkBoard)](https://github.com/EnderWolf006/HomeworkBoard/commits/main)
-![Update Status](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E8%BE%83%E4%B8%8D%E6%B4%BB%E8%B7%83-yellow)
+![Update Status](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E9%97%B2%E7%BD%AE-yellow)
 [![GitHub Language Count](https://img.shields.io/github/languages/count/EnderWolf006/HomeworkBoard)](https://github.com/EnderWolf006/HomeworkBoard)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/EnderWolf006/HomeworkBoard)](https://github.com/EnderWolf006/HomeworkBoard)
 [![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/EnderWolf006/HomeworkBoard/blob/main/LICENSE)
@@ -768,7 +781,8 @@ Sticky-attention 是一款适用于Windows 系统教室一体机的作业显示�
 
 一款显示当前时间与考试详细信息的看板类软件。
 
-下载 [Realeases](https://github.com/hello8693DSZ/dsz-exam-showboard/releases) | [Actions](https://github.com/hello8693DSZ/dsz-exam-showboard/actions)
+| 下载 | [Realeases](https://github.com/hello8693DSZ/dsz-exam-showboard/releases) | [Actions](https://github.com/hello8693DSZ/dsz-exam-showboard/actions) |
+| - | - | - |
 
 <img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/hello8693DSZ/dsz-exam-showboard](
 https://github.com/hello8693DSZ/dsz-exam-showboard)
@@ -790,6 +804,51 @@ https://github.com/hello8693DSZ/dsz-exam-showboard)
 
 <div align="center">
 
+<image src="resources/icon.png" height="64"/>
+
+### DSZ考试看板Next（原DSZ考试看板）
+
+forked from [hello8693DSZ/dsz-exam-showboard](
+https://github.com/hello8693DSZ/dsz-exam-showboard)
+
+
+![WelcomePage](Screenshots/DSZ-Exam-Showboard-next/WelcomePage.jpg)
+![ExamPage](Screenshots/DSZ-Exam-Showboard-next/ExamPage.png)
+
+[![stars](https://img.shields.io/github/stars/ProjectCampus-CH/dsz-exam-showboard-next?label=Stars)](https://github.com/ProjectCampus-CH/dsz-exam-showboard-next/stargazers)
+[![forks](https://img.shields.io/github/forks/ProjectCampus-CH/dsz-exam-showboard-next?label=Forks)](https://github.com/ProjectCampus-CH/dsz-exam-showboard-next/forks)
+[![Watchers](https://img.shields.io/github/watchers/ProjectCampus-CH/dsz-exam-showboard-next?style=social)](https://github.com/ProjectCampus-CH/dsz-exam-showboard-next/watchers)
+[![Downloads](https://img.shields.io/github/downloads/ProjectCampus-CH/dsz-exam-showboard-next/total?style=social&label=Downloads&logo=github)](https://github.com/ProjectCampus-CH/dsz-exam-showboard-next/releases)
+[![GitHub Issues](https://img.shields.io/github/issues-search/ProjectCampus-CH/dsz-exam-showboard-next?query=is%3Aopen&style=social-square&logo=github&label=Issues&color=%233fb950)](https://github.com/ProjectCampus-CH/dsz-exam-showboard-next/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/ProjectCampus-CH/dsz-exam-showboard-next?style=flat&logo=Github&label=Discussions)](https://github.com/ProjectCampus-CH/dsz-exam-showboard-next/discussions)
+[![Created At](https://img.shields.io/github/created-at/ProjectCampus-CH/dsz-exam-showboard-next)](https://github.com/ProjectCampus-CH/dsz-exam-showboard-next)
+[![Github Last Commit](https://img.shields.io/github/last-commit/ProjectCampus-CH/dsz-exam-showboard-next)](https://github.com/ProjectCampus-CH/dsz-exam-showboard-next/commits/master)
+[![GitHub Language Count](https://img.shields.io/github/languages/count/ProjectCampus-CH/dsz-exam-showboard-next)](https://github.com/ProjectCampus-CH/dsz-exam-showboard-next)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/ProjectCampus-CH/dsz-exam-showboard-next)](https://github.com/ProjectCampus-CH/dsz-exam-showboard-next)
+[![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/ProjectCampus-CH/dsz-exam-showboard-next/blob/master/LICENSE)
+[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C901670561-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/zDiEipHsaI)
+
+一款显示当前时间与考试详细信息的看板类软件
+
+| 下载 | [Releases](https://github.com/ProjectCampus-CH/dsz-exam-showboard-next/releases) | [Actions](https://github.com/ProjectCampus-CH/dsz-exam-showboard-next/actions) |
+| - | - | - |
+
+</div>
+
+#### 功能
+- 起始页展示`打开配置`、`直接进入看板`按钮
+- 看板页面
+	- 上方展示`考试标题`、`信息`
+	- 左侧展示`当前时间`、`当前科目`、`考试时间`、`考试状态`
+	- 右侧展示考试科目列表，包括`科目`、`开始`、`结束`、`状态`
+	- 考试结束前15分钟黄字提醒
+	- 开考前15分钟和考试期间的倒计时
+	- 分日期显示考试列表
+- 关于页面
+
+
+<div align="center">
+
 <image src="icons/ClassTools.png" height="64"/>
 
 ### ClassTools
@@ -805,7 +864,7 @@ https://github.com/hello8693DSZ/dsz-exam-showboard)
 [![Release](https://img.shields.io/github/v/release/clansty/ClassTools?style=flat&color=%233fb950&label=正式版)](https://github.com/clansty/ClassTools/releases/latest)
 [![Created At](https://img.shields.io/github/created-at/clansty/ClassTools)](https://github.com/clansty/ClassTools)
 [![Github Last Commit](https://img.shields.io/github/last-commit/clansty/ClassTools)](https://github.com/clansty/ClassTools/commits/main)
-![Update Status](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E9%95%BF%E6%9C%9F%E6%9C%AA%E6%9B%B4%E6%96%B0-red)
+![Update Status](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E9%97%B2%E7%BD%AE-yellow)
 [![GitHub Language Count](https://img.shields.io/github/languages/count/clansty/ClassTools)](https://github.com/clansty/ClassTools)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/clansty/ClassTools)](https://github.com/clansty/ClassTools)
 [![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/clansty/ClassTools/blob/main/LICENSE)
@@ -942,6 +1001,7 @@ https://github.com/hello8693DSZ/dsz-exam-showboard)
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Jursin"><img src="https://avatars.githubusercontent.com/u/127487914?v=4?s=100" width="100px;" alt="Jursin"/><br /><sub><b>Jursin</b></sub></a><br /><a href="https://github.com/Jursin/Awesome-Class-Softwares/commits?author=Jurisn" title="Code">💻</a> <a href="https://github.com/Jursin/Awesome-Class-Softwares/commits?author=Jursin" title="Documentation">📖</a>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/MKStoler4096"><img src="https://avatars.githubusercontent.com/u/178344462?v=4?s=100" width="100px;" alt="MKStoler4096"/><br /><sub><b>MKStoler4096</b></sub></a><br /><a href="https://github.com/Jursin/Awesome-Class-Softwares/commits?author=MKStoler4096" title="Code">💻</a> <a href="https://github.com/Jursin/Awesome-Class-Softwares/commits?author=MKStoler4096" title="Documentation">📖</a> <a href="#ideas-MKStoler4096" title="Ideas, Planning, & Feedback">🤔</a>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Aris-Offline"><img src="https://avatars.githubusercontent.com/u/65645068?v=4?s=100" width="100px;" alt="Aris-Offline"/><br /><sub><b>Aris-Offline</b></sub></a><br /><a href="https://github.com/Jursin/Awesome-Class-Softwares/commits?author=Aris-Offline" title="Code">💻</a> <a href="https://github.com/Jursin/Awesome-Class-Softwares/commits?author=Aris-Offline" title="Documentation">📖</a> <a href="#ideas-Aris-Offline" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kriastans"><img src="https://i1.hdslb.com/bfs/face/684971265e462c603ae06cfac293ebeadbdd9319.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif" width="100px;" alt="kriastans"/><br /><sub><b>kriastans</b></sub></a><br />💻 📖 🤔</td>
     </tr>
   </tbody>
 </table>
@@ -957,3 +1017,38 @@ https://github.com/hello8693DSZ/dsz-exam-showboard)
 如果这个项目对您有帮助，请点亮 Star ⭐
 
 </div>
+
+##### 发生了什么？
+
+![sadly](https://github.com/Aris-Station/Awesome-Iwb/blob/master/images%2Fsadly....png)
+
+kriastans 其他网名：
+dubi906w doubx690i 蘭桂坊的酒與燈
+
+> <img src="https://i1.hdslb.com/bfs/face/684971265e462c603ae06cfac293ebeadbdd9319.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif" width="48px">
+> 
+> kriastans:
+> 
+> 告别书
+> 
+> 对不起，互联网上有缘再见。
+> 
+> 我所有的选择、所有的努力，似乎从未得到过家庭的支持。他们早已为我规划好了人生的轨迹，每一步都在他们的掌控中，而我，只是一个在这条预设的路上行走的影子。他们不会理解我，也从未试图去理解我。
+> 
+> 他们眼中的“美好生活”是一座牢笼，束缚着我的思想和灵魂。他们对我的期望是成为一个毫无个性、没有任何欲望和梦想的“品学兼优”的学生。我本可以顺从，成为他们想要的那种人：成绩优异、听话乖巧、从不质疑命运安排的木偶。但是我不甘心。我渴望创造，渴望通过开发实现我的理想，去追寻属于我自己的世界。可这条路，早已被他们的冷漠和打压淹没了。
+> 
+> 我的家人，因为我哥曾经的失败，再也不相信任何不同于他们想象中的道路。开发，这条原本让我充满希望的路，在他们眼中变得毫无意义，甚至是通向毁灭的陷阱。他们虽然相信我，但从未理解过我，也不能理解我的能力。
+> 
+> 这些打击一遍遍地摧毁着我，直至我对自己的选择产生了深深的动摇。我开始怀疑，我到底还有什么意义？曾经热爱的开发，如今也变成了沉重的枷锁。
+> 
+> 现在，我不再有力量去坚持这条路了。我的梦想如同破碎的镜子，每一片碎片都刺痛着我，却再也无法复原。既然他们不支持，那我还有什么理由继续抗争？或许顺从才是唯一的选择，放弃自我，成为他们期望的那种人，走上他们为我设计好的生活。
+> 
+> 我对开发已经彻底失去了兴趣。未来的我，可能会成为一个“品学兼优”的学生，考上大学，找到工作，过上所谓“成功”的人生。日复一日，重复着毫无意义的工作，赚着冰冷的金钱，生活在一成不变的灰色世界里。也许我会找到新的爱好，但那不会再是我曾经的梦想。我的激情和创造力早已死去，剩下的只是一个空壳，在他们设计的道路上，机械地前行。
+> 
+> 或许，未来的我会对那时所赚到的钱感到满意，但这并不是我曾渴望的生活。
+> 
+> 有缘再见
+> 
+> 2024年10月11日
+
+永远怀念kriastans！
