@@ -62,7 +62,7 @@
 | 软件 | 组织/开发者 |
 | - | - |
 | [ZongziTEK黑板贴](#zongzitek黑板贴) | [`STBBRD`](https://github.com/STBBRD) |
-| [MoonCakeTEK黑板贴](#mooncaketek黑板贴) | [`Doubx690i(永远怀念)`](https://github.com/kriastans) |
+| [MoonCakeTEK黑板贴（已删库）](#mooncaketek黑板贴（已删库）) | [`Doubx690i(永远怀念)`](https://github.com/kriastans) |
 | [StickyHomeworks](#stickyhomeworks) | [`HelloWRC`](https://github.com/HelloWRC) |
 | [Sticky-attention](#sticky-attention) | [`Sticky-attention`](https://github.com/Sticky-attention) [`jizilin6732`](https://github.com/jizilin6732) |
 | [HomeworkBoard](#homeworkboard) | [`EnderWolf006`](https://github.com/EnderWolf006) |
@@ -364,15 +364,15 @@ forked from [WXRIW/Ink-Canvas](https://github.com/WXRIW/Ink-Canvas)
 
 InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [Ink Canvas Artistry](https://github.com/InkCanvas/Ink-Canvas-Artistry)项目二次开发而来。该项目着重于优化原项目的 UI 设计，使其更便于课堂使用，同时也在积极开发新功能，修理原项目的不合理之处。
 
-> 原作者 kriastans 在 2024/10/12 与父母发生矛盾后注销了其大多数社交及 GitHub 账号，并宣布退网。
-> 
-> [发生了什么？](#发生了什么)
-
 [新网站](https://icc.bliemhax.com/)｜[常见问题](https://github.com/InkCanvas/InkCanvasForClass?tab=readme-ov-file#faq)
 
 <img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/InkCanvas/InkCanvasForClass](https://github.com/InkCanvas/InkCanvasForClass) 
 
 </div>
+
+> 原作者 kriastans 在 2024/10/12 与父母发生矛盾后注销了其大多数社交及 GitHub 账号，并宣布退网。
+> 
+> [发生了什么？](#发生了什么)
 
 > [!important]
 > **此项目仍在开发中，只会在发布正式发行版时提供Release**
@@ -593,13 +593,13 @@ forked from [STBBRD/ZongziTEK-Blackboard-Sticker](https://github.com/STBBRD/Zong
 
 用于班级一体机的桌面小部件
 
-> 原作者 kriastans 在 2024/10/12 与父母发生矛盾后注销了其大多数社交及 GitHub 账号，并宣布退网。
-> 
-> [发生了什么？](#发生了什么)
-
 <img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker](https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker)
 
 </div>
+
+> 原作者 kriastans 在 2024/10/12 与父母发生矛盾后注销了其大多数社交及 GitHub 账号，并宣布退网。
+> 
+> [发生了什么？](#发生了什么)
 
 #### 修复
 
@@ -1023,9 +1023,6 @@ https://github.com/hello8693DSZ/dsz-exam-showboard)
 
 ![sadly](https://github.com/Aris-Station/Awesome-Iwb/blob/master/images%2Fsadly....png)
 
-kriastans 其他网名：
-dubi906w doubx690i 蘭桂坊的酒與燈
-
 > <img src="https://i1.hdslb.com/bfs/face/684971265e462c603ae06cfac293ebeadbdd9319.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif" width="48px">
 > 
 > kriastans:
@@ -1051,5 +1048,8 @@ dubi906w doubx690i 蘭桂坊的酒與燈
 > 有缘再见
 > 
 > 2024年10月11日
+
+kriastans 其他网名：
+dubi906w doubx690i 蘭桂坊的酒與燈
 
 永远怀念kriastans！
