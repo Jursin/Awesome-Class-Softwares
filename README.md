@@ -29,12 +29,11 @@
 > **以下项目开发者基本都是学生**🤓
 > 
 > **以下徽章大部分点击后可跳转到对应链接**🔗
-> 
+
 > **同类项目**
-> 
-> [Aris-Station/Awesome-Iwb](https://github.com/Aris-Station/Awesome-Iwb)
-> 
-> [hello8693DSZ/awesome-whiteboard](https://github.com/hello8693DSZ/awesome-whiteboard)
+
+[![Aris-Station/Awesome-Iwb](https://github-readme-stats.vercel.app/api/pin/?username=Aris-Station&repo=Awesome-Iwb&show_owner=true)](https://github.com/Aris-Station/Awesome-Iwb)
+[![hello8693DSZ/awesome-whiteboard](https://github-readme-stats.vercel.app/api/pin/?username=hello8693DSZ&repo=awesome-whiteboard&show_owner=true)](https://github.com/hello8693DSZ/awesome-whiteboard)
 
 <div align="center">
 
@@ -54,7 +53,7 @@
 | - | - |
 | [Ink-Canvas](#ink-canvas) | [`WXRIW`](https://github.com/WXRIW) |
 | [Ink-Canvas-Artistry](#ink-canvas-artistry) | [`InkCanvas`](https://github.com/InkCanvas) [`ChangSakura`](https://github.com/ChangSakura) |
-| [InkCanvasForClass](#inkcanvasforclass) | [`InkCanvasForClass`](https://github.com/InkCanvasForClass) [`Doubx690i(永远怀念)`](https://github.com/kriastans) |
+| [InkCanvasForClass](#inkcanvasforclass) | [`InkCanvas`](https://github.com/InkCanvas) [`Doubx690i(永远怀念)`](https://github.com/kriastans) |
 | [智绘教Inkeys](#智绘教inkeys) | [`Alan-CRL`](https://github.com/Alan-CRL) |
 | [Inkways-Classic](#inkways-classic) | [`iNKORE Studios`](https://github.com/iNKORE-NET) |
 
@@ -811,7 +810,7 @@ forked from [hello8693DSZ/dsz-exam-showboard](
 https://github.com/hello8693DSZ/dsz-exam-showboard)
 
 
-![WelcomePage](Screenshots/DSZ-Exam-Showboard-next/WelcomePage.jpg)
+![WelcomePage](Screenshots/DSZ-Exam-Showboard-next/WelcomePage.png)
 ![ExamPage](Screenshots/DSZ-Exam-Showboard-next/ExamPage.png)
 
 [![stars](https://img.shields.io/github/stars/ProjectCampus-CH/dsz-exam-showboard-next?label=Stars)](https://github.com/ProjectCampus-CH/dsz-exam-showboard-next/stargazers)
