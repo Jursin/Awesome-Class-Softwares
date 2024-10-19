@@ -53,7 +53,7 @@
 | - | - |
 | [Ink-Canvas](#ink-canvas) | [`WXRIW`](https://github.com/WXRIW) |
 | [Ink-Canvas-Artistry](#ink-canvas-artistry) | [`InkCanvas`](https://github.com/InkCanvas) [`ChangSakura`](https://github.com/ChangSakura) |
-| [InkCanvasForClass](#inkcanvasforclass) | [`InkCanvas`](https://github.com/InkCanvas) [`Doubx690i(永远怀念)`](https://github.com/kriastans) |
+| [InkCanvasForClass](#inkcanvasforclass) | [`InkCanvas`](https://github.com/InkCanvas) [`Doubx690i`](https://gitlab.com/dubi906w-university) |
 | [智绘教Inkeys](#智绘教inkeys) | [`Alan-CRL`](https://github.com/Alan-CRL) |
 | [Inkways-Classic](#inkways-classic) | [`iNKORE Studios`](https://github.com/iNKORE-NET) |
 
@@ -62,7 +62,7 @@
 | 软件 | 组织/开发者 |
 | - | - |
 | [ZongziTEK黑板贴](#zongzitek黑板贴) | [`STBBRD`](https://github.com/STBBRD) |
-| [MoonCakeTEK黑板贴](#mooncaketek黑板贴) | [`Doubx690i(永远怀念)`](https://github.com/kriastans) |
+| [MoonCakeTEK黑板贴](#mooncaketek黑板贴) | [`Doubx690i`](https://gitlab.com/dubi906w-university) |
 | [StickyHomeworks](#stickyhomeworks) | [`HelloWRC`](https://github.com/HelloWRC) |
 | [Sticky-attention](#sticky-attention) | [`Sticky-attention`](https://github.com/Sticky-attention) [`jizilin6732`](https://github.com/jizilin6732) |
 | [HomeworkBoard](#homeworkboard) | [`EnderWolf006`](https://github.com/EnderWolf006) |
@@ -359,25 +359,27 @@ forked from [WXRIW/Ink-Canvas](https://github.com/WXRIW/Ink-Canvas)
 [![GitHub Language Count](https://img.shields.io/github/languages/count/InkCanvas/InkCanvasForClass)](https://github.com/InkCanvas/InkCanvasForClass)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/InkCanvas/InkCanvasForClass)](https://github.com/InkCanvas/InkCanvasForClass)
 [![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/InkCanvas/InkCanvasForClass/blob/master/LICENSE)
-[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C979119289%EF%BC%88%E5%B7%B2%E8%A7%A3%E6%95%A3%EF%BC%89-grey?style=flat&logo=TencentQQ)](https://qm.qq.com/q/YRcULbjimI)
 [![Telegram](https://img.shields.io/badge/-Telegram%EF%BD%9C@InkCanvasForClass-blue?style=flat&logo=Telegram)](https://t.me/InkCanvasForClass)
 
 InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [Ink Canvas Artistry](https://github.com/InkCanvas/Ink-Canvas-Artistry)项目二次开发而来。该项目着重于优化原项目的 UI 设计，使其更便于课堂使用，同时也在积极开发新功能，修理原项目的不合理之处。
 
 [新网站](https://icc.bliemhax.com/)｜[常见问题](https://github.com/InkCanvas/InkCanvasForClass?tab=readme-ov-file#faq)
 
+<img src="https://about.gitlab.com/nuxt-images/ico/favicon.ico?cache=20220414" width="16" height="16">Gitlab仓库：[https://gitlab.com/dubi906w-university/InkCanvasForClass](https://gitlab.com/dubi906w-university/InkCanvasForClass)
+
 <img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/InkCanvas/InkCanvasForClass](https://github.com/InkCanvas/InkCanvasForClass) 
 
 </div>
 
-> 原作者 kriastans 在 2024/10/12 与父母发生矛盾后注销了其大多数社交及 GitHub 账号，并宣布退网。
+> 作者 doubi906w 在 2024/10/12 与父母发生矛盾后注销了其大多数社交及 GitHub 账号，并宣布退网。但仍放心不下，在最近回归。
 > 
 > [发生了什么？](#发生了什么)
 
+![announcement](Screenshots/InkCanvasForClass/announcement.jpg)
+![communication](Screenshots/InkCanvasForClass/communication.png)
+
 > [!important]
 > **此项目仍在开发中，只会在发布正式发行版时提供Release**
-> 
-> **[`QQ 群(已解散)`](https://qm.qq.com/q/EcOQryBQNW)内有 ICC 比较稳定的版本，可在群文件中获取**
 
 #### 基础功能
 - 屏幕批注
@@ -589,7 +591,6 @@ forked from [STBBRD/ZongziTEK-Blackboard-Sticker](https://github.com/STBBRD/Zong
 [![GitHub Language Count](https://img.shields.io/github/languages/count/kriastans/MoonCakeTEK-Blackboard-Sticker)](https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/kriastans/MoonCakeTEK-Blackboard-Sticker)](https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker)
 [![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker/blob/master/LICENSE.txt)
-[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C773462012%EF%BC%88%E5%B7%B2%E8%A7%A3%E6%95%A3%EF%BC%89-grey?style=flat&logo=TencentQQ)](https://qm.qq.com/q/IKD5lLWGAu)
 
 用于班级一体机的桌面小部件
 
@@ -597,7 +598,7 @@ forked from [STBBRD/ZongziTEK-Blackboard-Sticker](https://github.com/STBBRD/Zong
 
 </div>
 
-> 原作者 kriastans 在 2024/10/12 与父母发生矛盾后注销了其大多数社交及 GitHub 账号，并宣布退网。
+> 作者 doubi906w 在 2024/10/12 与父母发生矛盾后注销了其大多数社交及 GitHub 账号，并宣布退网。最近再次回归。
 > 
 > [发生了什么？](#发生了什么)
 
