@@ -1015,17 +1015,6 @@ https://github.com/hello8693DSZ/dsz-exam-showboard)
 </table>
 <!-- readme: collaborators,contributors -end -->
 
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Jursin"><img src="https://avatars.githubusercontent.com/u/127487914?v=4?s=100" width="100px;" alt="Jursin"/><br /><sub><b>Jursin</b></sub></a><br /><a href="https://github.com/Jursin/Awesome-Class-Softwares/commits?author=Jurisn" title="Code">💻</a> <a href="https://github.com/Jursin/Awesome-Class-Softwares/commits?author=Jursin" title="Documentation">📖</a>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/MKStoler4096"><img src="https://avatars.githubusercontent.com/u/178344462?v=4?s=100" width="100px;" alt="MKStoler4096"/><br /><sub><b>MKStoler4096</b></sub></a><br /><a href="https://github.com/Jursin/Awesome-Class-Softwares/commits?author=MKStoler4096" title="Code">💻</a> <a href="https://github.com/Jursin/Awesome-Class-Softwares/commits?author=MKStoler4096" title="Documentation">📖</a> <a href="#ideas-MKStoler4096" title="Ideas, Planning, & Feedback">🤔</a>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Aris-Offline"><img src="https://avatars.githubusercontent.com/u/65645068?v=4?s=100" width="100px;" alt="Aris-Offline"/><br /><sub><b>Aris-Offline</b></sub></a><br /><a href="https://github.com/Jursin/Awesome-Class-Softwares/commits?author=Aris-Offline" title="Code">💻</a> <a href="https://github.com/Jursin/Awesome-Class-Softwares/commits?author=Aris-Offline" title="Documentation">📖</a> <a href="#ideas-Aris-Offline" title="Ideas, Planning, & Feedback">🤔</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kriastans"><img src="https://i1.hdslb.com/bfs/face/684971265e462c603ae06cfac293ebeadbdd9319.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif" width="100px;" alt="kriastans"/><br /><sub><b>kriastans</b></sub></a><br />💻 📖 🤔</td>
-    </tr>
-  </tbody>
-</table>
-
 </div>
 
 <div align="center">
