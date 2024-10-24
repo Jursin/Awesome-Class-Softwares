@@ -67,7 +67,7 @@
 | [Sticky-attention](#sticky-attention) | [`Sticky-attention`](https://github.com/Sticky-attention) [`jizilin6732`](https://github.com/jizilin6732) |
 | [HomeworkBoard](#homeworkboard) | [`EnderWolf006`](https://github.com/EnderWolf006) |
 | [DSZ考试看板](#dsz考试看板) | [`hello8693DSZ`](https://github.com/hello8693DSZ) |
-| [DSZ考试看板Next](#dsz考试看板next) | [`ProjectCampus-CH`](https://github.com/ProjectCampus-CH) |
+| [DSZ考试看板Next](#dsz考试看板next) | [`ProjectCampus-CH`](https://github.com/ProjectCampus-CH) [`MKStoler4096`](https://github.com/MKStoler4096) |
 | [ClassTools](#classtools) | [`clansty`](https://github.com/clansty) |
 
 
@@ -359,6 +359,8 @@ forked from [WXRIW/Ink-Canvas](https://github.com/WXRIW/Ink-Canvas)
 [![GitHub Language Count](https://img.shields.io/github/languages/count/InkCanvas/InkCanvasForClass)](https://github.com/InkCanvas/InkCanvasForClass)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/InkCanvas/InkCanvasForClass)](https://github.com/InkCanvas/InkCanvasForClass)
 [![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/InkCanvas/InkCanvasForClass/blob/master/LICENSE)
+[![Gitlab](https://img.shields.io/badge/Gitlab-dubi906w--university%2FInkCanvasForClass-green?style=flat&logo=gitlab
+)](https://gitlab.com/dubi906w-university/InkCanvasForClass)
 [![Telegram](https://img.shields.io/badge/-Telegram%EF%BD%9C@InkCanvasForClass-blue?style=flat&logo=Telegram)](https://t.me/InkCanvasForClass)
 
 InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [Ink Canvas Artistry](https://github.com/InkCanvas/Ink-Canvas-Artistry)项目二次开发而来。该项目着重于优化原项目的 UI 设计，使其更便于课堂使用，同时也在积极开发新功能，修理原项目的不合理之处。
@@ -598,7 +600,7 @@ forked from [STBBRD/ZongziTEK-Blackboard-Sticker](https://github.com/STBBRD/Zong
 
 </div>
 
-> 作者 doubi906w 在 2024/10/12 与父母发生矛盾后注销了其大多数社交及 GitHub 账号，并宣布退网。最近再次回归。
+> 作者 doubi906w 在 2024/10/12 与父母发生矛盾后注销了其大多数社交及 GitHub 账号，并宣布退网。但仍放心不下，在最近回归。
 > 
 > [发生了什么？](#发生了什么)
 
@@ -829,6 +831,8 @@ https://github.com/hello8693DSZ/dsz-exam-showboard)
 
 一款显示当前时间与考试详细信息的看板类软件
 
+<img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/ProjectCampus-CH/dsz-exam-showboard-next](https://github.com/ProjectCampus-CH/dsz-exam-showboard-next)
+
 </div>
 
 #### 功能
@@ -938,7 +942,7 @@ https://github.com/hello8693DSZ/dsz-exam-showboard)
 
 <div align="center">
 
-<image src="https://avatars.githubusercontent.com/u/121096061?v=4" height="64"/>
+<image src="https://github.com/user-attachments/assets/a0d2487f-7c3c-4dce-a3f9-125658d8386f" height="64"/>
 
 ### SeewoHUB
 
