@@ -6,12 +6,12 @@
 [![stars](https://img.shields.io/github/stars/Jursin/Awesome-Class-Softwares?label=Stars)](https://github.com/Jursin/Awesome-Class-Softwares)
 [![forks](https://img.shields.io/github/forks/Jursin/Awesome-Class-Softwares?label=Forks)](https://github.com/Jursin/Awesome-Class-Softwares)
 [![Watchers](https://img.shields.io/github/watchers/Jursin/Awesome-Class-Softwares?style=social)](https://github.com/Jursin/Awesome-Class-Softwares/watchers)
-[![GitHub Issues](https://img.shields.io/github/issues-search/Jursin/Awesome-Class-Softwares?query=is%3Aopen&style=flat&logo=github&label=Issues&color=%233fb950)](https://github.com/Jursin/Awesome-Class-Softwares/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/Jursin/Awesome-Class-Softwares?style=flat&logo=Github&label=Discussions)](https://github.com/Jursin/Awesome-Class-Softwares/discussions)
-[![Created At](https://img.shields.io/github/created-at/Jursin/Awesome-Class-Softwares)](https://github.com/Jursin/Awesome-Class-Softwares)
-[![Github Last Commit](https://img.shields.io/github/last-commit/Jursin/Awesome-Class-Softwares)](https://github.com/Jursin/Awesome-Class-Softwares/commits/master)
-[![All Contributors](https://img.shields.io/github/all-contributors/Jursin/Awesome-Class-Softwares?color=ee8449&style=flat)](#contributors)
-[![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9CHello__Jursin-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/1575907920)
+[![GitHub Issues](https://img.shields.io/github/issues-search/Jursin/Awesome-Class-Softwares?query=is%3Aopen&style=social&logo=github&label=Issues)](https://github.com/Jursin/Awesome-Class-Softwares/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/Jursin/Awesome-Class-Softwares?style=social&logo=Github&label=Discussions)](https://github.com/Jursin/Awesome-Class-Softwares/discussions)
+[![Created At](https://img.shields.io/github/created-at/Jursin/Awesome-Class-Softwares?style=flat&logo=Github&label=Creat%20at)](https://github.com/Jursin/Awesome-Class-Softwares)
+[![Github Last Commit](https://img.shields.io/github/last-commit/Jursin/Awesome-Class-Softwares?style=flat&logo=Github&label=Last%20commit)](https://github.com/Jursin/Awesome-Class-Softwares/commits/master)
+[![All Contributors](https://img.shields.io/github/all-contributors/Jursin/Awesome-Class-Softwares?color=ee8449&style=flat&logo=github&label=All%20Contributors)](#contributors)
+[![bilibili](https://img.shields.io/badge/UP%E4%B8%BB-Hello__Jurain-blue?style=flat&logo=bilibili&logoColor=white&labelColor=%23FB7299)](https://space.bilibili.com/1575907920)
 
 </div>
 
@@ -53,7 +53,6 @@
 | - | - |
 | [Ink-Canvas](#ink-canvas) | [`WXRIW`](https://github.com/WXRIW) |
 | [Ink-Canvas-Artistry](#ink-canvas-artistry) | [`InkCanvas`](https://github.com/InkCanvas) [`ChangSakura`](https://github.com/ChangSakura) |
-| [InkCanvasForClass](#inkcanvasforclass) | [`InkCanvas`](https://github.com/InkCanvas) [`Doubx690i`](https://gitlab.com/dubi906w-university) |
 | [智绘教Inkeys](#智绘教inkeys) | [`Alan-CRL`](https://github.com/Alan-CRL) |
 | [Inkways-Classic](#inkways-classic) | [`iNKORE Studios`](https://github.com/iNKORE-NET) |
 
@@ -62,7 +61,6 @@
 | 软件 | 组织/开发者 |
 | - | - |
 | [ZongziTEK黑板贴](#zongzitek黑板贴) | [`STBBRD`](https://github.com/STBBRD) |
-| [MoonCakeTEK黑板贴](#mooncaketek黑板贴) | [`Doubx690i`](https://gitlab.com/dubi906w-university) |
 | [StickyHomeworks](#stickyhomeworks) | [`HelloWRC`](https://github.com/HelloWRC) |
 | [Sticky-attention](#sticky-attention) | [`Sticky-attention`](https://github.com/Sticky-attention) [`jizilin6732`](https://github.com/jizilin6732) |
 | [HomeworkBoard](#homeworkboard) | [`EnderWolf006`](https://github.com/EnderWolf006) |
@@ -344,79 +342,6 @@ forked from [WXRIW/Ink-Canvas](https://github.com/WXRIW/Ink-Canvas)
 
 <image src="https://github.com/InkCanvas/InkCanvasForClass/blob/master/icc.png" height="64"/>
 
-### InkCanvasForClass
-
-![illustration](https://github.com/InkCanvas/InkCanvasForClass/blob/master/icc-github-illustrations.png)
-![toolbar](Screenshots/InkCanvasForClass/toolbar.png)
-![board](Screenshots/InkCanvasForClass/board.png)
-
-[![stars](https://img.shields.io/github/stars/InkCanvas/InkCanvasForClass?label=Stars)](https://github.com/InkCanvas/InkCanvasForClass)
-[![forks](https://img.shields.io/github/forks/InkCanvas/InkCanvasForClass?label=Forks)](https://github.com/InkCanvas/InkCanvasForClass)
-[![Watchers](https://img.shields.io/github/watchers/InkCanvas/InkCanvasForClass?style=social)](https://github.com/InkCanvas/InkCanvasForClass/watchers)
-[![Created At](https://img.shields.io/github/created-at/InkCanvas/InkCanvasForClass)](https://github.com/InkCanvas/InkCanvasForClass)
-[![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvas/InkCanvasForClass)](https://github.com/InkCanvas/InkCanvasForClass/commits/master)
-![Update Status](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E5%B7%B2%E5%AD%98%E6%A1%A3%C2%B7%E5%8F%AA%E8%AF%BB-red)
-[![GitHub Language Count](https://img.shields.io/github/languages/count/InkCanvas/InkCanvasForClass)](https://github.com/InkCanvas/InkCanvasForClass)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/InkCanvas/InkCanvasForClass)](https://github.com/InkCanvas/InkCanvasForClass)
-[![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/InkCanvas/InkCanvasForClass/blob/master/LICENSE)
-[![Gitlab](https://img.shields.io/badge/Gitlab-dubi906w--university%2FInkCanvasForClass-green?style=flat&logo=gitlab
-)](https://gitlab.com/dubi906w-university/InkCanvasForClass)
-[![Telegram](https://img.shields.io/badge/-Telegram%EF%BD%9C@InkCanvasForClass-blue?style=flat&logo=Telegram)](https://t.me/InkCanvasForClass)
-
-InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [Ink Canvas Artistry](https://github.com/InkCanvas/Ink-Canvas-Artistry)项目二次开发而来。该项目着重于优化原项目的 UI 设计，使其更便于课堂使用，同时也在积极开发新功能，修理原项目的不合理之处。
-
-[新网站](https://icc.bliemhax.com/)｜[常见问题](https://github.com/InkCanvas/InkCanvasForClass?tab=readme-ov-file#faq)
-
-<img src="https://about.gitlab.com/nuxt-images/ico/favicon.ico?cache=20220414" width="16" height="16">Gitlab仓库：[https://gitlab.com/dubi906w-university/InkCanvasForClass](https://gitlab.com/dubi906w-university/InkCanvasForClass)
-
-<img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/InkCanvas/InkCanvasForClass](https://github.com/InkCanvas/InkCanvasForClass) 
-
-</div>
-
-> 作者 doubi906w 在 2024/10/12 与父母发生矛盾后注销了其大多数社交及 GitHub 账号，并宣布退网。但仍放心不下，在最近回归。
-> 
-> [发生了什么？](#发生了什么)
-
-![announcement](Screenshots/InkCanvasForClass/announcement.jpg)
-![communication](Screenshots/InkCanvasForClass/communication.png)
-
-> [!important]
-> **此项目仍在开发中，只会在发布正式发行版时提供Release**
-
-#### 基础功能
-- 屏幕批注
-- PPT批注
-- 白板模式
-
-#### 优化和改进
-- 浮动工具栏 UI 改进（正在开发）
-- 白板模式 UI 改进（背景色和稿纸模式）
-- **鼠标手势** 让画布移动、缩放、旋转变得更加轻松（正在开发）
-- **全新的设置 UI** （正在开发）
-- **强制置顶** 基于 UIAccess + 输入线程抢夺的方法，保证 ICC 永远显示在所有软件的最顶层
-- **分辨率和DPI变化监听** 保证 ICC 界面正常显示
-- **高性能透明** 绘制使用多线程 UI + WindowChrome，摆脱低性能体验
-- **画面冻结** 使当前画面定格
-- **重写形状绘制** 让绘图体验更舒适方便，并支持函数绘制和物理图绘制
-- **PPT COM+VSTO双接口融合** 缓解 Office 和 WPS 共存导致的 COM 接口被占用的问题
-- **PPT 系统优化** 高效 PPT 放映状态检测，不丢页不跳页
-- **禁用边缘手势** 禁用烦人的 Windows10/11 的边缘触摸手势
-- **点名器优化** 将支持历史记录和多名单抽选，同时支持特殊配置
-- **内置小工具** 内置计算器，倒计时，秒表，放大镜，截图，英汉词典等实用小工具
-- **QuickPanel**，方便快捷的从 ICC 打开所有应用和调整系统设置
-- **情境化配置** 每位老师都有专属的配置文件
-- **插件和脚本系统** 支持使用 dotNet Framework 开发原生扩展或使用 Javascript 开发脚本来实现自动化操作或其他扩充功能
-- **形状识别** 基于微软库的手绘形状自动识别，并提供形状绘制纠正功能
-- **板书库** 高效管理所有板书，课程自动分类，提供云端同步
-- **自动收纳** 检测到教学软件自动开启时会自动隐藏 ICC 界面到屏幕侧边
-- **自动查杀** 检测到指定软件可以让 ICC 查杀并自动使用 ICC 进行替代
-- **桌面悬浮窗屏蔽** 隐藏画板悬浮窗
-……
-
-<div align="center">
-
-<image src="https://github.com/Alan-CRL/Inkeys/blob/main/GithubRes/logo.png" height="64"/>
-
 ### 智绘教Inkeys
 
 ![cover](https://github.com/Alan-CRL/Inkeys/blob/main/GithubRes/cover2.png)
@@ -572,53 +497,6 @@ InkCanvasForClass 是基于[ChangSakura](https://github.com/ChangSakura/)的 [In
   - 倒数日页面
   - 实况天气页面：显示当前天气及气温
   - 天气预报页面：显示未来哪几天会下雨
-
-<div align="center">
-
-<img src="https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker/blob/master/MoonCakeTEK_Blackboard_Sticker/mbs.png" height="64">
-
-### MoonCakeTEK黑板贴
-
-forked from [STBBRD/ZongziTEK-Blackboard-Sticker](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker)
-
-[![stars](https://img.shields.io/github/stars/kriastans/MoonCakeTEK-Blackboard-Sticker?label=Stars)](https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker)
-[![forks](https://img.shields.io/github/forks/kriastans/MoonCakeTEK-Blackboard-Sticker?label=Forks)](https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker)
-[![Watchers](https://img.shields.io/github/watchers/kriastans/MoonCakeTEK-Blackboard-Sticker?style=social)](https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker/watchers)
-[![Downloads](https://img.shields.io/github/downloads/kriastans/MoonCakeTEK-Blackboard-Sticker/total?style=social&label=Downloads&logo=github)](https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker/releases/latest)
-[![GitHub Issues](https://img.shields.io/github/issues-search/kriastans/MoonCakeTEK-Blackboard-Sticker?query=is%3Aopen&style=flat&logo=github&label=Issues&color=%233fb950)](https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/kriastans/MoonCakeTEK-Blackboard-Sticker?style=flat&logo=Github&label=Discussions)](https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker/discussions)
-[![Created At](https://img.shields.io/github/created-at/kriastans/MoonCakeTEK-Blackboard-Sticker)](https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker)
-[![Github Last Commit](https://img.shields.io/github/last-commit/kriastans/MoonCakeTEK-Blackboard-Sticker)](https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker/commits/master)
-![Update Status](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E5%B7%B2%E5%88%A0%E5%BA%93-red)
-[![GitHub Language Count](https://img.shields.io/github/languages/count/kriastans/MoonCakeTEK-Blackboard-Sticker)](https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/kriastans/MoonCakeTEK-Blackboard-Sticker)](https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker)
-[![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker/blob/master/LICENSE.txt)
-
-用于班级一体机的桌面小部件
-
-<img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker](https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker)
-
-</div>
-
-> 作者 doubi906w 在 2024/10/12 与父母发生矛盾后注销了其大多数社交及 GitHub 账号，并宣布退网。但仍放心不下，在最近回归。
-> 
-> [发生了什么？](#发生了什么)
-
-#### 修复
-
-- [x] 修复了黑板贴主窗口在“显示桌面”时被隐藏的 Bug
-- [x] 优化了窗口显示，修改为了半屏窗口显示
-- [ ] 重构主窗口为高性能 WindowChrome 透明
-- [ ] 使用小米天气而非私有的高德地图 API
-- [ ] 农历信息看板，更详细的天气信息显示
-- [ ] 黑板贴整体 UI 优化
-- [ ] 允许在设置中更改黑板贴主窗口透明度
-- [ ] 快捷音量调节
-- [ ] U盘插入显示，快速打开/弹出U盘
-- [ ] 启动台内置部分快捷功能
-- [ ] 小黑板更换为 IccInkCanvas
-
-<div align="center">
 
 <image src="https://github.com/HelloWRC/StickyHomeworks/blob/master/StickyHomeworks/Assets/AppLogo.png" height="64"/>
 
