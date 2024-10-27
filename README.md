@@ -909,7 +909,3 @@ https://github.com/hello8693DSZ/dsz-exam-showboard)
 如果这个项目对您有帮助，请点亮 Star ⭐
 
 </div>
-
-##### 发生了什么？
-
-![sadly](https://github.com/Aris-Station/Awesome-Iwb/blob/master/images%2Fsadly....png)
