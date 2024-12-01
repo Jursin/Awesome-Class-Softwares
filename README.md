@@ -372,8 +372,6 @@ forked from [WXRIW/Ink-Canvas](https://github.com/WXRIW/Ink-Canvas)
 
 <img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/Alan-CRL/Inkeys](https://github.com/Alan-CRL/Inkeys)
 
-***(由于开发者本人原因，即日起至 2024.11 智绘教将临时停止更新)***
-
 </div>
 
 #### 功能
