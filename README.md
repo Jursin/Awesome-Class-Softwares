@@ -32,7 +32,7 @@
 
 > **同类项目**
 
-[![dubi906w/Awesome-Iwb](https://github-readme-stats.vercel.app/api/pin/?username=dubi906w&repo=Awesome-Iwb&show_owner=true)](https://github.com/dubi906w/Awesome-Iwb)
+[![Awesome-Iwb/Awesome-Iwb](https://github-readme-stats.vercel.app/api/pin/?username=Awesome-Iwb&repo=Awesome-Iwb&show_owner=true)](https://github.com/Awesome-Iwb/Awesome-Iwb)
 [![Aris-Station/Awesome-Iwb](https://github-readme-stats.vercel.app/api/pin/?username=Aris-Station&repo=Awesome-Iwb&show_owner=true)](https://github.com/Aris-Station/Awesome-Iwb)
 [![hello8693DSZ/awesome-whiteboard](https://github-readme-stats.vercel.app/api/pin/?username=hello8693DSZ&repo=awesome-whiteboard&show_owner=true)](https://github.com/hello8693DSZ/awesome-whiteboard)
 
@@ -337,12 +337,11 @@ forked from [WXRIW/Ink-Canvas](https://github.com/WXRIW/Ink-Canvas)
 
 <div align="center">
 
-<image src="https://github.com/InkCanvas/InkCanvasForClass/blob/master/icc.png" height="64"/>
+<image src="https://github.com/Alan-CRL/Inkeys/blob/main/GithubRes%2Flogo.png" height="64"/>
 
 ### 智绘教Inkeys
 
 ![cover](https://github.com/Alan-CRL/Inkeys/blob/main/GithubRes/cover2.png)
-
 
 [![stars](https://img.shields.io/github/stars/Alan-CRL/Inkeys?label=Stars)](https://github.com/Alan-CRL/Inkeys)
 [![forks](https://img.shields.io/github/forks/Alan-CRL/Inkeys?label=Forks)](https://github.com/Alan-CRL/Inkeys)
