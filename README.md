@@ -33,7 +33,6 @@
 > **同类项目**
 
 [![Awesome-Iwb/Awesome-Iwb](https://github-readme-stats.vercel.app/api/pin/?username=Awesome-Iwb&repo=Awesome-Iwb&show_owner=true)](https://github.com/Awesome-Iwb/Awesome-Iwb)
-[![Aris-Station/Awesome-Iwb](https://github-readme-stats.vercel.app/api/pin/?username=Aris-Station&repo=Awesome-Iwb&show_owner=true)](https://github.com/Aris-Station/Awesome-Iwb)
 [![hello8693DSZ/awesome-whiteboard](https://github-readme-stats.vercel.app/api/pin/?username=hello8693DSZ&repo=awesome-whiteboard&show_owner=true)](https://github.com/hello8693DSZ/awesome-whiteboard)
 
 <div align="center">
