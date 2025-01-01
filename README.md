@@ -44,6 +44,7 @@
 | 软件 | 组织/开发者 |
 | - | - |
 | [ClassIsland](#classisland) |  [`ClassIsland`](https://github.com/ClassIsland) [`HelloWRC`](https://github.com/HelloWRC) |
+| [Ris_ClassTool](#Ris_ClassTool) | [`Ris-Soft`](https://github.com/Ris-Soft) |
 | [ElectronClassSchedule](#electronclassschedule) | [`EnderWolf006`](https://github.com/EnderWolf006) |
 | [Class-Widgets](#class-widgets) | [`RinLit-233-shiroko`](https://github.com/RinLit-233-shiroko) |
 
@@ -105,8 +106,8 @@
 [![GitHub Top Language](https://img.shields.io/github/languages/top/ClassIsland/ClassIsland)](https://github.com/ClassIsland/ClassIsland)
 [![LICENSE](https://img.shields.io/badge/License-MIT-red.svg "LICENSE")](https://github.com/ClassIsland/ClassIsland/blob/master/LICENSE.txt)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHelloWRC%2FClassIsland.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHelloWRC%2FClassIsland?ref=badge_shield&style=flat)
-[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C958840932-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/4NsDQKiAuQ)
-[![QQ频道](https://img.shields.io/badge/-QQ%E9%A2%91%E9%81%93%EF%BD%9Cclassisland-blue?style=flat&logo=TencentQQ)](https://pd.qq.com/s/10sd1flp0)
+[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C958840932-blue?style=flat&logo=QQ)](https://qm.qq.com/q/4NsDQKiAuQ)
+[![QQ频道](https://img.shields.io/badge/-QQ%E9%A2%91%E9%81%93%EF%BD%9Cclassisland-blue?style=flat&logo=QQ)](https://pd.qq.com/s/10sd1flp0)
 [![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9CHelloWRC__dev-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/355897687)
 [![bilibili](https://img.shields.io/badge/-bilibili%E8%A7%86%E9%A2%91%EF%BD%9CBV1EEsNeYEc9-%23FB7299?style=flat&logo=bilibili)](https://www.bilibili.com/video/BV1EEsNeYEc9)
 
@@ -153,6 +154,63 @@
 
 <div align="center">
 
+<div align="center">
+
+<image src="https://github.com/Ris-Soft/Ris_ClassTool/blob/master/Main%2Flogo.png" height="64"/>
+
+### Ris_ClassTool
+
+![banner](https://github.com/user-attachments/assets/c7c2b95a-22cb-4763-8f37-6cb6db603918)
+
+[![stars](https://img.shields.io/github/stars/Ris-Soft/Ris_ClassTool?label=Stars)](https://github.com/Ris-Soft/Ris_ClassTool)
+[![forks](https://img.shields.io/github/forks/Ris-Soft/Ris_ClassTool?label=Forks)](https://github.com/Ris-Soft/Ris_ClassTool)
+[![Watchers](https://img.shields.io/github/watchers/Ris-Soft/Ris_ClassTool?style=social)](https://github.com/Ris-Soft/Ris_ClassTool/watchers)
+[![Downloads](https://img.shields.io/github/downloads/Ris-Soft/Ris_ClassTool/total?style=social&label=Downloads&logo=github)](https://github.com/Ris-Soft/Ris_ClassTool/releases/latest)
+[![GitHub Issues](https://img.shields.io/github/issues-search/Ris-Soft/Ris_ClassTool?query=is%3Aopen&style=flat&logo=github&label=Issues&color=%233fb950)](https://github.com/Ris-Soft/Ris_ClassTool/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/Ris-Soft/Ris_ClassTool?style=flat&logo=Github&label=Discussions)](https://github.com/Ris-Soft/Ris_ClassTool/discussions)
+[![Release](https://img.shields.io/github/v/release/Ris-Soft/Ris_ClassTool?style=flat&color=%233fb950&label=正式版)](https://github.com/Ris-Soft/Ris_ClassTool/releases/latest)
+[![Beta](https://img.shields.io/github/v/release/Ris-Soft/Ris_ClassTool?include_prereleases&style=flat&label=测试版)](https://github.com/Ris-Soft/Ris_ClassTool/releases)
+[![Created At](https://img.shields.io/github/created-at/Ris-Soft/Ris_ClassTool)](https://github.com/Ris-Soft/Ris_ClassTool)
+[![Github Last Commit](https://img.shields.io/github/last-commit/Ris-Soft/Ris_ClassTool)](https://github.com/Ris-Soft/Ris_ClassTool/commits/master)
+![Update Status](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E9%9D%9E%E5%B8%B8%E6%B4%BB%E8%B7%83-green)
+[![GitHub Language Count](https://img.shields.io/github/languages/count/Ris-Soft/Ris_ClassTool)](https://github.com/Ris-Soft/Ris_ClassTool)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/Ris-Soft/Ris_ClassTool)](https://github.com/Ris-Soft/Ris_ClassTool)
+[![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/Ris-Soft/Ris_ClassTool/blob/master/LICENSE)
+[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C939571490-blue?style=flat&logo=QQ)](https://qm.qq.com/q/nl64TDpnk6)
+[![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9CPYLXU-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/1481617182)
+[![bilibili](https://img.shields.io/badge/-bilibili%E8%A7%86%E9%A2%91%EF%BD%9CBV1A96SYHEnz9-%23FB7299?style=flat&logo=bilibili)](https://www.bilibili.com/video/BV1A96SYHEnz)
+
+瑞思课堂工具｜[软件介绍](https://app.3r60.top/Ris_ClassTool)
+
+——智慧教育，触手可及。
+
+——让每堂课都充满活力，让每个学生都能享受到科技带来的教育革新。
+
+<img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/Ris-Soft/Ris_ClassTool](https://github.com/Ris-Soft/Ris_ClassTool)
+
+</div>
+
+#### 功能
+📅 **课表一目了然**：在桌面清晰展示每日课表，让教学安排井然有序。
+
+🕒 **课程进度实时更新**：顶部动态显示课程进度，把握每一分钟的教学节奏。
+
+⏳ **倒计时提醒**：课间或即将上下课，右上角智能倒计时与课程名称提醒，确保课堂无缝衔接。
+
+📊 **强大侧边栏**：一键快速回到桌面，管理后台，随机点名，专注模式切换，在线教学工具一应俱全。
+
+🎯 **专注模式**：时间屏幕专注设计，让学生心无旁骛，全心投入学习。
+
+🛠️ **丰富教学工具**：实时在线更新，成语、单词通、在线音乐等教学资源随时调用。
+
+🎨 **可视化设计**：课表、学生列表编辑器，让信息管理更加直观便捷。
+
+🤖 **自动任务智能省心**：课前自动返回桌面，自习课自动专注模式，放学自动关机，让教学流程更加流畅。
+
+📆 **灵活调休安排**：支持按日期调休，适应各种教学计划变动。
+
+<div align="center">
+
 <image src="https://github.com/EnderWolf006/ElectronClassSchedule/blob/main/image%2Ficon.png" height="64"/>
 
 ### ElectronClassSchedule
@@ -172,7 +230,7 @@
 [![GitHub Language Count](https://img.shields.io/github/languages/count/ClassIsland/ClassIsland)](https://github.com/ClassIsland/ClassIsland)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/EnderWolf006/ElectronClassSchedule)](https://github.com/EnderWolf006/ElectronClassSchedule)
 [![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/EnderWolf006/ElectronClassSchedule/blob/main/LICENSE)
-[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C914887202-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/cgi-bin/qm/qr?k=SL4_VQ9Zmpch-64RbYhkKbTZ5cNjIZ-N&jump_from=webapi&authKey=kxhiNZcQZwoSC/85e3dPxUsL+kpaLIBmxbrcfRLjSJeH35o0D0a/tHBVYI1as5p1)
+[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C914887202-blue?style=flat&logo=QQ)](https://qm.qq.com/cgi-bin/qm/qr?k=SL4_VQ9Zmpch-64RbYhkKbTZ5cNjIZ-N&jump_from=webapi&authKey=kxhiNZcQZwoSC/85e3dPxUsL+kpaLIBmxbrcfRLjSJeH35o0D0a/tHBVYI1as5p1)
 [![Telegram](https://img.shields.io/badge/-Telegram%EF%BD%9C@%E7%94%B5%E5%AD%90%E8%AF%BE%E8%A1%A8%E4%BA%A4%E6%B5%81%E7%BE%A4ElectronClassSchedule-blue?style=flat&logo=Telegram)](https://t.me/ECSchedule)
 [![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9CEnder__Wolf-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/3494364340816031)
 [![bilibili](https://img.shields.io/badge/-bilibili%E8%A7%86%E9%A2%91%EF%BD%9CBV1Wm411k7n8-%23FB7299?style=flat&logo=bilibili)](https://www.bilibili.com/video/BV1Wm411k7n8)
@@ -218,7 +276,7 @@
 [![GitHub Language Count](https://img.shields.io/github/languages/count/RinLit-233-shiroko/Class-Widgets)](https://github.com/RinLit-233-shiroko/Class-Widgets)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/RinLit-233-shiroko/Class-Widgets)](https://github.com/RinLit-233-shiroko/Class-Widgets)
 [![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/LICENSE)
-[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C169200380-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/EuDtwzURQA)
+[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C169200380-blue?style=flat&logo=QQ)](https://qm.qq.com/q/EuDtwzURQA)
 [![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9CRinLit__233OuO-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/569522843)
 [![bilibili](https://img.shields.io/badge/-bilibili%E8%A7%86%E9%A2%91%EF%BD%9CBV1xwW9eyEGu-%23FB7299?style=flat&logo=bilibili)](https://www.bilibili.com/video/BV1xwW9eyEGu)
 
@@ -269,7 +327,7 @@
 [![GitHub Top Language](https://img.shields.io/github/languages/top/WXRIW/Ink-Canvas)](https://github.com/WXRIW/Ink-Canvas)
 [![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/WXRIW/Ink-Canvas/blob/master/LICENSE)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FWXRIW%2FInk-Canvas.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FWXRIW%2FInk-Canvas?ref=badge_shield)
-[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C891913576-blue?style=flat&logo=TencentQQ)](https://jq.qq.com/?_wv=1027&k=NvlM1Rgg)
+[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C891913576-blue?style=flat&logo=QQ)](https://jq.qq.com/?_wv=1027&k=NvlM1Rgg)
 
 Ink Canvas 画板是一款轻量级画板软件，基于WPF/C#，其针对希沃一体机进行了特别优化，与预装的“希沃白板 5”软件相比，启动速度大幅度提升（提升5-10 倍），系统资源占用更小，使用体验更佳。
 
@@ -325,7 +383,7 @@ forked from [WXRIW/Ink-Canvas](https://github.com/WXRIW/Ink-Canvas)
 [![GitHub Language Count](https://img.shields.io/github/languages/count/ChangSakura/Ink-Canvas)](https://github.com/ChangSakura/Ink-Canvas)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/ChangSakura/Ink-Canvas)](https://github.com/ChangSakura/Ink-Canvas)
 [![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/InkCanvas/Ink-Canvas-Artistry/blob/master/LICENSE)
-[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C617707731-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/AC777tzmEw)
+[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C617707731-blue?style=flat&logo=QQ)](https://qm.qq.com/q/AC777tzmEw)
 
 基于[Ink Canvas](https://github.com/WXRIW/Ink-Canvas)二次开发，优化了界面UI，是一款好用的屏幕批注/板书/PPT批注工具。
 
@@ -356,7 +414,7 @@ forked from [WXRIW/Ink-Canvas](https://github.com/WXRIW/Ink-Canvas)
 [![GitHub Language Count](https://img.shields.io/github/languages/count/Alan-CRL/Inkeys)](https://github.com/Alan-CRL/Inkeys)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/Alan-CRL/Inkeys)](https://github.com/Alan-CRL/Inkeys)
 [![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/Alan-CRL/Inkeys/blob/main/LICENSE)
-[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C618720802-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/iEDzSL0Wn)
+[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C618720802-blue?style=flat&logo=QQ)](https://qm.qq.com/q/iEDzSL0Wn)
 [![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9Calan--CRL-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/1330313497)
 [![bilibili](https://img.shields.io/badge/-bilibili%E8%A7%86%E9%A2%91%EF%BD%9CBV1Tz421z72e-%23FB7299?style=flat&logo=bilibili)](https://www.bilibili.com/video/BV1Tz421z72e)
 
@@ -411,8 +469,8 @@ forked from [WXRIW/Ink-Canvas](https://github.com/WXRIW/Ink-Canvas)
 ![slide assistant](Screenshots/Inkways/image_inkways_7.png)
 
 ![Type](https://img.shields.io/badge/Type-Closed_Source-green)
-[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C655979143-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/wzFUnRBF9C)
-[![QQ频道](https://img.shields.io/badge/-QQ%E9%A2%91%E9%81%93%EF%BD%9C1nkoreStudios-blue?style=flat&logo=TencentQQ)](https://pd.qq.com/s/g3o1pmidm)
+[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C655979143-blue?style=flat&logo=QQ)](https://qm.qq.com/q/wzFUnRBF9C)
+[![QQ频道](https://img.shields.io/badge/-QQ%E9%A2%91%E9%81%93%EF%BD%9C1nkoreStudios-blue?style=flat&logo=QQ)](https://pd.qq.com/s/g3o1pmidm)
 [![Telegram](https://img.shields.io/badge/-Telegram%EF%BD%9C@iNKORE_Studios-blue?style=flat&logo=Telegram)](https://t.me/iNKORE)
 [![Facebook](https://img.shields.io/badge/-Facebook%EF%BD%9C@iNKORE_Studios-blue?style=flat&logo=Facebook)](https://www.facebook.com/iNKORE.NET)
 [![X](https://img.shields.io/badge/-X%EF%BD%9C@iNKORE_NET-black?style=flat&logo=X)](https://x.com/iNKORE_NET)
@@ -460,7 +518,7 @@ forked from [WXRIW/Ink-Canvas](https://github.com/WXRIW/Ink-Canvas)
 [![GitHub Language Count](https://img.shields.io/github/languages/count/STBBRD/ZongziTEK-Blackboard-Sticker)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/STBBRD/ZongziTEK-Blackboard-Sticker)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker)
 [![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/blob/master/LICENSE)
-[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C1101582374-blue?style=flat&logo=TencentQQ)](https://jq.qq.com/?_wv=1027&k=epb9KDPe)
+[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C1101582374-blue?style=flat&logo=QQ)](https://jq.qq.com/?_wv=1027&k=epb9KDPe)
 [![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9CZongziTEK%E7%89%9B%E9%80%9A-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/472376649)
 [![bilibili](https://img.shields.io/badge/-bilibili%E8%A7%86%E9%A2%91%EF%BD%9CBV1Lz4UeREEW-%23FB7299?style=flat&logo=bilibili)](https://www.bilibili.com/video/BV1Lz4UeREEW)
 
@@ -524,7 +582,7 @@ forked from [HelloWRC/StickyHomeworks](https://github.com/HelloWRC/StickyHomewor
 [![GitHub Language Count](https://img.shields.io/github/languages/count/Sticky-attention/Sticky-attention)](https://github.com/Sticky-attention/Sticky-attention)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/Sticky-attention/Sticky-attention)](https://github.com/Sticky-attention/Sticky-attention)
 [![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/Sticky-attention/Sticky-attention/blob/master/LICENSE.txt)
-[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C680019081-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/neHPnfBSJq)
+[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C680019081-blue?style=flat&logo=QQ)](https://qm.qq.com/q/neHPnfBSJq)
 [![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9C%E7%BA%AA%E6%B7%8B2024-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/3546750482647776)
 [![bilibili](https://img.shields.io/badge/-bilibili%E8%A7%86%E9%A2%91%EF%BD%9CBV1YJ4Fe5EgD-%23FB7299?style=flat&logo=bilibili)](https://www.bilibili.com/video/BV1YJ4Fe5EgD)
 
@@ -615,7 +673,7 @@ https://github.com/hello8693DSZ/dsz-exam-showboard)
 [![GitHub Language Count](https://img.shields.io/github/languages/count/ProjectCampus-CH/dsz-exam-showboard-next)](https://github.com/ProjectCampus-CH/dsz-exam-showboard-next)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/ProjectCampus-CH/dsz-exam-showboard-next)](https://github.com/ProjectCampus-CH/dsz-exam-showboard-next)
 [![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/ProjectCampus-CH/dsz-exam-showboard-next/blob/master/LICENSE)
-[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C901670561-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/zDiEipHsaI)
+[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C901670561-blue?style=flat&logo=QQ)](https://qm.qq.com/q/zDiEipHsaI)
 
 一款显示当前时间与考试详细信息的看板类软件
 
@@ -659,7 +717,7 @@ https://github.com/hello8693DSZ/dsz-exam-showboard)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/SectionIstool/SectionIstool)](https://github.com/SectionIstool/SectionIstool)
 [![LICENSE](https://img.shields.io/badge/License-MIT-red.svg "LICENSE")](https://github.com/SectionIstool/SectionIstool/blob/master/LICENSE.txt)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flzy98276%2FSectionIstool.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Flzy98276%2FSectionIstool?ref=badge_shield&style=flat)
-[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C833875216-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/ASRSNUJuve)
+[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C833875216-blue?style=flat&logo=QQ)](https://qm.qq.com/q/ASRSNUJuve)
 [![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9C%E9%BB%8E%E6%B3%BD%E6%87%BF-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/520571577)
 
 一款方便、快捷下载适合班级一体机使用的各类软件的下载器
