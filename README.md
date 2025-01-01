@@ -154,8 +154,6 @@
 
 <div align="center">
 
-<div align="center">
-
 <image src="https://github.com/Ris-Soft/Ris_ClassTool/blob/master/Main%2Flogo.png" height="64"/>
 
 ### Ris_ClassTool
