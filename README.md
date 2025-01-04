@@ -44,9 +44,9 @@
 | 软件 | 组织/开发者 |
 | - | - |
 | [ClassIsland](#classisland) |  [`ClassIsland`](https://github.com/ClassIsland) [`HelloWRC`](https://github.com/HelloWRC) |
-| [Ris_ClassTool](#Ris_ClassTool) | [`Ris-Soft`](https://github.com/Ris-Soft) |
-| [ElectronClassSchedule](#electronclassschedule) | [`EnderWolf006`](https://github.com/EnderWolf006) |
 | [Class-Widgets](#class-widgets) | [`RinLit-233-shiroko`](https://github.com/RinLit-233-shiroko) |
+| [Ris_ClassTool](#ris_classtool) | [`Ris-Soft`](https://github.com/Ris-Soft) |
+| [ElectronClassSchedule](#electronclassschedule) | [`EnderWolf006`](https://github.com/EnderWolf006) |
 
 ### [画板类](#画板类)
 
@@ -154,6 +154,55 @@
 
 <div align="center">
 
+<image src="https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/img%2FLogo.png" height="64"/>
+
+### Class-Widgets
+
+![Banner](https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/img%2FBanner.png)
+
+![Light](https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/img%2Fscreenshot_0.png)
+
+![Dark](https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/img%2Fscreenshot_1.png)
+
+[![stars](https://img.shields.io/github/stars/RinLit-233-shiroko/Class-Widgets?label=Stars)](https://github.com/RinLit-233-shiroko/Class-Widgets)
+[![forks](https://img.shields.io/github/forks/RinLit-233-shiroko/Class-Widgets?label=Forks)](https://github.com/RinLit-233-shiroko/Class-Widgets)
+[![Watchers](https://img.shields.io/github/watchers/RinLit-233-shiroko/Class-Widgets?style=social)](https://github.com/RinLit-233-shiroko/Class-Widgets/watchers)
+[![Downloads](https://img.shields.io/github/downloads/RinLit-233-shiroko/Class-Widgets/total?style=social&label=Downloads&logo=github)](https://github.com/RinLit-233-shiroko/Class-Widgets/releases/latest)
+[![GitHub Issues](https://img.shields.io/github/issues-search/RinLit-233-shiroko/Class-Widgets?query=is%3Aopen&style=flat&logo=github&label=Issues&color=%233fb950)](https://github.com/RinLit-233-shiroko/Class-Widgets/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/RinLit-233-shiroko/Class-Widgets?style=flat&logo=Github&label=Discussions)](https://github.com/RinLit-233-shiroko/Class-Widgets/discussions)
+[![Release](https://img.shields.io/github/v/release/RinLit-233-shiroko/Class-Widgets?style=flat&color=%233fb950&label=正式版)](https://github.com/RinLit-233-shiroko/Class-Widgets/releases/latest) 
+[![Beta](https://img.shields.io/github/v/release/RinLit-233-shiroko/Class-Widgets?include_prereleases&style=flat&label=测试版)](https://github.com/RinLit-233-shiroko/Class-Widgets/releases)
+[![Created At](https://img.shields.io/github/created-at/RinLit-233-shiroko/Class-Widgets)](https://github.com/RinLit-233-shiroko/Class-Widgets)
+[![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/Class-Widgets)](https://github.com/RinLit-233-shiroko/Class-Widgets/commits/main/)
+![Update Status](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E6%B4%BB%E8%B7%83-blue)
+[![GitHub Language Count](https://img.shields.io/github/languages/count/RinLit-233-shiroko/Class-Widgets)](https://github.com/RinLit-233-shiroko/Class-Widgets)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/RinLit-233-shiroko/Class-Widgets)](https://github.com/RinLit-233-shiroko/Class-Widgets)
+[![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/LICENSE)
+[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C169200380-blue?style=flat&logo=QQ)](https://qm.qq.com/q/EuDtwzURQA)
+[![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9CRinLit__233OuO-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/569522843)
+[![bilibili](https://img.shields.io/badge/-bilibili%E8%A7%86%E9%A2%91%EF%BD%9CBV1xwW9eyEGu-%23FB7299?style=flat&logo=bilibili)](https://www.bilibili.com/video/BV1xwW9eyEGu)
+
+一款全新课表软件
+
+[Releases](https://github.com/RinLit-233-shiroko/Class-Widgets/releases)｜[使用文档](https://www.yuque.com/rinlit/class-widgets_help)
+
+<img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/RinLit-233-shiroko/Class-Widgets](https://github.com/RinLit-233-shiroko/Class-Widgets) 
+
+</div>
+
+#### 功能
+- 以小组件形式显示：
+	- 当前活动结束剩余时间、当前活动、接下来课程
+	- 天气、倒数日
+- 方便的提醒系统：
+	- [上下课提醒](https://www.yuque.com/rinlit/class-widgets_help/fv2ou1i1ngap0hrl)和预备铃
+- 简洁直观的[课程表编辑界面](https://www.yuque.com/rinlit/class-widgets_help/oozelh8r56tmw0xb)
+- [快捷调休/换课](https://www.yuque.com/rinlit/class-widgets_help/gc4epffu7g5bf9os)
+- 同时存储多套课表，支持文件导入/导出
+- [个性化](https://www.yuque.com/rinlit/class-widgets_help/qyly70ht1ogge1pi)主题设置，支持浅色/深色模式
+
+<div align="center">
+
 <image src="https://github.com/Ris-Soft/Ris_ClassTool/blob/master/Main%2Flogo.png" height="64"/>
 
 ### Ris_ClassTool
@@ -165,7 +214,6 @@
 [![Watchers](https://img.shields.io/github/watchers/Ris-Soft/Ris_ClassTool?style=social)](https://github.com/Ris-Soft/Ris_ClassTool/watchers)
 [![Downloads](https://img.shields.io/github/downloads/Ris-Soft/Ris_ClassTool/total?style=social&label=Downloads&logo=github)](https://github.com/Ris-Soft/Ris_ClassTool/releases/latest)
 [![GitHub Issues](https://img.shields.io/github/issues-search/Ris-Soft/Ris_ClassTool?query=is%3Aopen&style=flat&logo=github&label=Issues&color=%233fb950)](https://github.com/Ris-Soft/Ris_ClassTool/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/Ris-Soft/Ris_ClassTool?style=flat&logo=Github&label=Discussions)](https://github.com/Ris-Soft/Ris_ClassTool/discussions)
 [![Release](https://img.shields.io/github/v/release/Ris-Soft/Ris_ClassTool?style=flat&color=%233fb950&label=正式版)](https://github.com/Ris-Soft/Ris_ClassTool/releases/latest)
 [![Beta](https://img.shields.io/github/v/release/Ris-Soft/Ris_ClassTool?include_prereleases&style=flat&label=测试版)](https://github.com/Ris-Soft/Ris_ClassTool/releases)
 [![Created At](https://img.shields.io/github/created-at/Ris-Soft/Ris_ClassTool)](https://github.com/Ris-Soft/Ris_ClassTool)
@@ -178,9 +226,7 @@
 [![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9CPYLXU-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/1481617182)
 [![bilibili](https://img.shields.io/badge/-bilibili%E8%A7%86%E9%A2%91%EF%BD%9CBV1A96SYHEnz9-%23FB7299?style=flat&logo=bilibili)](https://www.bilibili.com/video/BV1A96SYHEnz)
 
-瑞思课堂工具｜[软件介绍](https://app.3r60.top/Ris_ClassTool)
-
-——智慧教育，触手可及。
+智慧教育，触手可及。｜[观看介绍视频，开启您的智慧教学之旅！→](https://www.bilibili.com/video/BV1A96SYHEnz)
 
 ——让每堂课都充满活力，让每个学生都能享受到科技带来的教育革新。
 
@@ -189,7 +235,7 @@
 </div>
 
 #### 功能
-📅 **课表一目了然**：在桌面清晰展示每日课表，让教学安排井然有序。
+📅 **课表一目了然**：在上方清晰展示每日课表，让教学安排井然有序。
 
 🕒 **课程进度实时更新**：顶部动态显示课程进度，把握每一分钟的教学节奏。
 
@@ -247,55 +293,6 @@
 - 支持动态调整课表，支持多周(最多四周)课表轮换
 - 窗口置顶，可点击穿透
 - 编辑配置文件以编辑时间/课表
-
-<div align="center">
-
-<image src="https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/img%2FLogo.png" height="64"/>
-
-### Class-Widgets
-
-![Banner](https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/img%2FBanner.png)
-
-![Light](https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/img%2Fscreenshot_0.png)
-
-![Dark](https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/img%2Fscreenshot_1.png)
-
-[![stars](https://img.shields.io/github/stars/RinLit-233-shiroko/Class-Widgets?label=Stars)](https://github.com/RinLit-233-shiroko/Class-Widgets)
-[![forks](https://img.shields.io/github/forks/RinLit-233-shiroko/Class-Widgets?label=Forks)](https://github.com/RinLit-233-shiroko/Class-Widgets)
-[![Watchers](https://img.shields.io/github/watchers/RinLit-233-shiroko/Class-Widgets?style=social)](https://github.com/RinLit-233-shiroko/Class-Widgets/watchers)
-[![Downloads](https://img.shields.io/github/downloads/RinLit-233-shiroko/Class-Widgets/total?style=social&label=Downloads&logo=github)](https://github.com/RinLit-233-shiroko/Class-Widgets/releases/latest)
-[![GitHub Issues](https://img.shields.io/github/issues-search/RinLit-233-shiroko/Class-Widgets?query=is%3Aopen&style=flat&logo=github&label=Issues&color=%233fb950)](https://github.com/RinLit-233-shiroko/Class-Widgets/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/RinLit-233-shiroko/Class-Widgets?style=flat&logo=Github&label=Discussions)](https://github.com/RinLit-233-shiroko/Class-Widgets/discussions)
-[![Release](https://img.shields.io/github/v/release/RinLit-233-shiroko/Class-Widgets?style=flat&color=%233fb950&label=正式版)](https://github.com/RinLit-233-shiroko/Class-Widgets/releases/latest) 
-[![Beta](https://img.shields.io/github/v/release/RinLit-233-shiroko/Class-Widgets?include_prereleases&style=flat&label=测试版)](https://github.com/RinLit-233-shiroko/Class-Widgets/releases)
-[![Created At](https://img.shields.io/github/created-at/RinLit-233-shiroko/Class-Widgets)](https://github.com/RinLit-233-shiroko/Class-Widgets)
-[![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/Class-Widgets)](https://github.com/RinLit-233-shiroko/Class-Widgets/commits/main/)
-![Update Status](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E6%B4%BB%E8%B7%83-blue)
-[![GitHub Language Count](https://img.shields.io/github/languages/count/RinLit-233-shiroko/Class-Widgets)](https://github.com/RinLit-233-shiroko/Class-Widgets)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/RinLit-233-shiroko/Class-Widgets)](https://github.com/RinLit-233-shiroko/Class-Widgets)
-[![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/LICENSE)
-[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C169200380-blue?style=flat&logo=QQ)](https://qm.qq.com/q/EuDtwzURQA)
-[![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9CRinLit__233OuO-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/569522843)
-[![bilibili](https://img.shields.io/badge/-bilibili%E8%A7%86%E9%A2%91%EF%BD%9CBV1xwW9eyEGu-%23FB7299?style=flat&logo=bilibili)](https://www.bilibili.com/video/BV1xwW9eyEGu)
-
-一款全新课表软件
-
-[Releases](https://github.com/RinLit-233-shiroko/Class-Widgets/releases)｜[使用文档](https://www.yuque.com/rinlit/class-widgets_help)
-
-<img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/RinLit-233-shiroko/Class-Widgets](https://github.com/RinLit-233-shiroko/Class-Widgets) 
-
-</div>
-
-#### 功能
-- 以小组件形式显示：
-	- 当前活动结束剩余时间、当前活动、接下来课程
-	- 天气、倒数日
-- 方便的提醒系统：
-	- [上下课提醒](https://www.yuque.com/rinlit/class-widgets_help/fv2ou1i1ngap0hrl)和预备铃
-- 简洁直观的[课程表编辑界面](https://www.yuque.com/rinlit/class-widgets_help/oozelh8r56tmw0xb)
-- [快捷调休/换课](https://www.yuque.com/rinlit/class-widgets_help/gc4epffu7g5bf9os)
-- 同时存储多套课表，支持文件导入/导出
-- [个性化](https://www.yuque.com/rinlit/class-widgets_help/qyly70ht1ogge1pi)主题设置，支持浅色/深色模式
 
 <div align="center">
 
