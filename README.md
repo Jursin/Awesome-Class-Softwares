@@ -44,7 +44,7 @@
 | 软件 | 组织/开发者 |
 | - | - |
 | [ClassIsland](#classisland) |  [`ClassIsland`](https://github.com/ClassIsland) [`HelloWRC`](https://github.com/HelloWRC) |
-| [Class-Widgets](#class-widgets) | [`RinLit-233-shiroko`](https://github.com/RinLit-233-shiroko) |
+| [Class-Widgets](#class-widgets) | [`Class-Widgets`](https://github.com/Class-Widgets/Class-Widgets) [`RinLit-233-shiroko`](https://github.com/RinLit-233-shiroko) |
 | [Ris_ClassTool](#ris_classtool) | [`Ris-Soft`](https://github.com/Ris-Soft) |
 | [ElectronClassSchedule](#electronclassschedule) | [`EnderWolf006`](https://github.com/EnderWolf006) |
 
@@ -154,39 +154,39 @@
 
 <div align="center">
 
-<image src="https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/img%2FLogo.png" height="64"/>
+<image src="https://github.com/Class-Widgets/Class-Widgets/blob/main/img%2FLogo.png" height="64"/>
 
 ### Class-Widgets
 
-![Banner](https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/img%2FBanner.png)
+![Banner](https://github.com/Class-Widgets/Class-Widgets/blob/main/img%2FBanner.png)
 
-![Light](https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/img%2Fscreenshot_0.png)
+![Light](https://github.com/Class-Widgets/Class-Widgets/blob/main/img%2Fscreenshot_0.png)
 
-![Dark](https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/img%2Fscreenshot_1.png)
+![Dark](https://github.com/Class-Widgets/Class-Widgets/blob/main/img%2Fscreenshot_1.png)
 
-[![stars](https://img.shields.io/github/stars/RinLit-233-shiroko/Class-Widgets?label=Stars)](https://github.com/RinLit-233-shiroko/Class-Widgets)
-[![forks](https://img.shields.io/github/forks/RinLit-233-shiroko/Class-Widgets?label=Forks)](https://github.com/RinLit-233-shiroko/Class-Widgets)
-[![Watchers](https://img.shields.io/github/watchers/RinLit-233-shiroko/Class-Widgets?style=social)](https://github.com/RinLit-233-shiroko/Class-Widgets/watchers)
-[![Downloads](https://img.shields.io/github/downloads/RinLit-233-shiroko/Class-Widgets/total?style=social&label=Downloads&logo=github)](https://github.com/RinLit-233-shiroko/Class-Widgets/releases/latest)
-[![GitHub Issues](https://img.shields.io/github/issues-search/RinLit-233-shiroko/Class-Widgets?query=is%3Aopen&style=flat&logo=github&label=Issues&color=%233fb950)](https://github.com/RinLit-233-shiroko/Class-Widgets/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/RinLit-233-shiroko/Class-Widgets?style=flat&logo=Github&label=Discussions)](https://github.com/RinLit-233-shiroko/Class-Widgets/discussions)
-[![Release](https://img.shields.io/github/v/release/RinLit-233-shiroko/Class-Widgets?style=flat&color=%233fb950&label=正式版)](https://github.com/RinLit-233-shiroko/Class-Widgets/releases/latest) 
-[![Beta](https://img.shields.io/github/v/release/RinLit-233-shiroko/Class-Widgets?include_prereleases&style=flat&label=测试版)](https://github.com/RinLit-233-shiroko/Class-Widgets/releases)
-[![Created At](https://img.shields.io/github/created-at/RinLit-233-shiroko/Class-Widgets)](https://github.com/RinLit-233-shiroko/Class-Widgets)
-[![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/Class-Widgets)](https://github.com/RinLit-233-shiroko/Class-Widgets/commits/main/)
+[![stars](https://img.shields.io/github/stars/Class-Widgets/Class-Widgets?label=Stars)](https://github.com/Class-Widgets/Class-Widgets)
+[![forks](https://img.shields.io/github/forks/Class-Widgets/Class-Widgets?label=Forks)](https://github.com/Class-Widgets/Class-Widgets)
+[![Watchers](https://img.shields.io/github/watchers/Class-Widgets/Class-Widgets?style=social)](https://github.com/Class-Widgets/Class-Widgets/watchers)
+[![Downloads](https://img.shields.io/github/downloads/Class-Widgets/Class-Widgets/total?style=social&label=Downloads&logo=github)](https://github.com/Class-Widgets/Class-Widgets/releases/latest)
+[![GitHub Issues](https://img.shields.io/github/issues-search/Class-Widgets/Class-Widgets?query=is%3Aopen&style=flat&logo=github&label=Issues&color=%233fb950)](https://github.com/Class-Widgets/Class-Widgets/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/Class-Widgets/Class-Widgets?style=flat&logo=Github&label=Discussions)](https://github.com/Class-Widgets/Class-Widgets/discussions)
+[![Release](https://img.shields.io/github/v/release/Class-Widgets/Class-Widgets?style=flat&color=%233fb950&label=正式版)](https://github.com/Class-Widgets/Class-Widgets/releases/latest) 
+[![Beta](https://img.shields.io/github/v/release/Class-Widgets/Class-Widgets?include_prereleases&style=flat&label=测试版)](https://github.com/Class-Widgets/Class-Widgets/releases)
+[![Created At](https://img.shields.io/github/created-at/Class-Widgets/Class-Widgets)](https://github.com/Class-Widgets/Class-Widgets)
+[![Github Last Commit](https://img.shields.io/github/last-commit/Class-Widgets/Class-Widgets)](https://github.com/Class-Widgets/Class-Widgets/commits/main/)
 ![Update Status](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E6%B4%BB%E8%B7%83-blue)
-[![GitHub Language Count](https://img.shields.io/github/languages/count/RinLit-233-shiroko/Class-Widgets)](https://github.com/RinLit-233-shiroko/Class-Widgets)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/RinLit-233-shiroko/Class-Widgets)](https://github.com/RinLit-233-shiroko/Class-Widgets)
-[![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/RinLit-233-shiroko/Class-Widgets/blob/main/LICENSE)
+[![GitHub Language Count](https://img.shields.io/github/languages/count/Class-Widgets/Class-Widgets)](https://github.com/Class-Widgets/Class-Widgets)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/Class-Widgets/Class-Widgets)](https://github.com/Class-Widgets/Class-Widgets)
+[![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/Class-Widgets/Class-Widgets/blob/main/LICENSE)
 [![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C169200380-blue?style=flat&logo=QQ)](https://qm.qq.com/q/EuDtwzURQA)
 [![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9CRinLit__233OuO-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/569522843)
 [![bilibili](https://img.shields.io/badge/-bilibili%E8%A7%86%E9%A2%91%EF%BD%9CBV1xwW9eyEGu-%23FB7299?style=flat&logo=bilibili)](https://www.bilibili.com/video/BV1xwW9eyEGu)
 
 一款全新课表软件
 
-[Releases](https://github.com/RinLit-233-shiroko/Class-Widgets/releases)｜[使用文档](https://www.yuque.com/rinlit/class-widgets_help)
+[Releases](https://github.com/Class-Widgets/Class-Widgets/releases)｜[使用文档](https://www.yuque.com/rinlit/class-widgets_help)
 
-<img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/RinLit-233-shiroko/Class-Widgets](https://github.com/RinLit-233-shiroko/Class-Widgets) 
+<img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/Class-Widgets/Class-Widgets](https://github.com/Class-Widgets/Class-Widgets) 
 
 </div>
 
@@ -828,6 +828,6 @@ https://github.com/hello8693DSZ/dsz-exam-showboard)
 
 [![Star 历史](https://starchart.cc/Jursin/Awesome-Class-Softwares.svg?variant=adaptive)](https://starchart.cc/Jursin/Awesome-Class-Softwares)
 
-如果这个项目对您有帮助，请点亮 Star ⭐
+如果这个项目对您有帮助，请点亮 Star [⭐](#awesome-class-softwares)
 
 </div>
