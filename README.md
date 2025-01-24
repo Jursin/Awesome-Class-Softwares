@@ -33,7 +33,6 @@
 > **同类项目**
 
 [![Awesome-Iwb/Awesome-Iwb](https://github-readme-stats.vercel.app/api/pin/?username=Awesome-Iwb&repo=Awesome-Iwb&show_owner=true)](https://github.com/Awesome-Iwb/Awesome-Iwb)
-[![hello8693DSZ/awesome-whiteboard](https://github-readme-stats.vercel.app/api/pin/?username=hello8693DSZ&repo=awesome-whiteboard&show_owner=true)](https://github.com/hello8693DSZ/awesome-whiteboard)
 
 <div align="center">
 
@@ -64,6 +63,7 @@
 | [ZongziTEK黑板贴](#zongzitek黑板贴) | [`STBBRD`](https://github.com/STBBRD) |
 | [Sticky-attention](#sticky-attention) | [`Sticky-attention`](https://github.com/Sticky-attention) [`jizilin6732`](https://github.com/jizilin6732) |
 | [HomeworkBoard](#homeworkboard) | [`EnderWolf006`](https://github.com/EnderWolf006) |
+| [ExamShowBoard](#examshowboard) | [`ExamAware`](https://github.com/ExamAware) [`Hello8693`](https://github.com/Hello8693) |
 | [ExamShowBoard-Next](#examshowboard-next) | [`ProjectCampus-CH`](https://github.com/ProjectCampus-CH) [`MKStoler4096`](https://github.com/MKStoler4096) |
 
 ### [下载/启动器](#下载/启动器)
@@ -648,10 +648,50 @@ Sticky-attention 是一款适用于Windows 系统教室一体机的作业显示�
 
 <div align="center">
 
+<image src="https://github.com/ExamAware/dsz-exam-showboard/blob/master/resources/icon.png" height="64"/>
+
+### ExamShowboard
+
+![HomePage](https://github.com/ExamAware/dsz-exam-showboard/blob/master/.Screenshots/HomePage.png)
+![InfoPage](https://github.com/ExamAware/dsz-exam-showboard/blob/master/.Screenshots/InfoPage.png)
+
+[![stars](https://img.shields.io/github/stars/ExamAware/dsz-exam-showboard?label=Stars)](https://github.com/ExamAware/dsz-exam-showboard/stargazers)
+[![forks](https://img.shields.io/github/forks/ExamAware/dsz-exam-showboard?label=Forks)](https://github.com/ExamAware/dsz-exam-showboard/forks)
+[![Watchers](https://img.shields.io/github/watchers/ExamAware/dsz-exam-showboard?style=social)](https://github.com/ExamAware/dsz-exam-showboard/watchers)
+[![Downloads](https://img.shields.io/github/downloads/ExamAware/dsz-exam-showboard/total?style=social&label=Downloads&logo=github)](https://github.com/ExamAware/dsz-exam-showboard/releases)
+[![GitHub Issues](https://img.shields.io/github/issues-search/ExamAware/dsz-exam-showboard?query=is%3Aopen&style=flat&logo=github&label=Issues&color=%233fb950)](https://github.com/ExamAware/dsz-exam-showboard/issues)
+[![Created At](https://img.shields.io/github/created-at/ExamAware/dsz-exam-showboard)](https://github.com/ExamAware/dsz-exam-showboard)
+[![Github Last Commit](https://img.shields.io/github/last-commit/ExamAware/dsz-exam-showboard)](https://github.com/ExamAware/dsz-exam-showboard/commits/master)
+[![GitHub Language Count](https://img.shields.io/github/languages/count/ExamAware/dsz-exam-showboard)](https://github.com/ExamAware/dsz-exam-showboard)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/ExamAware/dsz-exam-showboard)](https://github.com/ExamAware/dsz-exam-showboard)
+[![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg 'LICENSE')](https://github.com/ExamAware/dsz-exam-showboard/blob/master/LICENSE)
+[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C901670561-blue?style=flat&logo=QQ&logoColor=white)](https://qm.qq.com/q/zDiEipHsaI)
+
+一款显示当前时间与考试详细信息的显示工具
+
+<img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/ExamAware/dsz-exam-showboard](https://github.com/ExamAware/dsz-exam-showboard)
+
+</div>
+
+#### 功能
+
+- 起始页展示 `打开配置` 、 `直接进入看板` 按钮
+- 看板页面
+  - 上方展示 `考试标题` 、 `信息`
+  - 左侧展示 `当前时间` 、 `当前科目` 、 `考试时间` 、 `考试状态`
+  - 右侧展示考试科目列表，包括 `科目` 、 `开始` 、 `结束` 、 `状态`
+  - 考试结束前15分钟黄字提醒
+  - 集控功能（早期测试）
+  - 设置页面（正在开发）
+
+<div align="center">
+
+<image src="https://github.com/ProjectCampus-CH/exam-showboard-next/blob/master/resources/icon.png" height="64"/>
+
 ### ExamShowBoard-Next
 
-forked from [hello8693DSZ/dsz-exam-showboard](
-https://github.com/hello8693DSZ/dsz-exam-showboard)
+forked from [ExamAware/dsz-exam-showboard](
+https://github.com/ExamAware/dsz-exam-showboard)
 
 
 ![HomePage](https://github.com/ProjectCampus-CH/exam-showboard-next/blob/master/.Screenshots%2FHomePage.png)
@@ -662,7 +702,6 @@ https://github.com/hello8693DSZ/dsz-exam-showboard)
 [![Watchers](https://img.shields.io/github/watchers/ProjectCampus-CH/dsz-exam-showboard-next?style=social)](https://github.com/ProjectCampus-CH/dsz-exam-showboard-next/watchers)
 [![Downloads](https://img.shields.io/github/downloads/ProjectCampus-CH/dsz-exam-showboard-next/total?style=social&label=Downloads&logo=github)](https://github.com/ProjectCampus-CH/dsz-exam-showboard-next/releases)
 [![GitHub Issues](https://img.shields.io/github/issues-search/ProjectCampus-CH/dsz-exam-showboard-next?query=is%3Aopen&style=social-square&logo=github&label=Issues&color=%233fb950)](https://github.com/ProjectCampus-CH/dsz-exam-showboard-next/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/ProjectCampus-CH/dsz-exam-showboard-next?style=flat&logo=Github&label=Discussions)](https://github.com/ProjectCampus-CH/dsz-exam-showboard-next/discussions)
 [![Created At](https://img.shields.io/github/created-at/ProjectCampus-CH/dsz-exam-showboard-next)](https://github.com/ProjectCampus-CH/dsz-exam-showboard-next)
 [![Github Last Commit](https://img.shields.io/github/last-commit/ProjectCampus-CH/dsz-exam-showboard-next)](https://github.com/ProjectCampus-CH/dsz-exam-showboard-next/commits/master)
 [![GitHub Language Count](https://img.shields.io/github/languages/count/ProjectCampus-CH/dsz-exam-showboard-next)](https://github.com/ProjectCampus-CH/dsz-exam-showboard-next)
