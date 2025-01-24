@@ -841,13 +841,6 @@ https://github.com/ExamAware/dsz-exam-showboard)
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/MKStoler4096">
-                    <img src="https://avatars.githubusercontent.com/u/178344462?v=4" width="100;" alt="MKStoler4096"/>
-                    <br />
-                    <sub><b>MKStoler</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/Aris-Offline">
                     <img src="https://avatars.githubusercontent.com/u/65645068?v=4" width="100;" alt="Aris-Offline"/>
                     <br />
