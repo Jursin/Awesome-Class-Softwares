@@ -61,6 +61,7 @@
 | <img src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Canvas%2FResources%2FInkCanvas.png" width="20" height="20"/> [Ink-Canvas](#ink-canvas) | <img src="https://avatars.githubusercontent.com/u/62491584?v=4" width="20" height="20"/> [`WXRIW`](https://github.com/WXRIW) |
 | <img src="https://github.com/ChangSakura/Ink-Canvas/blob/master/Images/Ink%20Canvas%20Artistry.png" width="20" height="20"/> [Ink-Canvas-Artistry](#ink-canvas-artistry) | <img src="https://avatars.githubusercontent.com/u/90511645?v=4" width="20" height="20"/> [`ChangSakura`](https://github.com/ChangSakura)<img src="https://avatars.githubusercontent.com/u/175485214?s=200&v=4" width="20" height="20"/> [`InkCanvas`](https://github.com/InkCanvas)  |
 | <img src="https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/blob/main/Ink-Canvas-Reborn-Logo.png" width="20" height="20"/> [Ink-Canvas-Reborn](#ink-canvas-reborn) | <img src="https://avatars.githubusercontent.com/u/184760810?s=200&v=4" width="20" height="20"/> [`Awesome-Iwb`](https://github.com/Awesome-Iwb) |
+| <img src="https://github.com/SketchNow/SketchNow.WPF/blob/main/SketchNow%2FResources%2FAppIcon.ico" width="20" height="20"/> [SketchNow](#sketchnow) | <img src="https://avatars.githubusercontent.com/u/181708430?s=200&v=4" width="20" height="20"/> [`SketchNow`](https://github.com/SketchNow) <img src="https://avatars.githubusercontent.com/u/172874642?v=4" width="20" height="20"/> [`realybin`](https://github.com/realybin) |
 | <img src="https://github.com/Alan-CRL/Inkeys/blob/main/GithubRes%2Flogo.png" width="20" height="20"/> [智绘教Inkeys](#智绘教inkeys) | <img src="https://avatars.githubusercontent.com/u/92425617?v=4" width="20" height="20"/> [`Alan-CRL`](https://github.com/Alan-CRL) |
 | <img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/Screenshots/Inkways/Inkways_256.png" width="20" height="20"/> [Inkways-Classic](#inkways-classic) | <img src="https://github.com/Jursin/Awesome-Class-Softwares/blob/main/icons/Inkore_Badge_256.png" width="20" height="20"/> [`iNKORE Studios`](https://github.com/iNKORE-NET) |
 
@@ -395,6 +396,82 @@ forked from [WXRIW/Ink-Canvas](https://github.com/WXRIW/Ink-Canvas)
 <img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/ChangSakura/Ink-Canvas](https://github.com/ChangSakura/Ink-Canvas)
 
 </div>
+
+<div align="center">
+
+<image src="https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/blob/main/Ink-Canvas-Reborn-Logo.png" height="64"/>
+
+### Ink Canvas Reborn
+
+[直接下载](https://github.com/dubi906w/Ink-Canvas-Reborn/releases/latest) | [使用指南](https://github.com/dubi906w/Ink-Canvas-Reborn/blob/master/MANUAL.md) | [常见问题](https://github.com/dubi906w/Ink-Canvas-Reborn#FAQ)
+
+[![stars](https://img.shields.io/github/stars/Awesome-Iwb/Ink-Canvas-Reborn?label=Stars)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn)
+[![forks](https://img.shields.io/github/forks/Awesome-Iwb/Ink-Canvas-Reborn?label=Forks)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn)
+[![Watchers](https://img.shields.io/github/watchers/Awesome-Iwb/Ink-Canvas-Reborn?style=social)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/watchers)
+[![GitHub Issues](https://img.shields.io/github/issues-search/Awesome-Iwb/Ink-Canvas-Reborn?query=is%3Aopen&style=flat&logo=github&label=Issues&color=%233fb950)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/issues)
+[![Created At](https://img.shields.io/github/created-at/Awesome-Iwb/Ink-Canvas-Reborn)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn)
+[![Github Last Commit](https://img.shields.io/github/last-commit/Awesome-Iwb/Ink-Canvas-Reborn)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/commits/master/)
+![Update Status](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E8%BE%83%E4%B8%8D%E6%B4%BB%E8%B7%83-yellow)
+[![GitHub Language Count](https://img.shields.io/github/languages/count/Awesome-Iwb/Ink-Canvas-Reborn)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/Awesome-Iwb/Ink-Canvas-Reborn)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn)
+[![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/blob/master/LICENSE)
+
+A fantastic Ink Canvas in WPF/C#, with fantastic support for Seewo Boards.
+
+</div>
+
+#### 特性
+
+- 对 Microsoft PowerPoint 和 WPS Office 有优化支持。
+- **笔细的一头写字，反过来粗的一头是橡皮擦。（希沃白板并不支持）**
+- 优化原版 Ink Canvas 手掌擦除墨迹的体验。
+- 手绘的 **几何形状** 可以落笔后自动转换成 **印刷体** 。
+- 完全重写 Ink Canvas 原版项目，添加众多新功能，添加 UI 交互动画，升级界面外观，同时也会修复大量问题，并优化使用逻辑与提升用户体验
+
+<img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/Awesome-Iwb/Ink-Canvas-Reborn](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn)
+
+<div align="center">
+
+<image src="https://github.com/SketchNow/SketchNow.WPF/blob/main/SketchNow%2FResources%2FAppIcon.ico" height="64"/>
+
+### SketchNow
+
+![Banner](https://github.com/SketchNow/SketchNow.WPF/blob/main/docs/banner.png)
+
+[![stars](https://img.shields.io/github/stars/SketchNow/SketchNow.WPF?label=Stars)](https://github.com/SketchNow/SketchNow.WPF)
+[![forks](https://img.shields.io/github/forks/SketchNow/SketchNow.WPF?label=Forks)](https://github.com/SketchNow/SketchNow.WPF)
+[![Watchers](https://img.shields.io/github/watchers/SketchNow/SketchNow.WPF?style=social)](https://github.com/SketchNow/SketchNow.WPF/watchers)
+[![Downloads](https://img.shields.io/github/downloads/SketchNow/SketchNow.WPF/total?style=social&label=Downloads&logo=github)](https://github.com/SketchNow/SketchNow.WPF/releases/latest)
+[![GitHub Issues](https://img.shields.io/github/issues-search/SketchNow/SketchNow.WPF?query=is%3Aopen&style=flat&logo=github&label=Issues&color=%233fb950)](https://github.com/SketchNow/SketchNow.WPF/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/SketchNow/SketchNow.WPF?style=flat&logo=Github&label=Discussions)](https://github.com/SketchNow/SketchNow.WPF/discussions)
+[![Release](https://img.shields.io/github/v/release/SketchNow/SketchNow.WPF?style=flat&color=%233fb950&label=正式版)](https://github.com/SketchNow/SketchNow.WPF/releases/latest)
+[![Beta](https://img.shields.io/github/v/release/SketchNow/SketchNow.WPF?include_prereleases&style=flat&label=测试版)](https://github.com/SketchNow/SketchNow.WPF/releases)
+[![Created At](https://img.shields.io/github/created-at/SketchNow/SketchNow.WPF)](https://github.com/SketchNow/SketchNow.WPF)
+[![Github Last Commit](https://img.shields.io/github/last-commit/SketchNow/SketchNow.WPF)](https://github.com/SketchNow/SketchNow.WPF/commits/master)
+![Update Status](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E9%9D%9E%E5%B8%B8%E6%B4%BB%E8%B7%83-green)
+[![GitHub Language Count](https://img.shields.io/github/languages/count/SketchNow/SketchNow.WPF)](https://github.com/SketchNow/SketchNow.WPF)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/SketchNow/SketchNow.WPF)](https://github.com/SketchNow/SketchNow.WPF)
+[![LICENSE](https://img.shields.io/badge/License-MIT-red.svg "LICENSE")](https://github.com/SketchNow/SketchNow.WPF/blob/main/LICENSE.txt)
+
+一款让您能在屏幕任意位置实时绘图的应用程序
+
+[Releases](https://github.com/SketchNow/SketchNow.WPF/releases)｜[Actions](https://github.com/SketchNow/SketchNow.WPF/actions)｜[Upcoming](https://github.com/orgs/SketchNow/projects)｜[中文README](docs/SketchNow_cn.md)
+
+</div>
+
+> [!caution]
+> 当前仍在开发阶段。为避免潜在风险，请勿在生产环境中安装！
+
+#### 特点
+
+- 屏幕任意位置实时绘图
+- 高性能与精心设计的UI/UX
+- 稳定可靠
+- 绝不共享您的数据
+- 支持压感设备
+- 系统资源占用低
+
+<img src="icons/github.svg" width="16" height="16">GitHub仓库：[https://github.com/SketchNow/SketchNow.WPF](https://github.com/SketchNow/SketchNow.WPF)
 
 <div align="center">
 
