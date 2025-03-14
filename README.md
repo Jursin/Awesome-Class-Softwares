@@ -25,6 +25,8 @@
 >
 > [**点击跳转(开发中)**](https://jursin.github.io/Awesome-Class-Softwares-Web/)
 
+[![Awesome-Class-Softwares-Web](https://github-readme-stats.vercel.app/api/pin/?username=Jursin&repo=Awesome-Class-Softwares-Web&show_owner=true)](https://github.com/Jursin/Awesome-Class-Softwares-Web)
+
 > [!important]
 > **本文档旨在推荐以下优质软件，尽可能详细展现其功能，如欲提出问题，请前往对应仓库/交流平台**🔗
 >
@@ -43,9 +45,6 @@
 > **以下项目开发者基本都是学生**🤓
 > 
 > **以下徽章大部分点击后可跳转到对应链接**🔗
-
-[![Awesome-Class-Softwares-Web](https://github-readme-stats.vercel.app/api/pin/?username=Jursin&repo=Awesome-Class-Softwares-Web&show_owner=true)](https://github.com/Jursin/Awesome-Class-Softwares-Web)
-
 
 > **👋同类项目**
 
