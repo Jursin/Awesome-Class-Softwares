@@ -8,7 +8,8 @@
 [![Watchers](https://img.shields.io/github/watchers/Jursin/Awesome-Class-Softwares?style=social)](https://github.com/Jursin/Awesome-Class-Softwares/watchers)
 [![GitHub Issues](https://img.shields.io/github/issues-search/Jursin/Awesome-Class-Softwares?query=is%3Aopen&style=social&logo=github&label=Issues)](https://github.com/Jursin/Awesome-Class-Softwares/issues)
 [![GitHub Discussions](https://img.shields.io/github/discussions/Jursin/Awesome-Class-Softwares?style=social&logo=Github&label=Discussions)](https://github.com/Jursin/Awesome-Class-Softwares/discussions)
-[![Created At](https%3a%2f%2fimg.shields.io%2fbadge%2fcreated_at-2024--08--23_23%3a12%3a36_(UTC%2b8)-blue%0a%3fstyle%3dflat%26logo%3dGithub%26label%3dCreat%2520at)](https://github.com/Jursin/Awesome-Class-Softwares)
+[![Created At](https://img.shields.io/badge/created_at-2024--08--23_23%3a12%3a36_(UTC%2b8)-blue
+?style=flat&logo=Github&label=Creat%20at)](https://github.com/Jursin/Awesome-Class-Softwares)
 [![Github Last Commit](https://img.shields.io/github/last-commit/Jursin/Awesome-Class-Softwares?style=flat&logo=Github&label=Last%20commit)](https://github.com/Jursin/Awesome-Class-Softwares/commits/master)
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FJursin%2FAwesome-Class-Softwares&label=Visitors&countColor=%23263759&style=flat)](https://visitorbadge.io/)
 [![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9CHello__Jursin-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/1575907920)
