@@ -49,7 +49,7 @@
 ### 🗓️[课表类](#🗓️课表类)
 
 | 软件 | 组织/主开发者 |
-| - | - |
+|:-:|:-:|
 | [CsesWebEditor](#cseswebeditor) |  <img src="https://avatars.githubusercontent.com/u/197048605?s=200&v=4" width="20" height="20"> [`SmartTeachCN`](https://github.com/SmartTeachCN) <img src="https://avatars.githubusercontent.com/u/104706823?v=4" width="20" height="20"> [`PYLXU`](https://github.com/PYLXU) |
 | <img src="https://github.com/ClassIsland/ClassIsland/blob/master/ClassIsland/Assets/AppLogo_AppLogo.svg?raw=true" width="20" height="20"> [ClassIsland](#classisland) |  <img src="https://avatars.githubusercontent.com/u/170740237?s=200&v=4" width="20" height="20"> [`ClassIsland`](https://github.com/ClassIsland) <img src="https://avatars.githubusercontent.com/u/55006226?v=4" width="20" height="20"> [`HelloWRC`](https://github.com/HelloWRC) |
 | <img src="https://github.com/Class-Widgets/Class-Widgets/blob/main/img%2FLogo.png?raw=true" width="20" height="20"> [Class-Widgets](#class-widgets) | <img src="https://avatars.githubusercontent.com/u/189744676?s=200&v=4" width="20" height="20"> [`Class-Widgets`](https://github.com/Class-Widgets) <img src="https://avatars.githubusercontent.com/u/177950371?v=4" width="20" height="20"> [`RinLit-233-shiroko`](https://github.com/RinLit-233-shiroko) |
@@ -60,14 +60,14 @@
 ### 🧩[多功能类](#🧩多功能类)
 
 | 软件 | 组织/主开发者 |
-| - | - |
+|:-:|:-:|
 | <img src="https://github.com/Ris-Soft/Ris_ClassTool/blob/RisClassTool_Alpha/Main/logo.png?raw=true" width="20" height="20"> [Ris_ClassTool](#ris_classtool) | <img src="https://avatars.githubusercontent.com/u/179907615?s=200&v=4" width="20" height="20"> [`Ris-Soft`](https://github.com/Ris-Soft) <img src="https://avatars.githubusercontent.com/u/104706823?v=4" width="20" height="20"> [`PYLXU`](https://github.com/PYLXU) |
 | <img src="https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/blob/master/ZongziTEK_Blackboard_Sticker%2F%E9%BB%91%E6%9D%BF%E8%B4%B4.png?raw=true" width="20" height="20"> [ZongziTEK黑板贴](#zongzitek黑板贴) | <img src="https://avatars.githubusercontent.com/u/62409850?v=4" width="20" height="20"> [`STBBRD`](https://github.com/STBBRD) |
 
 ### 📊[看板类](#📊看板类)
 
 | 软件 | 组织/主开发者 |
-| - | - |
+|:-:|:-:|
 | <img src="https://avatars.githubusercontent.com/u/195304368?s=200&v=4" width="20" height="20"> [ExamAware](#examaware) | <img src="https://avatars.githubusercontent.com/u/195304368?s=200&v=4" width="20" height="20"> [`ExamAware`](https://github.com/ExamAware) <img src="https://avatars.githubusercontent.com/u/88492699?v=4" width="20" height="20"> [`Hello8693`](https://github.com/Hello8693) |
 | <img src="https://avatars.githubusercontent.com/u/183182916?s=200&v=4" width="20" height="20"> [Sticky-attention](#sticky-attention) | <img src="https://avatars.githubusercontent.com/u/183182916?s=200&v=4" width="20" height="20"> [`Sticky-attention`](https://github.com/Sticky-attention) <img src="https://avatars.githubusercontent.com/u/162853646?v=4" width="20" height="20"> [`jizilin6732`](https://github.com/jizilin6732) |
 | <img src="https://github.com/EnderWolf006/HomeworkBoard/blob/main/ClientProject/public/vite.svg?raw=true" width="20" height="20"> [HomeworkBoard](#homeworkboard) | <img src="https://avatars.githubusercontent.com/u/152008081?v=4" width="20" height="20"> [`EnderWolf006`](https://github.com/EnderWolf006) |
@@ -76,7 +76,7 @@
 ### 🖍️[批注类](#🖍️批注类)
 
 | 软件 | 组织/主开发者 |
-| - | - |
+|:-:|:-:|
 | <img src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Canvas%2FResources%2FInkCanvas.png?raw=true" width="20" height="20"> [Ink-Canvas](#ink-canvas) | <img src="https://avatars.githubusercontent.com/u/62491584?v=4" width="20" height="20"> [`WXRIW`](https://github.com/WXRIW) |
 | <img src="https://raw.githubusercontent.com/clover-yan/Ink-Canvas-Plus/refs/heads/master/Ink%20Canvas/Resources/InkCanvas.png" width="20" height="20"> [Ink-Canvas-Plus](#ink-canvas-plus) | <img src="https://avatars.githubusercontent.com/u/56215525?v=4" width="20" height="20"> [`clover-yan`](https://github.com/clover-yan/) |
 | <img src="https://github.com/ChangSakura/Ink-Canvas/blob/master/Images/Ink%20Canvas%20Artistry.png?raw=true" width="20" height="20"> [Ink-Canvas-Artistry](#ink-canvas-artistry) | <img src="https://avatars.githubusercontent.com/u/175485214?s=200&v=4" width="20" height="20"> [`InkCanvas`](https://github.com/InkCanvas) <img src="https://avatars.githubusercontent.com/u/90511645?v=4" width="20" height="20"> [`ChangSakura`](https://github.com/ChangSakura) |
@@ -89,14 +89,14 @@
 ### ⬇️[下载/启动器](#⬇️下载/启动器)
 
 | 软件 | 组织/主开发者 |
-| - | - |
+|:-:|:-:|
 | <img src="https://github.com/SectionIstool/SectionIstool/blob/main/resources%2FSectionIstool_icon.png?raw=true" width="20" height="20"> [SectionIstool](#SectionIstool) | <img src="https://avatars.githubusercontent.com/u/183712498?s=200&v=4" width="20" height="20"> [`SectionIstool`](https://github.com/SectionIstool) <img src="https://avatars.githubusercontent.com/u/139693537?v=4" width="20" height="20"> [`lzy98276`](https://github.com/lzy98276) |
 | <img src="https://github.com/user-attachments/assets/a0d2487f-7c3c-4dce-a3f9-125658d8386f" width="20" height="20"> [SeewoHUB](#seewohub) | <img src="https://avatars.githubusercontent.com/u/121096061?v=4" width="20" height="20"> [`CNwenwen`](https://github.com/CNwenwen) |
 
 ### 🎲[杂项](#🎲杂项)
 
 | 软件 | 组织/主开发者 |
-| - | - |
+|:-:|:-:|
 | <img src="https://avatars.githubusercontent.com/u/202290706?s=200&v=4" width="20" height="20"> [NamePicker](#namepicker) | <img src="https://avatars.githubusercontent.com/u/202290706?s=200&v=4" width="20" height="20"> [`NamePicker`](https://github.com/NamePickerOrg) <img src="https://avatars.githubusercontent.com/u/92249708?v=4" width="20" height="20"> [`LHGS-github`](https://github.com/LHGS-github) |
 | <img src="https://raw.githubusercontent.com/LuoYunXi0407/Rand/main/Assets%2Fwpfui-icon-1024.png" width="20" height="20"> [Rand](#rand) | <img src="https://avatars.githubusercontent.com/u/201465393?v=4" width="20" height="20"> [`LuoYunXi0407`](https://github.com/LuoYunXi0407) |
 | <img src="https://raw.githubusercontent.com/SECTL/SecRandom/refs/heads/main/resources/SecRandom.png" width="20" height="20"> [SecRandom](#secrandom) | <img src="https://avatars.githubusercontent.com/u/139693537?v=4" width="20" height="20"> [`lzy98276`](https://github.com/lzy98276) |
@@ -119,7 +119,7 @@
 一个基于 Web 的课程表编辑器，支持 CSES 格式的课程表创建、管理和导出｜[在线使用](https://edit.cses-org.cn/)
 
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 仓库** |[https://github.com/SmartTeachCN/CsesWebEditor](https://github.com/SmartTeachCN/CsesWebEditor) |
-| - | - |
+|:-:|:-:|
 | **Web 页面** | [./classschedule/cses.html](https://jursin.github.io/Awesome-Class-Softwares-Web/classschedule/cses.html)
 
 <image src="https://github.com/ClassIsland/ClassIsland/blob/master/ClassIsland/Assets/AppLogo_AppLogo.svg?raw=true" height="64">
@@ -154,7 +154,7 @@
 <image src="https://github.com/ClassIsland/ClassIsland/blob/master/ClassIsland/Assets/AppLogo_AppLogo.svg?raw=true" height="16"/>[ClassIsland 官网](https://classisland.tech/)｜[ClassIsland 文档](https://docs.classisland.tech)｜[ClassIsland 投票](https://github.com/ClassIsland/voting/discussions)
 
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/ClassIsland/ClassIsland](https://github.com/ClassIsland/ClassIsland) |
-| - | - |
+|:-:|:-:|
 | <img src="./images/icons/github.svg" width="16" height="16"> **`.NET 6`兼容版仓库** | [https://github.com/ClassIsland/ClassIsland-net6](https://github.com/ClassIsland/ClassIsland-net6)（可在`Windows 7`上正常运行） |
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/ClassIsland/ClassIsland/releases](https://github.com/ClassIsland/ClassIsland/releases) |
 | **Web 页面** | [./classschedule/classisland/](https://jursin.github.io/Awesome-Class-Softwares-Web/classschedule/classisland/)
@@ -185,7 +185,7 @@
 一款全新课表软件｜[Class-Widgets 官网](https://classwidgets.rinlit.cn/)｜[Class-Widgets 使用文档](https://www.yuque.com/rinlit/class-widgets_help)
 
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/Class-Widgets/Class-Widgets](https://github.com/Class-Widgets/Class-Widgets) |
-| - | - |
+|:-:|:-:|
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/Class-Widgets/Class-Widgets/releases](https://github.com/Class-Widgets/Class-Widgets/releases) |
 | **Web 页面** | [./classschedule/class-widgets/](https://jursin.github.io/Awesome-Class-Softwares-Web/classschedule/class-widgets/)
 
@@ -212,7 +212,7 @@
 一款功能丰富的桌面工具，支持在桌面显示各种组件，支持 CSES 通用课程表格式｜[LingYun Class Widgets 官网](https://lingyun-6e2.pages.dev/)
 
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/Yamikani-Flipped/LingYun-Class-Widgets](https://github.com/Yamikani-Flipped/LingYun-Class-Widgets) |
-| - | - |
+|:-:|:-:|
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/Yamikani-Flipped/LingYun-Class-Widgets/releases](https://github.com/Yamikani-Flipped/LingYun-Class-Widgets/releases) |
 | **Web 页面** | [./classschedule/lingyun-class-widgets](https://jursin.github.io/Awesome-Class-Softwares-Web/classschedule/lingyun-class-widgets/)
 
@@ -242,7 +242,7 @@
 一款电子课程表软件｜[使用说明](https://github.com/EnderWolf006/ElectronClassSchedule?tab=readme-ov-file#%E9%A3%9F%E7%94%A8%E8%AF%B4%E6%98%8E)
 
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/EnderWolf006/ElectronClassSchedule](https://github.com/EnderWolf006/ElectronClassSchedule) |
-| - | - |
+|:-:|:-:|
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/EnderWolf006/ElectronClassSchedule/releases](https://github.com/EnderWolf006/ElectronClassSchedule/releases) |
 | **Web 页面** | [./classschedule/electronclassschedule](https://jursin.github.io/Awesome-Class-Softwares-Web/classschedule/electronclassschedule/) |
 
@@ -267,7 +267,7 @@
 原名 **ESC++，iMagicTools** ，一个简单的课表软件，使用 Electron 框架
 
  | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/gpuawa/iClass](https://github.com/gpuawa/iClass) |
- | - | - |
+ |:-:|:-:|
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/gpuawa/iClass/releases](https://github.com/gpuawa/iClass/releases) |
 | **Web 页面** | [./classschedule/iclass](https://jursin.github.io/Awesome-Class-Softwares-Web/classschedule/iclass/) |
 
@@ -298,7 +298,7 @@
 瑞思课堂工具｜[Ris_ClassTool 下载站](https://app.3r60.top/Ris_ClassTool)
 
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 仓库** |[https://github.com/Ris-Soft/Ris_ClassTool](https://github.com/Ris-Soft/Ris_ClassTool) |
-| - | - |
+|:-:|:-:|
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/Ris-Soft/Ris_ClassTool/releases](https://github.com/Ris-Soft/Ris_ClassTool/releases) |
 | **Web 页面** | [./multi-function/ris_classtool](https://jursin.github.io/Awesome-Class-Softwares-Web/multi-function/ris_classtool/) |
 
@@ -326,7 +326,7 @@
 用于班级一体机的桌面小部件｜[ZongziTEK黑板贴官网](https://zztek.top/)
 
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker) |
-| - | - |
+|:-:|:-:|
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/releases](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/releases) |
 | **Web 页面** | [./multi-function/zongzitek-blackboard-sticker](https://jursin.github.io/Awesome-Class-Softwares-Web/multi-function/zongzitek-blackboard-sticker/)
 
@@ -357,7 +357,7 @@
 一款显示当前时间与考试详细信息的显示工具｜[网页版在线体验](http://examboard.cn/)
 
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/ExamAware/ExamShowboard-Legacy](https://github.com/ExamAware/ExamShowboard-Legacy) |
-| - | - |
+|:-:|:-:|
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/ExamAware/ExamShowboard-Legacy/releases](https://github.com/ExamAware/ExamShowboard-Legacy/releases) |
 | **Web 页面** | [./dashboard/examaware/exam-showboard](https://jursin.github.io/Awesome-Class-Softwares-Web/dashboard/examaware/exam-showboard)
 
@@ -377,7 +377,7 @@
 网页版考试看板｜[网页版在线体验](https://es.examaware.tech/)
 
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/ExamAware/ExamSchedule](https://github.com/ExamAware/ExamSchedule) |
-| - | - |
+|:-:|:-:|
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/ExamAware/ExamSchedule/releases](https://github.com/ExamAware/ExamSchedule/releases) |
 | **Web 页面** | [./dashboard/examaware/examschedule](https://jursin.github.io/Awesome-Class-Softwares-Web/dashboard/examaware/examschedule)
 
@@ -410,7 +410,7 @@ forked from
 一款适用于 Windows 系统教室一体机的作业显示工具，可以展示各科作业
 
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/Sticky-attention/Sticky-attention](https://github.com/Sticky-attention/Sticky-attention) |
-| - | - |
+|:-:|:-:|
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/Sticky-attention/Sticky-attention/releases](https://github.com/Sticky-attention/Sticky-attention/releases) |
 | **Web 页面** | [./dashboard/sticky-attention](https://jursin.github.io/Awesome-Class-Softwares-Web/dashboard/sticky-attention)
 
@@ -436,7 +436,7 @@ forked from
 一款支持云同步的作业展示板软件｜[使用说明](https://github.com/EnderWolf006/HomeworkBoard?tab=readme-ov-file#%E9%A3%9F%E7%94%A8%E8%AF%B4%E6%98%8E)
 
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/EnderWolf006/HomeworkBoard](https://github.com/EnderWolf006/HomeworkBoard) |
-| - | - |
+|:-:|:-:|
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/EnderWolf006/HomeworkBoard/releases](https://github.com/EnderWolf006/HomeworkBoard/releases) |
 | **Web 页面** | [./dashboard/homeworkboard](https://jursin.github.io/Awesome-Class-Softwares-Web/dashboard/homeworkboard)
 
@@ -459,7 +459,7 @@ forked from
 基于 Vue 3 + Vuetify 的现代化作业管理系统前端项目｜[ZeroCat 官网](https://zerocat.houlangs.com)
 
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/ClassworksDev/Classworks](https://github.com/ClassworksDev/Classworks) |
-| - | - |
+|:-:|:-:|
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/ClassworksDev/Classworks/releases](https://github.com/ClassworksDev/Classworks/releases) |
 | **Web 页面** | [./dashboard/classworks](https://jursin.github.io/Awesome-Class-Softwares-Web/dashboard/classworks)
 
@@ -495,7 +495,7 @@ Ink Canvas 画板是一款轻量级画板软件，基于WPF/C#，其针对希沃
 </a>
 
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/WXRIW/Ink-Canvas](https://github.com/WXRIW/Ink-Canvas) |
-| - | - |
+|:-:|:-:|
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/WXRIW/Ink-Canvas/releases](https://github.com/WXRIW/Ink-Canvas/releases) |
 | **Web 页面** | [./annotation/ink-canvas](https://jursin.github.io/Awesome-Class-Softwares-Web/annotation/ink-canvas)
 
@@ -520,7 +520,7 @@ Ink Canvas Plus (IC+) 是一款由 Clover Yan 维护、复刻自 [WXRIW/Ink Canv
 [使用指南](https://github.com/clover-yan/Ink-Canvas-Plus/blob/master/Manual.md/) | [常见问题](https://github.com/clover-yan/Ink-Canvas-Plus?tab=readme-ov-file#-faq)｜[Ink-Canvas-Plus 官网](https://www.khyan.top/apps/Ink-Canvas-Plus/)
 
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/clover-yan/Ink-Canvas-Plus](https://github.com/clover-yan/Ink-Canvas-Plus) |
-| - | - |
+|:-:|:-:|
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/clover-yan/Ink-Canvas-Plus/releases](https://github.com/clover-yan/Ink-Canvas-Plus/releases) |
 | **Web 页面** | [./annotation/ink-canvas-plus](https://jursin.github.io/Awesome-Class-Softwares-Web/annotation/ink-canvas-plus)
 
@@ -551,7 +551,7 @@ forked from <image src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Ca
 基于 [Ink Canvas](https://github.com/WXRIW/Ink-Canvas) 二次开发，优化了界面UI，是一款好用的屏幕批注/板书/PPT批注工具｜[常见问题](https://github.com/InkCanvas/Ink-Canvas-Artistry?tab=readme-ov-file#-faq)
 
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/ChangSakura/Ink-Canvas](https://github.com/ChangSakura/Ink-Canvas) |
-| - | - |
+|:-:|:-:|
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/ChangSakura/Ink-Canvas/releases](https://github.com/ChangSakura/Ink-Canvas/releases) |
 | **Web 页面** | [./annotation/ink-canvas-artistry](https://jursin.github.io/Awesome-Class-Softwares-Web/annotation/ink-canvas-artistry)
 
@@ -599,7 +599,7 @@ forked from <image src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Ca
 [![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C1054377349-blue?style=flat&logo=QQ)](https://qm.qq.com/q/qo32AclNh6)
 
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/InkCanvas/InkCanvasForClass](https://github.com/InkCanvas/InkCanvasForClass)**（已存档）** |
-| - | - |
+|:-:|:-:|
 | <img src="./images/icons/github.svg" width="16" height="16"> **社区版 GitHub 仓库** | [https://github.com/InkCanvasForClass/community](https://github.com/InkCanvasForClass/community) |
 | <img src="./images/icons/github.svg" width="16" height="16"> **社区版 GitHub 发行版** | [https://github.com/InkCanvasForClass/community/releases](https://github.com/InkCanvasForClass/community/releases) |
 | **Web 页面** | [./annotation/inkcanvasforclass](https://jursin.github.io/Awesome-Class-Softwares-Web/annotation/inkcanvasforclass) |
@@ -634,7 +634,7 @@ forked from <image src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Ca
 <div align="center">
 
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/SketchNow/SketchNow.WPF](https://github.com/SketchNow/SketchNow.WPF) |
-| - | - |
+|:-:|:-:|
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/SketchNow/SketchNow.WPF/releases](https://github.com/SketchNow/SketchNow.WPF/releases) |
 | **Web 页面** | [./annotation/sketchnow](https://jursin.github.io/Awesome-Class-Softwares-Web/annotation/sketchnow)
 
@@ -663,7 +663,7 @@ forked from <image src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Ca
 原名 `Intelligent-Drawing-Teaching（简称 IDT）`，Windows 屏幕批注工具，拥有批注高效和功能丰富等特点，适用于触摸设备和PC端｜[智绘教Inkeys 官网](https://www.inkeys.top)
 
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/Alan-CRL/Inkeys](https://github.com/Alan-CRL/Inkeys) |
-| - | - |
+|:-:|:-:|
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/Alan-CRL/Inkeys/releases](https://github.com/Alan-CRL/Inkeys/releases) |
 | **Web 页面** | [./annotation/inkeys](https://jursin.github.io/Awesome-Class-Softwares-Web/annotation/inkeys) |
 
@@ -686,7 +686,7 @@ forked from <image src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Ca
 一个现代化，简洁而强大的，拥有智能书写算法优化的书写软件｜[官方网站](https://www.inkore.net/)
 
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 主页** | [https://github.com/Inkways](https://github.com/Inkways) |
-| - | - |
+|:-:|:-:|
 
 <img src="https://raw.githubusercontent.com/lh11117/LemonxNote/main/lemonxnote.ico" height="64"/>
 
@@ -707,7 +707,7 @@ forked from <image src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Ca
 一款用 C++ 和 Qt 开发的轻量白板软件。
 
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/lh11117/LemonxNote](https://github.com/lh11117/LemonxNote) |
-| - | - |
+|:-:|:-:|
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/lh11117/LemonxNote/releases](https://github.com/lh11117/LemonxNote/releases) |
 | **Web 页面** | [./annotation/lemonxnote](https://jursin.github.io/Awesome-Class-Softwares-Web/annotation/lemonxnote) |
 
@@ -739,7 +739,7 @@ forked from <image src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Ca
 一款方便、快捷下载适合班级一体机使用的各类软件的下载器
 
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/SectionIstool/SectionIstool](https://github.com/SectionIstool/SectionIstool) |
-| - | - |
+|:-:|:-:|
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/SectionIstool/SectionIstool/releases](https://github.com/SectionIstool/SectionIstool/releases) |
 | **Web 页面** | [./downloader/sectionistoo](https://jursin.github.io/Awesome-Class-Softwares-Web/downloader/sectionistool)
 
@@ -773,7 +773,7 @@ forked from <image src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Ca
 一款方便、快捷下载适合班级一体机使用的各类软件的下载器
 
  | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/CNwenwen/SeewoHUB](https://github.com/CNwenwen/SeewoHUB) |
- | - | - |
+ |:-:|:-:|
  | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/CNwenwen/SeewoHUB/releases](https://github.com/CNwenwen/SeewoHUB/releases) |
  | **Web 页面** | [./downloader/seewohub](https://jursin.github.io/Awesome-Class-Softwares-Web/downloader/seewohub)
 
@@ -807,7 +807,7 @@ forked from <image src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Ca
 一款简洁的点名软件｜[官方文档站](https://namepicker-docs.netlify.app)
 
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/NamePickerOrg/NamePicker](https://github.com/NamePickerOrg/NamePicker) |
-| - | - |
+|:-:|:-:|
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/NamePickerOrg/NamePicker/releases](https://github.com/NamePickerOrg/NamePicker/releases) |
 | **Web 页面** | [./miscellany/namepicker](https://jursin.github.io/Awesome-Class-Softwares-Web/miscellany/namepicker)
 
@@ -830,7 +830,7 @@ forked from <image src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Ca
 一款美观、易用、强大的抽号软件
 
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/LuoYunXi0407/Rand](https://github.com/LuoYunXi0407/Rand) |
-| - | - |
+|:-:|:-:|
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/LuoYunXi0407/Rand/releases](https://github.com/LuoYunXi0407/Rand/releases) |
 | **Web 页面** | [./miscellany/rand](https://jursin.github.io/Awesome-Class-Softwares-Web/miscellany/rand) |
 
@@ -854,7 +854,7 @@ forked from <image src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Ca
 一款能以多种方式进行完全公平的随机抽取的软件
 
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/SECTL/SecRandom](https://github.com/SECTL/SecRandom) |
-| - | - |
+|:-:|:-:|
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/SECTL/SecRandom/releases](https://github.com/SECTL/SecRandom/releases) |
 | **Web 页面** | [./miscellany/secrandom](https://jursin.github.io/Awesome-Class-Softwares-Web/miscellany/secrandom) |
 
