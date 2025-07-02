@@ -15,6 +15,8 @@
 
 [![Repobeats](https://repobeats.axiom.co/api/embed/6143732bb42daf7aa015c9f6e993d0e8fbd98913.svg "Repobeats analytics image")](https://repobeats.axiom.co/)
 
+</div>
+
 > [!important]
 > **本文档旨在推荐以下优质软件，如欲提出问题，请前往对应仓库/交流平台**🔗
 >
@@ -37,6 +39,8 @@
 > **以下徽章大部分点击后可跳转到对应链接**🔗
 
 > **👋同类项目**
+
+<div align="center">
 
 [![Awesome-Iwb/Awesome-Iwb](https://github-readme-stats.vercel.app/api/pin/?username=Awesome-Iwb&repo=Awesome-Iwb&show_owner=true)](https://github.com/Awesome-Iwb/Awesome-Iwb)
 
