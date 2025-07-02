@@ -49,7 +49,7 @@
 ### 🗓️[课表类](#🗓️课表类)
 
 | 软件 | 组织/主开发者 |
-|:-:|:-:|
+| - | - |
 | [CsesWebEditor](#cseswebeditor) |  <img src="https://avatars.githubusercontent.com/u/197048605?s=200&v=4" width="20" height="20"> [`SmartTeachCN`](https://github.com/SmartTeachCN) <img src="https://avatars.githubusercontent.com/u/104706823?v=4" width="20" height="20"> [`PYLXU`](https://github.com/PYLXU) |
 | <img src="https://github.com/ClassIsland/ClassIsland/blob/master/ClassIsland/Assets/AppLogo_AppLogo.svg?raw=true" width="20" height="20"> [ClassIsland](#classisland) |  <img src="https://avatars.githubusercontent.com/u/170740237?s=200&v=4" width="20" height="20"> [`ClassIsland`](https://github.com/ClassIsland) <img src="https://avatars.githubusercontent.com/u/55006226?v=4" width="20" height="20"> [`HelloWRC`](https://github.com/HelloWRC) |
 | <img src="https://github.com/Class-Widgets/Class-Widgets/blob/main/img%2FLogo.png?raw=true" width="20" height="20"> [Class-Widgets](#class-widgets) | <img src="https://avatars.githubusercontent.com/u/189744676?s=200&v=4" width="20" height="20"> [`Class-Widgets`](https://github.com/Class-Widgets) <img src="https://avatars.githubusercontent.com/u/177950371?v=4" width="20" height="20"> [`RinLit-233-shiroko`](https://github.com/RinLit-233-shiroko) |
@@ -60,14 +60,14 @@
 ### 🧩[多功能类](#🧩多功能类)
 
 | 软件 | 组织/主开发者 |
-|:-:|:-:|
+| - | - |
 | <img src="https://github.com/Ris-Soft/Ris_ClassTool/blob/RisClassTool_Alpha/Main/logo.png?raw=true" width="20" height="20"> [Ris_ClassTool](#ris_classtool) | <img src="https://avatars.githubusercontent.com/u/179907615?s=200&v=4" width="20" height="20"> [`Ris-Soft`](https://github.com/Ris-Soft) <img src="https://avatars.githubusercontent.com/u/104706823?v=4" width="20" height="20"> [`PYLXU`](https://github.com/PYLXU) |
 | <img src="https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/blob/master/ZongziTEK_Blackboard_Sticker%2F%E9%BB%91%E6%9D%BF%E8%B4%B4.png?raw=true" width="20" height="20"> [ZongziTEK黑板贴](#zongzitek黑板贴) | <img src="https://avatars.githubusercontent.com/u/62409850?v=4" width="20" height="20"> [`STBBRD`](https://github.com/STBBRD) |
 
 ### 📊[看板类](#📊看板类)
 
 | 软件 | 组织/主开发者 |
-|:-:|:-:|
+| - | - |
 | <img src="https://avatars.githubusercontent.com/u/195304368?s=200&v=4" width="20" height="20"> [ExamAware](#examaware) | <img src="https://avatars.githubusercontent.com/u/195304368?s=200&v=4" width="20" height="20"> [`ExamAware`](https://github.com/ExamAware) <img src="https://avatars.githubusercontent.com/u/88492699?v=4" width="20" height="20"> [`Hello8693`](https://github.com/Hello8693) |
 | <img src="https://avatars.githubusercontent.com/u/183182916?s=200&v=4" width="20" height="20"> [Sticky-attention](#sticky-attention) | <img src="https://avatars.githubusercontent.com/u/183182916?s=200&v=4" width="20" height="20"> [`Sticky-attention`](https://github.com/Sticky-attention) <img src="https://avatars.githubusercontent.com/u/162853646?v=4" width="20" height="20"> [`jizilin6732`](https://github.com/jizilin6732) |
 | <img src="https://github.com/EnderWolf006/HomeworkBoard/blob/main/ClientProject/public/vite.svg?raw=true" width="20" height="20"> [HomeworkBoard](#homeworkboard) | <img src="https://avatars.githubusercontent.com/u/152008081?v=4" width="20" height="20"> [`EnderWolf006`](https://github.com/EnderWolf006) |
@@ -76,7 +76,7 @@
 ### 🖍️[批注类](#🖍️批注类)
 
 | 软件 | 组织/主开发者 |
-|:-:|:-:|
+| - | - |
 | <img src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Canvas%2FResources%2FInkCanvas.png?raw=true" width="20" height="20"> [Ink-Canvas](#ink-canvas) | <img src="https://avatars.githubusercontent.com/u/62491584?v=4" width="20" height="20"> [`WXRIW`](https://github.com/WXRIW) |
 | <img src="https://raw.githubusercontent.com/clover-yan/Ink-Canvas-Plus/refs/heads/master/Ink%20Canvas/Resources/InkCanvas.png" width="20" height="20"> [Ink-Canvas-Plus](#ink-canvas-plus) | <img src="https://avatars.githubusercontent.com/u/56215525?v=4" width="20" height="20"> [`clover-yan`](https://github.com/clover-yan/) |
 | <img src="https://github.com/ChangSakura/Ink-Canvas/blob/master/Images/Ink%20Canvas%20Artistry.png?raw=true" width="20" height="20"> [Ink-Canvas-Artistry](#ink-canvas-artistry) | <img src="https://avatars.githubusercontent.com/u/175485214?s=200&v=4" width="20" height="20"> [`InkCanvas`](https://github.com/InkCanvas) <img src="https://avatars.githubusercontent.com/u/90511645?v=4" width="20" height="20"> [`ChangSakura`](https://github.com/ChangSakura) |
@@ -89,14 +89,14 @@
 ### ⬇️[下载/启动器](#⬇️下载/启动器)
 
 | 软件 | 组织/主开发者 |
-|:-:|:-:|
+| - | - |
 | <img src="https://github.com/SectionIstool/SectionIstool/blob/main/resources%2FSectionIstool_icon.png?raw=true" width="20" height="20"> [SectionIstool](#SectionIstool) | <img src="https://avatars.githubusercontent.com/u/183712498?s=200&v=4" width="20" height="20"> [`SectionIstool`](https://github.com/SectionIstool) <img src="https://avatars.githubusercontent.com/u/139693537?v=4" width="20" height="20"> [`lzy98276`](https://github.com/lzy98276) |
 | <img src="https://github.com/user-attachments/assets/a0d2487f-7c3c-4dce-a3f9-125658d8386f" width="20" height="20"> [SeewoHUB](#seewohub) | <img src="https://avatars.githubusercontent.com/u/121096061?v=4" width="20" height="20"> [`CNwenwen`](https://github.com/CNwenwen) |
 
 ### 🎲[杂项](#🎲杂项)
 
 | 软件 | 组织/主开发者 |
-|:-:|:-:|
+| - | - |
 | <img src="https://avatars.githubusercontent.com/u/202290706?s=200&v=4" width="20" height="20"> [NamePicker](#namepicker) | <img src="https://avatars.githubusercontent.com/u/202290706?s=200&v=4" width="20" height="20"> [`NamePicker`](https://github.com/NamePickerOrg) <img src="https://avatars.githubusercontent.com/u/92249708?v=4" width="20" height="20"> [`LHGS-github`](https://github.com/LHGS-github) |
 | <img src="https://raw.githubusercontent.com/LuoYunXi0407/Rand/main/Assets%2Fwpfui-icon-1024.png" width="20" height="20"> [Rand](#rand) | <img src="https://avatars.githubusercontent.com/u/201465393?v=4" width="20" height="20"> [`LuoYunXi0407`](https://github.com/LuoYunXi0407) |
 | <img src="https://raw.githubusercontent.com/SECTL/SecRandom/refs/heads/main/resources/SecRandom.png" width="20" height="20"> [SecRandom](#secrandom) | <img src="https://avatars.githubusercontent.com/u/139693537?v=4" width="20" height="20"> [`lzy98276`](https://github.com/lzy98276) |
