@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 484.64 597.07">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-family: DengXian-Bold, DengXian;
+        font-size: 115px;
+        font-weight: 700;
+        isolation: isolate;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M268.72,16.5c-4.9-10.1-15.2-16.5-26.5-16.5s-21.5,6.4-26.4,16.5l-59,121.4L25.02,157.4c-11,1.7-20.2,9.4-23.6,19.9-3.4,10.6-.6,22.2,7.3,30l95.6,94.7-22.6,133.7c-1.8,11,2.8,22.2,11.8,28.7,9.1,6.5,21.1,7.3,31,2.1l117.8-62.8,117.8,62.9c9.9,5.2,21.9,4.5,31-2.1s13.7-17.7,11.8-28.7l-22.6-133.8,95.6-94.6c7.9-7.8,10.7-19.5,7.3-30-3.5-10.6-12.6-18.3-23.6-19.9l-131.9-19.5-59-121.5Z"/>
+  <text class="cls-2" transform="translate(8.07 570)"><tspan x="0" y="0">Star 历史</tspan></text>
+</svg>

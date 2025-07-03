@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 592.41">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-family: DengXian-Bold, DengXian;
+        font-size: 115px;
+        font-weight: 700;
+        isolation: isolate;
+        letter-spacing: .2em;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M96,0C60.7,0,32,28.7,32,64V352H96V64H480V352h64V64c0-35.3-28.7-64-64-64H96ZM224,352v32H32c-17.7,0-32,14.3-32,32s14.3,32,32,32H544c17.7,0,32-14.3,32-32s-14.3-32-32-32h-128v-32c0-17.7-14.3-32-32-32h-128c-17.7,0-32,14.3-32,32Z"/>
+  <text class="cls-2" transform="translate(93.88 565.34)"><tspan x="0" y="0">看板类</tspan></text>
+</svg>

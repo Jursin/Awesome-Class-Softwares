@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4 44.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="_分隔符" data-name="分隔符">
+    <path id="Rectangle" class="cls-1" d="M2,0h0c1.1,0,2,.9,2,2V42.5c0,1.1-.9,2-2,2h0c-1.1,0-2-.9-2-2V2C0,.9,.9,0,2,0Z"/>
+  </g>
+</svg>

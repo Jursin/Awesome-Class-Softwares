@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 444.45 576.16">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-family: DengXian-Bold, DengXian;
+        font-size: 115px;
+        font-weight: 700;
+        isolation: isolate;
+        letter-spacing: .2em;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M315.18,16.26l-42.1,42.1,113,113,42.1-42.1c21.7-21.7,21.7-56.9,0-78.6l-34.2-34.3c-21.8-21.8-57-21.8-78.8-.1h0Zm-61.7,61.7L50.88,280.66c-9,9-15.6,20.2-19.3,32.5L.88,417.66c-2.2,7.4-.2,15.3,5.2,20.7,5.4,5.4,13.3,7.4,20.6,5.3l104.5-30.8c12.3-3.6,23.5-10.3,32.5-19.3l202.7-202.6-112.9-113Z"/>
+  <text class="cls-2" transform="translate(29.54 549.09)"><tspan x="0" y="0">批注类</tspan></text>
+</svg>

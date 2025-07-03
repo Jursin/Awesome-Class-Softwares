@@ -1,7 +1,7 @@
 <div align="center">
 
 # Awesome Class Softwares
-# 适用于班级一体机的优质软件列表
+# 适用于班级一体机的优质软件合集
 [![stars](https://img.shields.io/github/stars/Jursin/Awesome-Class-Softwares?label=Stars)](https://github.com/Jursin/Awesome-Class-Softwares)
 [![forks](https://img.shields.io/github/forks/Jursin/Awesome-Class-Softwares?label=Forks)](https://github.com/Jursin/Awesome-Class-Softwares)
 [![Watchers](https://img.shields.io/github/watchers/Jursin/Awesome-Class-Softwares?style=social)](https://github.com/Jursin/Awesome-Class-Softwares/watchers)
@@ -9,11 +9,72 @@
 [![GitHub Discussions](https://img.shields.io/github/discussions/Jursin/Awesome-Class-Softwares?style=social&logo=Github&label=Discussions)](https://github.com/Jursin/Awesome-Class-Softwares/discussions)
 [![Created At](https://img.shields.io/github/created-at/Jursin/Awesome-Class-Softwares)](https://github.com/Jursin/Awesome-Class-Softwares)
 [![Github Last Commit](https://img.shields.io/github/last-commit/Jursin/Awesome-Class-Softwares?style=flat&logo=Github&label=Last%20commit)](https://github.com/Jursin/Awesome-Class-Softwares/commits/master)
+[![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Web]( https://img.shields.io/badge/%E7%BD%91%E7%AB%99-Web-8A2BE2)](https://jursin.github.io/Awesome-Class-Softwares-Web)
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FJursin%2FAwesome-Class-Softwares&label=Visitors&countColor=%23263759&style=flat)](https://visitorbadge.io/)
 [![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9CHello__Jursin-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/1575907920)
 
 [![Repobeats](https://repobeats.axiom.co/api/embed/6143732bb42daf7aa015c9f6e993d0e8fbd98913.svg "Repobeats analytics image")](https://repobeats.axiom.co/)
+
+<a href="./CONTRIBUTING.md">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/icons/code-pull-request-solid-light.svg">
+      <img alt="贡献指南" src="./images/icons/code-pull-request-solid.svg" height="52">
+    </picture>
+</a>&nbsp;
+<a href="#star-历史">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/icons/star-solid-light.svg">
+      <img alt="Star历史" src="./images/icons/star-solid.svg" height="52">
+    </picture>
+</a>&nbsp;
+<a href="#%F0%9F%94%97-友情链接">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/icons/link-solid-light.svg">
+      <img alt="友情链接" src="./images/icons/link-solid.svg" height="52">
+    </picture>
+</a>&nbsp;
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/icons/separator-light.svg">
+    <img alt="分隔符" height="52" src="./images/icons/separator.svg">
+</picture>&nbsp;
+<a href="#课表类">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/icons/calendar-days-solid-light.svg">
+      <img alt="课表类" src="./images/icons/calendar-days-solid.svg" height="52">
+    </picture>
+</a>&nbsp;
+<a href="#多功能类">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/icons/puzzle-piece-solid-light.svg">
+      <img alt="多功能类" src="./images/icons/puzzle-piece-solid.svg" height="52">
+    </picture>
+</a>&nbsp;
+<a href="#看板类">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/icons/chalkboard-solid-light.svg">
+      <img alt="看板类" src="./images/icons/chalkboard-solid.svg" height="52">
+    </picture>
+</a>&nbsp;
+<a href="#批注类">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/icons/pen-solid-light.svg">
+      <img alt="批注类" src="./images/icons/pen-solid.svg" height="52">
+    </picture>
+</a>&nbsp;
+<a href="#下载类">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/icons/download-solid-light.svg">
+      <img alt="下载类" src="./images/icons/download-solid.svg" height="52">
+    </picture>
+</a>&nbsp;
+<a href="#杂类">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/icons/cubes-solid-light.svg">
+      <img alt="杂类" src="./images/icons/cubes-solid.svg" height="52">
+    </picture>
+</a>
 
 </div>
 
@@ -23,13 +84,9 @@
 > **对于软件详细介绍与使用方法，请点击对应 Web 页面链接跳转到网站相关页面**🔗
 >
 > **本文档仅供参考，信息可能会更新不及时，请前往对应仓库查看最新动态**
->
-> **若发现任何错误/过时/遗漏信息，或希望推荐新软件，欢迎提交 [`Issues`](https://github.com/Jursin/Awesome-Class-Softwares/issues) 使我知晓或 [`Pull Requests`](https://github.com/Jursin/Awesome-Class-Softwares/pulls) 等待合并。**
 
 > [!warning]
 > **以下软件均为免费，如遇收费提示请注意甄别！**
->
-> **🚫严禁上传违法敏感内容，⚠️请在遵守中华人民共和国相关法律规定和您所在地区的地方法律法规的情况下上传合法内容**
 
 > [!tip]
 > **你知道吗？**
@@ -46,7 +103,7 @@
 
 ## 📃目录
 
-### 🗓️[课表类](#🗓️课表类)
+### 🗓️[课表类](#课表类)
 
 | 软件 | 组织/主开发者 |
 | - | - |
@@ -57,14 +114,14 @@
 | <img src="https://github.com/EnderWolf006/ElectronClassSchedule/blob/main/image%2Ficon.png?raw=true" width="20" height="20"> [ElectronClassSchedule](#electronclassschedule) | <img src="https://avatars.githubusercontent.com/u/152008081?v=4" width="20" height="20"> [`EnderWolf006`](https://github.com/EnderWolf006) |
 | <img src="https://raw.githubusercontent.com/gpuawa/iClass/refs/heads/main/src/assets/img/logo.ico" width="20" height="20"> [iClass](#iclass) | <img src="https://avatars.githubusercontent.com/u/102469419?v=4" width="20" height="20"> [`gpuawa`](https://github.com/gpuawa) |
 
-### 🧩[多功能类](#🧩多功能类)
+### 🧩[多功能类](#多功能类)
 
 | 软件 | 组织/主开发者 |
 | - | - |
 | <img src="https://github.com/Ris-Soft/Ris_ClassTool/blob/RisClassTool_Alpha/Main/logo.png?raw=true" width="20" height="20"> [Ris_ClassTool](#ris_classtool) | <img src="https://avatars.githubusercontent.com/u/179907615?s=200&v=4" width="20" height="20"> [`Ris-Soft`](https://github.com/Ris-Soft) <img src="https://avatars.githubusercontent.com/u/104706823?v=4" width="20" height="20"> [`PYLXU`](https://github.com/PYLXU) |
 | <img src="https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/blob/master/ZongziTEK_Blackboard_Sticker%2F%E9%BB%91%E6%9D%BF%E8%B4%B4.png?raw=true" width="20" height="20"> [ZongziTEK黑板贴](#zongzitek黑板贴) | <img src="https://avatars.githubusercontent.com/u/62409850?v=4" width="20" height="20"> [`STBBRD`](https://github.com/STBBRD) |
 
-### 📊[看板类](#📊看板类)
+### 📊[看板类](#看板类)
 
 | 软件 | 组织/主开发者 |
 | - | - |
@@ -73,7 +130,7 @@
 | <img src="https://github.com/EnderWolf006/HomeworkBoard/blob/main/ClientProject/public/vite.svg?raw=true" width="20" height="20"> [HomeworkBoard](#homeworkboard) | <img src="https://avatars.githubusercontent.com/u/152008081?v=4" width="20" height="20"> [`EnderWolf006`](https://github.com/EnderWolf006) |
 | <img src="https://zerocat.houlangs.com/favicon.png" width="20" height="20"> [Classworks](#classworks) | <img src="https://avatars.githubusercontent.com/u/203372263?s=200&v=4" width="20" height="20"> [`ClassworksDev`](https://github.com/ClassworksDev) <img src="https://avatars.githubusercontent.com/u/88357633?v=4" width="20" height="20"> [`SunWuyuan`](https://github.com/SunWuyuan) |
 
-### 🖍️[批注类](#🖍️批注类)
+### 🖍️[批注类](#批注类)
 
 | 软件 | 组织/主开发者 |
 | - | - |
@@ -86,14 +143,14 @@
 | <img src="./images/icons/Inkways.png" width="20" height="20"> [Inkways-Classic](#inkways-classic) | <img src="./images/icons/Inkore.png" width="20" height="20"> [`iNKORE Studios`](https://github.com/iNKORE-NET) |
 | <img src="https://raw.githubusercontent.com/lh11117/LemonxNote/main/lemonxnote.ico" width="20" height="20"> [LemonxNote](#lemonxnote) | <img src="https://avatars.githubusercontent.com/u/99455215?v=4" width="20" height="20"> [`lh11117`](https://github.com/lh11117) |
 
-### ⬇️[下载/启动器](#⬇️下载/启动器)
+### ⬇️[下载类](#下载类)
 
 | 软件 | 组织/主开发者 |
 | - | - |
 | <img src="https://github.com/SectionIstool/SectionIstool/blob/main/resources%2FSectionIstool_icon.png?raw=true" width="20" height="20"> [SectionIstool](#SectionIstool) | <img src="https://avatars.githubusercontent.com/u/183712498?s=200&v=4" width="20" height="20"> [`SectionIstool`](https://github.com/SectionIstool) <img src="https://avatars.githubusercontent.com/u/139693537?v=4" width="20" height="20"> [`lzy98276`](https://github.com/lzy98276) |
 | <img src="https://github.com/user-attachments/assets/a0d2487f-7c3c-4dce-a3f9-125658d8386f" width="20" height="20"> [SeewoHUB](#seewohub) | <img src="https://avatars.githubusercontent.com/u/121096061?v=4" width="20" height="20"> [`CNwenwen`](https://github.com/CNwenwen) |
 
-### 🎲[杂项](#🎲杂项)
+### 🎲[杂类](#杂类)
 
 | 软件 | 组织/主开发者 |
 | - | - |
@@ -101,7 +158,7 @@
 | <img src="https://raw.githubusercontent.com/LuoYunXi0407/Rand/main/Assets%2Fwpfui-icon-1024.png" width="20" height="20"> [Rand](#rand) | <img src="https://avatars.githubusercontent.com/u/201465393?v=4" width="20" height="20"> [`LuoYunXi0407`](https://github.com/LuoYunXi0407) |
 | <img src="https://raw.githubusercontent.com/SECTL/SecRandom/refs/heads/main/resources/SecRandom.png" width="20" height="20"> [SecRandom](#secrandom) | <img src="https://avatars.githubusercontent.com/u/139693537?v=4" width="20" height="20"> [`lzy98276`](https://github.com/lzy98276) |
 
-## 🗓️课表类
+## 课表类
 ### CsesWebEditor
 ![image](https://github.com/user-attachments/assets/3a6e75e9-c2c6-488b-bb8b-8a17317b61d4)
 
@@ -271,7 +328,7 @@
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/gpuawa/iClass/releases](https://github.com/gpuawa/iClass/releases) |
 | **Web 页面** | [./classschedule/iclass](https://jursin.github.io/Awesome-Class-Softwares-Web/classschedule/iclass/) |
 
-## 🧩多功能类
+## 多功能类
 
 <image src="https://github.com/Ris-Soft/Ris_ClassTool/blob/RisClassTool_Alpha/Main/logo.png?raw=true" height="64">
 
@@ -330,7 +387,7 @@
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/releases](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/releases) |
 | **Web 页面** | [./multi-function/zongzitek-blackboard-sticker](https://jursin.github.io/Awesome-Class-Softwares-Web/multi-function/zongzitek-blackboard-sticker/)
 
-## 📊看板类
+## 看板类
 
 <img src="https://avatars.githubusercontent.com/u/195304368?s=200&v=4" height="64"/>
 
@@ -464,7 +521,7 @@ forked from
 | **Web 页面** | [./dashboard/classworks](https://jursin.github.io/Awesome-Class-Softwares-Web/dashboard/classworks)
 
 
-## 🖍️批注类
+## 批注类
 
 <image src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Canvas%2FResources%2FInkCanvas.png?raw=true" height="64">
 
@@ -712,7 +769,7 @@ forked from <image src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Ca
 | **Web 页面** | [./annotation/lemonxnote](https://jursin.github.io/Awesome-Class-Softwares-Web/annotation/lemonxnote) |
 
 
-## ⬇️下载/启动器
+## 下载类
 
 <image src="https://github.com/SectionIstool/SectionIstool/blob/main/resources%2FSectionIstool_icon.png?raw=true" height="64">
 
@@ -784,7 +841,7 @@ forked from <image src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Ca
 
 <div align="center">
 
-## 🎲杂项
+## 杂类
 
 <img src="https://avatars.githubusercontent.com/u/202290706?s=200&v=4" height="64"/>
 
@@ -883,7 +940,7 @@ forked from <image src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Ca
 </table>
 <!-- readme: collaborators,contributors -end -->
 
-## Stars 历史
+## Star 历史
 
 [![Star 历史](https://starchart.cc/Jursin/Awesome-Class-Softwares.svg?variant=adaptive)](https://starchart.cc/Jursin/Awesome-Class-Softwares)
 
