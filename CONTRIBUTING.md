@@ -3,14 +3,14 @@
 感谢您考虑为 Awesome Class Softwares 文档做出贡献！您可以为本项目做出包括但不限于反馈内容过时/错误、优化排版、项目推荐等贡献。在为本文档贡献之前，请先阅读本贡献指南：
 
 ## 反馈内容时过/错误
-- 如果您在阅读本文档的过程中遇到某些项目的内容过时或出现错误，包括但不限于**项目简介中所描述的事实与内容过时或出现事实性错误、项目所指向的链接失效、项目的更新状态与归档状态过时、项目的名称或图标等发生变化**等情况，您可以提交 [`Issues`](https://github.com/Jursin/Awesome-Class-Softwares/issues) 使我知晓或 [`Pull Requests`](https://github.com/Jursin/Awesome-Class-Softwares/pulls) 等待审核后合并。**
+- 如果您在阅读本文档的过程中遇到某些项目的内容过时或出现错误，包括但不限于**项目简介中所描述的事实与内容过时或出现事实性错误、项目所指向的链接失效、项目的更新状态与归档状态过时、项目的名称或图标等发生变化**等情况，您可以提交 [`Issues`](https://github.com/Jursin/Awesome-Class-Softwares/issues) 使我知晓或 [`Pull Requests`](https://github.com/Jursin/Awesome-Class-Softwares/pulls) 等待审核后合并。
 - 如果提交 `Issues` 请确保在其中准确描述内容过时/错误的位置，并尽可能提供有关的最新数据和信息供作者更正。
 
 ## 优化排版
 - 如果您在阅读本文档的过程中发现文档的排版或格式不符合审美要求，或有其他更好的排版建议，您可以提交 [`Issues`](https://github.com/Jursin/Awesome-Class-Softwares/issues) 详细描述或 [`Pull Requests`](https://github.com/Jursin/Awesome-Class-Softwares/pulls) 等待审核后合并。
 
 ## 项目推荐
-如果您想要推荐自己或他人的项目，请按照以下要求提交 [`Issues`](https://github.com/Jursin/Awesome-Class-Softwares/issues) 简要介绍或 [`Pull Requests`](https://github.com/Jursin/Awesome-Class-Softwares/pulls) 等待审核后合并。**
+如果您想要推荐自己或他人的项目，请按照以下要求提交 [`Issues`](https://github.com/Jursin/Awesome-Class-Softwares/issues) 简要介绍或 [`Pull Requests`](https://github.com/Jursin/Awesome-Class-Softwares/pulls) 等待审核后合并。
 
 1. **项目的名称（和 Logo ）、简述**  
    项目的名称应完整且官方，尽量不要使用缩写。项目的简述应尽量精炼，用一句话交代项目的类型、用途和特点。
@@ -35,4 +35,4 @@
    如果您是项目开发者或被认可的主要维护者，希望修改或移除已经添加到本文档中的关于你们项目的内容，请提交 [`Issues`](https://github.com/Jursin/Awesome-Class-Softwares/issues) 使我知晓或 [`Pull Requests`](https://github.com/Jursin/Awesome-Class-Softwares/pulls) 等待审核后合并。**
 
 > [!tip]
-> 感谢您的贡献，我们期待您为本项目带来更多的帮助与改进！
+> 感谢您的贡献，期待您为本项目带来更多的帮助与改进！
