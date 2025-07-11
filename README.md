@@ -10,7 +10,6 @@
 [![Created At](https://img.shields.io/github/created-at/Jursin/Awesome-Class-Softwares)](https://github.com/Jursin/Awesome-Class-Softwares)
 [![Github Last Commit](https://img.shields.io/github/last-commit/Jursin/Awesome-Class-Softwares?style=flat&logo=Github&label=Last%20commit)](https://github.com/Jursin/Awesome-Class-Softwares/commits/master)
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Web]( https://img.shields.io/badge/%E7%BD%91%E7%AB%99-Web-8A2BE2)](https://jursin.github.io/Awesome-Class-Softwares-Web)
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FJursin%2FAwesome-Class-Softwares&label=Visitors&countColor=%23263759&style=flat)](https://visitorbadge.io/)
 [![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9CHello__Jursin-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/1575907920)
@@ -797,26 +796,41 @@ forked from <image src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Ca
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/Alan-CRL/Inkeys/releases](https://github.com/Alan-CRL/Inkeys/releases) |
 | **Web 页面** | [./annotation/inkeys](https://jursin.github.io/Awesome-Class-Softwares-Web/annotation/inkeys) |
 
+<details>
+<summary>
 <image src="./images/icons/Inkways.png" height="64">
 
 ### Inkways-Classic
+
+</summary>
+
 ![banner](images/banner/inkways.png)
 ![editor](images/preview/Inkways/image_inkways_10.png)
 ![board](images/preview/Inkways/image_inkways_6.png)
 ![slide assistant](images/preview/Inkways/image_inkways_7.png)
 
 ![Type](https://img.shields.io/badge/Type-Closed_Source-green)
-[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C655979143-blue?style=flat&logo=QQ)](https://qm.qq.com/q/wzFUnRBF9C)
-[![QQ频道](https://img.shields.io/badge/-QQ%E9%A2%91%E9%81%93%EF%BD%9C1nkoreStudios-blue?style=flat&logo=QQ)](https://pd.qq.com/s/g3o1pmidm)
-[![Telegram](https://img.shields.io/badge/-Telegram%EF%BD%9C@iNKORE_Studios-blue?style=flat&logo=Telegram)](https://t.me/iNKORE)
+[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C655979143-blue?style=flat&logo=QQ&logoColor=white)](https://qm.qq.com/q/wzFUnRBF9C)
+[![QQ频道](https://img.shields.io/badge/-QQ%E9%A2%91%E9%81%93%EF%BD%9C1nkoreStudios-blue?style=flat&logo=QQ&logoColor=white)](https://pd.qq.com/s/g3o1pmidm)
+[![Telegram](https://img.shields.io/badge/-Telegram%EF%BD%9C@iNKORE_Studios-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/iNKORE)
 [![Facebook](https://img.shields.io/badge/-Facebook%EF%BD%9C@iNKORE_Studios-blue?style=flat&logo=Facebook)](https://www.facebook.com/iNKORE.NET)
 [![X](https://img.shields.io/badge/-X%EF%BD%9C@iNKORE_NET-black?style=flat&logo=X)](https://x.com/iNKORE_NET)
 [![Discord](https://img.shields.io/badge/-Discord%EF%BD%9Cm6NPNVk4bs-white?style=flat&logo=Discord)](https://discord.com/invite/m6NPNVk4bs)
 
 一个现代化，简洁而强大的，拥有智能书写算法优化的书写软件｜[官方网站](https://www.inkore.net/)
 
+</div>
+
+> [!important]
+> 该软件为旧版本，已暂时下架并停止维护，**暂无发行版**。新版本正在**准备开发**中，敬请期待。
+
+<div align="center">
+
 | <img src="./images/icons/github.svg" width="16" height="16"> **GitHub 主页** | [https://github.com/Inkways](https://github.com/Inkways) |
 |:-:|:-:|
+| **Web 页面** | [./annotation/inkways-classic](https://jursin.github.io/Awesome-Class-Softwares-Web/annotation/inkways-classic) |
+
+</details>
 
 <img src="https://raw.githubusercontent.com/lh11117/LemonxNote/main/lemonxnote.ico" height="64"/>
 
