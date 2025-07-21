@@ -10,7 +10,7 @@
 [![Created At](https://img.shields.io/github/created-at/Jursin/Awesome-Class-Softwares)](https://github.com/Jursin/Awesome-Class-Softwares)
 [![Github Last Commit](https://img.shields.io/github/last-commit/Jursin/Awesome-Class-Softwares?style=flat&logo=Github&label=Last%20commit)](https://github.com/Jursin/Awesome-Class-Softwares/commits/master)
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0)
-[![Web]( https://img.shields.io/badge/%E7%BD%91%E7%AB%99-Web-8A2BE2)](https://jursin.github.io/Awesome-Class-Softwares-Web)
+[![Web](https://img.shields.io/badge/%E7%BD%91%E7%AB%99-Web-8A2BE2)](https://awesome-class-softwares.jursin.top)
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FJursin%2FAwesome-Class-Softwares&label=Visitors&countColor=%23263759&style=flat)](https://visitorbadge.io/)
 [![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9CHello__Jursin-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/1575907920)
 
