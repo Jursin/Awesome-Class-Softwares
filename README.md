@@ -310,7 +310,7 @@
 <image src="https://raw.githubusercontent.com/gpuawa/iClass/refs/heads/main/src/assets/img/logo.ico" height="64">
 
 ### iClass
-![main](images\preview\iClass\main.png)
+![main](images/preview/iClass/main.png)
 
 [![stars](https://img.shields.io/github/stars/gpuawa/iClass?label=Stars)](https://github.com/gpuawa/iClass)
 [![forks](https://img.shields.io/github/forks/gpuawa/iClass?label=Forks)](https://github.com/gpuawa/iClass)
@@ -689,7 +689,7 @@ forked from <image src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Ca
 <img src="https://raw.githubusercontent.com/BaiYang2238/Ink-Canvas-Better/refs/heads/master/Images/Ink%20Canvas%20Better.png" height="64"/>
 
 ### Ink-Canvas-Better
-![preview](images\preview\Ink-Canvas-Better\preview.png)
+![preview](images/preview/Ink-Canvas-Better/preview.png)
 
 [![stars](https://img.shields.io/github/stars/BaiYang2238/Ink-Canvas-Better?label=Stars)](https://github.com/BaiYang2238/Ink-Canvas-Better)
 [![forks](https://img.shields.io/github/forks/BaiYang2238/Ink-Canvas-Better?label=Forks)](https://github.com/BaiYang2238/Ink-Canvas-Better)
@@ -874,7 +874,7 @@ forked from <image src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Ca
 <img src="https://raw.githubusercontent.com/lh11117/LemonxNote/main/lemonxnote.ico" height="64"/>
 
 ### LemonxNote
-![preview](images\LemonxNote\黑板.png)
+![preview](images/LemonxNote/黑板.png)
 
 [![stars](https://img.shields.io/github/stars/lh11117/LemonxNote?label=Stars)](https://github.com/lh11117/LemonxNote)
 [![forks](https://img.shields.io/github/forks/lh11117/LemonxNote?label=Forks)](https://github.com/lh11117/LemonxNote)
@@ -972,8 +972,8 @@ forked from <image src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Ca
 <img src="https://avatars.githubusercontent.com/u/202290706?s=200&v=4" height="64"/>
 
 ### NamePicker
-![banner](images\preview\NamePicker\banner.png)
-![main](images\preview\NamePicker\main.png)
+![banner](images/preview/NamePicker/banner.png)
+![main](images/preview/NamePicker/main.png)
 
 [![stars](https://img.shields.io/github/stars/NamePickerOrg/NamePicker?label=Stars)](https://github.com/NamePickerOrg/NamePicker)
 [![forks](https://img.shields.io/github/forks/NamePickerOrg/NamePicker?label=Forks)](https://github.com/NamePickerOrg/NamePicker)
@@ -1020,7 +1020,7 @@ forked from <image src="https://github.com/WXRIW/Ink-Canvas/blob/master/Ink%20Ca
 <img src="https://raw.githubusercontent.com/SECTL/SecRandom/refs/heads/main/resources/SecRandom.png" height="64">
 
 ###  SecRandom
-![main](images\preview\SecRandom\welcome.png)
+![main](images/preview/SecRandom/welcome.png)
 
 [![stars](https://img.shields.io/github/stars/SECTL/SecRandom?label=Stars)](https://github.com/SECTL/SecRandom)
 [![forks](https://img.shields.io/github/forks/SECTL/SecRandom?label=Forks)](https://github.com/SECTL/SecRandom)
