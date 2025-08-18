@@ -106,7 +106,7 @@
 
 | 软件 | 组织/主开发者 |
 | - | - |
-| <img src="icons/fa/file-pen.svg" width="20" /> [CsesWebEditor](#cseswebeditor) |  <img src="https://avatars.githubusercontent.com/u/197048605?s=200&v=4" width="20" height="20"> [`SmartTeachCN`](https://github.com/SmartTeachCN) <img src="https://avatars.githubusercontent.com/u/104706823?v=4" width="20" height="20"> [`PYLXU`](https://github.com/PYLXU) |
+| <img src="icons/cses.svg" width="20" /> [CsesWebEditor](#cseswebeditor) |  <img src="https://avatars.githubusercontent.com/u/197048605?s=200&v=4" width="20" height="20"> [`SmartTeachCN`](https://github.com/SmartTeachCN) <img src="https://avatars.githubusercontent.com/u/104706823?v=4" width="20" height="20"> [`PYLXU`](https://github.com/PYLXU) |
 | <img src="icons/ClassIsland.png" width="20" height="20"> [ClassIsland](#classisland) |  <img src="https://avatars.githubusercontent.com/u/170740237?s=200&v=4" width="20" height="20"> [`ClassIsland`](https://github.com/ClassIsland) <img src="https://avatars.githubusercontent.com/u/55006226?v=4" width="20" height="20"> [`HelloWRC`](https://github.com/HelloWRC) |
 | <img src="icons/Class-Widgets.png" width="20" height="20"> [Class-Widgets](#class-widgets) | <img src="https://avatars.githubusercontent.com/u/189744676?s=200&v=4" width="20" height="20"> [`Class-Widgets`](https://github.com/Class-Widgets) <img src="https://avatars.githubusercontent.com/u/177950371?v=4" width="20" height="20"> [`RinLit-233-shiroko`](https://github.com/RinLit-233-shiroko) |
 | <img src="icons/LingYun-Class-Widgets.png" width="20" height="20"> [LingYun-Class-Widgets](#lingyun-class-widgets) | <img src="https://avatars.githubusercontent.com/u/196129825?v=4" width="20" height="20"> [`Yamikani-Flipped`](https://github.com/Yamikani-Flipped) |
@@ -164,7 +164,7 @@
 
 ## 课表类
 
-<img src="icons/fa/file-pen.svg" width="64" />
+<img src="icons/cses.svg" width="64" />
 
 ### CsesWebEditor
 ![image](images/CSES/preview.png)
