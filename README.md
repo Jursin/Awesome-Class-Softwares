@@ -1084,6 +1084,13 @@ Ink Canvas Plus (IC+) 是一款由 Clover Yan 维护、复刻自 [WXRIW/Ink Canv
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/MKStoler4096">
+                    <img src="https://avatars.githubusercontent.com/u/178344462?v=4" width="100;" alt="MKStoler4096"/>
+                    <br />
+                    <sub><b>MKStoler</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Aris-Offline">
                     <img src="https://avatars.githubusercontent.com/u/65645068?v=4" width="100;" alt="Aris-Offline"/>
                     <br />
