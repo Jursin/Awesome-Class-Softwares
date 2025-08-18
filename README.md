@@ -182,6 +182,8 @@
 
 一个基于 Web 的课程表编辑器，支持 CSES 格式的课程表创建、管理和导出｜[在线使用](https://edit.cses-org.cn/)
 
+> 因网站备案，在线服务暂时停止
+
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 仓库** |[https://github.com/SmartTeachCN/CsesWebEditor](https://github.com/SmartTeachCN/CsesWebEditor) |
 |:-:|:-:|
 | **Web 页面** | [./课表类/cses](https://nav.jursin.top/教辅软件/课表类/cses)
