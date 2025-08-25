@@ -244,7 +244,7 @@
 ![Update Status](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E6%B4%BB%E8%B7%83-blue)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/Class-Widgets/Class-Widgets)](https://github.com/Class-Widgets/Class-Widgets)
 [![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/Class-Widgets/Class-Widgets/blob/main/LICENSE)
-[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C169200380-blue?style=flat&logo=QQ)](https://qm.qq.com/q/EuDtwzURQA)
+[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C1060640788-blue?style=flat&logo=QQ)](https://qm.qq.com/q/cNhyy136iQ)
 [![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9CRinLit__233OuO-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/569522843)
 [![bilibili](https://img.shields.io/badge/-bilibili%E8%A7%86%E9%A2%91%EF%BD%9CBV1xwW9eyEGu-%23FB7299?style=flat&logo=bilibili)](https://www.bilibili.com/video/BV1xwW9eyEGu)
 
