@@ -180,9 +180,7 @@
 ![Html + CSS + JavaScript](https://img.shields.io/badge/HTML%20%2B%20CSS%20%2B%20JavaScript-E34F26?logo=html5&logoColor=white&style=flat)
 [![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/SmartTeachCN/CsesWebEditor/blob/main/LICENSE)
 
-一个基于 Web 的课程表编辑器，支持 CSES 格式的课程表创建、管理和导出｜[在线使用](https://edit.cses-org.cn/)
-
-> 因网站备案，在线服务暂时停止
+一个基于 Web 的课程表编辑器，支持 CSES 格式的课程表创建、管理和导出｜[在线使用](https://cloud.smart-teach.cn/)
 
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 仓库** |[https://github.com/SmartTeachCN/CsesWebEditor](https://github.com/SmartTeachCN/CsesWebEditor) |
 |:-:|:-:|
