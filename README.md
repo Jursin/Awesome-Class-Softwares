@@ -120,6 +120,7 @@
 | <img src="icons/Ris_ClassTool.png" width="20" height="20"> [Ris_ClassTool](#ris_classtool) | <img src="https://avatars.githubusercontent.com/u/179907615?s=200&v=4" width="20" height="20"> [`Ris-Soft`](https://github.com/Ris-Soft) <img src="https://avatars.githubusercontent.com/u/104706823?v=4" width="20" height="20"> [`PYLXU`](https://github.com/PYLXU) |
 | <img src="icons/ZongziTEK.png" width="20" height="20"> [ZongziTEK黑板贴](#zongzitek黑板贴) | <img src="https://avatars.githubusercontent.com/u/62409850?v=4" width="20" height="20"> [`STBBRD`](https://github.com/STBBRD) |
 | <img src="icons/Education-Clock.png" width="20" height="20"> [Education Clock](#education-clock) | <img src="https://avatars.githubusercontent.com/u/101696633?v=4" width="20" height="20"> [`Return-Log`](https://github.com/Return-Log) |
+| <img src="icons/VoiceHub.png" width="20" height="20"> [VoiceHub](#voicehub) | <img src="https://avatars.githubusercontent.com/u/79132480?v=4" width="20" height="20"> [`laoshuikaixue`](https://github.com/laoshuikaixue) |
 
 ### 📊[看板类](#看板类)
 
@@ -127,9 +128,11 @@
 | - | - |
 | <img src="icons/ExamAware.png" width="20" height="20"> [ExamAware](#examaware) | <img src="https://avatars.githubusercontent.com/u/195304368?s=200&v=4" width="20" height="20"> [`ExamAware`](https://github.com/ExamAware) <img src="https://avatars.githubusercontent.com/u/88492699?v=4" width="20" height="20"> [`Hello8693`](https://github.com/Hello8693) |
 | <img src="icons/Sticky-attention.png" width="20" height="20"> [Sticky-attention](#sticky-attention) | <img src="https://avatars.githubusercontent.com/u/183182916?s=200&v=4" width="20" height="20"> [`Sticky-attention`](https://github.com/Sticky-attention) <img src="https://avatars.githubusercontent.com/u/162853646?v=4" width="20" height="20"> [`jizilin6732`](https://github.com/jizilin6732) |
+| <img src="icons/flutter.png" width="20" height="20"> [finito_board](#finito_board) | <img src="https://avatars.githubusercontent.com/u/68677053?v=4" width="20" height="20"> [`Xwei1645`](https://github.com/Xwei1645) |
 | <img src="icons/vite.svg" width="20" height="20"> [HomeworkBoard](#homeworkboard) | <img src="https://avatars.githubusercontent.com/u/152008081?v=4" width="20" height="20"> [`EnderWolf006`](https://github.com/EnderWolf006) |
 | <img src="icons/Classworks.png" width="20" height="20"> [Classworks](#classworks) | <img src="https://avatars.githubusercontent.com/u/203372263?s=200&v=4" width="20" height="20"> [`ClassworksDev`](https://github.com/ClassworksDev) <img src="https://avatars.githubusercontent.com/u/88357633?v=4" width="20" height="20"> [`SunWuyuan`](https://github.com/SunWuyuan) |
 | <img src="icons/ClassBoardSharp.png" width="20" height="20"> [ClassBoardSharp](#classboardsharp) | <img src="https://avatars.githubusercontent.com/u/125652899?v=4" width="20" height="20"> [`Candlest`](https://github.com/Candlest) |
+| <img src="icons/Immersive-clock.svg" width="20" height="20"> [Immersive-clock](#immersive-clock) | <img src="https://avatars.githubusercontent.com/u/91876274?v=4" width="20" height="20"> [`QQHKX`](https://github.com/QQHKX) |
 | <img src="icons/LockTime.png" width="20" height="20"> [LockTime](#locktime) | <img src="https://avatars.githubusercontent.com/u/101956507?v=4" width="20" height="20"> [`cjhdevact`](https://github.com/cjhdevact) |
 
 ### 🖍️[批注类](#批注类)
@@ -184,7 +187,7 @@
 
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 仓库** |[https://github.com/SmartTeachCN/CsesWebEditor](https://github.com/SmartTeachCN/CsesWebEditor) |
 |:-:|:-:|
-| **Web 页面** | [./课表类/cses](https://nav.jursin.top/教辅软件/课表类/cses)
+| **Web 页面** | [./课表类/cses](https://nav.jursin.top/教辅软件/课表类/cses) |
 
 <image src="icons/ClassIsland.png" height="64">
 
@@ -221,7 +224,7 @@
 |:-:|:-:|
 | <img src="./icons/github.svg" width="16" height="16"> **`.NET 6`兼容版仓库** | [https://github.com/ClassIsland/ClassIsland-net6](https://github.com/ClassIsland/ClassIsland-net6)（可在`Windows 7`上正常运行） |
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/ClassIsland/ClassIsland/releases](https://github.com/ClassIsland/ClassIsland/releases) |
-| **Web 页面** | [./课表类/classisland/](https://nav.jursin.top/教辅软件/课表类/classisland/)
+| **Web 页面** | [./课表类/classisland/](https://nav.jursin.top/教辅软件/课表类/classisland/) |
 
 <image src="icons/Class-Widgets.png" height="64">
 
@@ -251,7 +254,7 @@
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/Class-Widgets/Class-Widgets](https://github.com/Class-Widgets/Class-Widgets) |
 |:-:|:-:|
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/Class-Widgets/Class-Widgets/releases](https://github.com/Class-Widgets/Class-Widgets/releases) |
-| **Web 页面** | [./课表类/class-widgets/](https://nav.jursin.top/教辅软件/课表类/class-widgets/)
+| **Web 页面** | [./课表类/class-widgets/](https://nav.jursin.top/教辅软件/课表类/class-widgets/) |
 
 <image src="icons/LingYun-Class-Widgets.png" height="64">
 
@@ -278,7 +281,7 @@
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/Yamikani-Flipped/LingYun-Class-Widgets](https://github.com/Yamikani-Flipped/LingYun-Class-Widgets) |
 |:-:|:-:|
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/Yamikani-Flipped/LingYun-Class-Widgets/releases](https://github.com/Yamikani-Flipped/LingYun-Class-Widgets/releases) |
-| **Web 页面** | [./课表类/lingyun-class-widgets](https://nav.jursin.top/教辅软件/课表类/lingyun-class-widgets/)
+| **Web 页面** | [./课表类/lingyun-class-widgets](https://nav.jursin.top/教辅软件/课表类/lingyun-class-widgets/) |
 
 <image src="icons/ECS.png" height="64">
 
@@ -395,7 +398,7 @@
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker) |
 |:-:|:-:|
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/releases](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/releases) |
-| **Web 页面** | [./多功能类/zongzitek-blackboard-sticker](https://nav.jursin.top/教辅软件/多功能类/zongzitek-blackboard-sticker/)
+| **Web 页面** | [./多功能类/zongzitek-blackboard-sticker](https://nav.jursin.top/教辅软件/多功能类/zongzitek-blackboard-sticker/) |
 
 <image src="icons/Education-Clock.png" height="64">
 
@@ -418,7 +421,23 @@
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/Return-Log/Education-Clock](https://github.com/Return-Log/Education-Clock) |
 |:-:|:-:|
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/Return-Log/Education-Clock/releases](https://github.com/Return-Log/Education-Clock/releases) |
-| **Web 页面** | [./多功能类/education-clock](https://nav.jursin.top/教辅软件/多功能类/education-clock)
+| **Web 页面** | [./多功能类/education-clock](https://nav.jursin.top/教辅软件/多功能类/education-clock) |
+
+<image src="icons/VoiceHub.png" height="64">
+
+### VoiceHub
+![1](images/VoiceHub/1.png)
+
+[![Downloads](https://img.shields.io/github/downloads/laoshuikaixue/VoiceHub/total?style=social&label=Downloads&logo=github)](https://github.com/laoshuikaixue/VoiceHub/releases/latest)
+[![Release](https://img.shields.io/github/v/release/laoshuikaixue/VoiceHub?style=flat&color=%233fb950&label=正式版)](https://github.com/laoshuikaixue/VoiceHub/releases/latest)
+[![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9C老水观察-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/516771561)
+
+这是一个使用Nuxt 3全栈框架开发的现代化校园广播站点歌管理系统。系统提供完整的点歌、投票、排期管理、通知推送、数据分析、权限控制和数据库管理功能，支持多角色权限管理和灵活的系统配置。
+
+| <img src="./icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/laoshuikaixue/VoiceHub](https://github.com/laoshuikaixue/VoiceHub) |
+|:-:|:-:|
+| <img src="./icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/laoshuikaixue/VoiceHub/releases](https://github.com/laoshuikaixue/VoiceHub/releases) |
+| **Web 页面** | [./多功能类/VoiceHub](https://nav.jursin.top/教辅软件/多功能类/VoiceHub) |
 
 ## 看板类
 
@@ -450,7 +469,7 @@
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/ExamAware/ExamShowboard-Legacy](https://github.com/ExamAware/ExamShowboard-Legacy) |
 |:-:|:-:|
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/ExamAware/ExamShowboard-Legacy/releases](https://github.com/ExamAware/ExamShowboard-Legacy/releases) |
-| **Web 页面** | [./看板类/examaware/exam-showboard](https://nav.jursin.top/教辅软件/看板类/examaware/exam-showboard)
+| **Web 页面** | [./看板类/examaware/exam-showboard](https://nav.jursin.top/教辅软件/看板类/examaware/exam-showboard) |
 
 <img src="icons/ExamSchedule.png" width="64" />
 
@@ -472,7 +491,7 @@
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/ExamAware/ExamSchedule](https://github.com/ExamAware/ExamSchedule) |
 |:-:|:-:|
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/ExamAware/ExamSchedule/releases](https://github.com/ExamAware/ExamSchedule/releases) |
-| **Web 页面** | [./看板类/examaware/examschedule](https://nav.jursin.top/教辅软件/看板类/examaware/examschedule)
+| **Web 页面** | [./看板类/examaware/examschedule](https://nav.jursin.top/教辅软件/看板类/examaware/examschedule) |
 
 <image src="icons/Sticky-attention.png" height="64">
 
@@ -502,7 +521,22 @@
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/Sticky-attention/Sticky-attention](https://github.com/Sticky-attention/Sticky-attention) |
 |:-:|:-:|
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/Sticky-attention/Sticky-attention/releases](https://github.com/Sticky-attention/Sticky-attention/releases) |
-| **Web 页面** | [./看板类/sticky-attention](https://nav.jursin.top/教辅软件/看板类/sticky-attention)
+| **Web 页面** | [./看板类/sticky-attention](https://nav.jursin.top/教辅软件/看板类/sticky-attention) |
+
+<image src="icons/finito_board.png" height="64">
+
+### finito_board
+![screenshot](images/finito_board/1.png)
+
+[![Downloads](https://img.shields.io/github/downloads/Xwei1645/finito_board/total?style=social&label=Downloads&logo=github)](https://github.com/Xwei1645/finito_board/releases/latest)
+[![Release](https://img.shields.io/github/v/release/Xwei1645/finito_board?style=flat&color=%233fb950&label=正式版)](https://github.com/Xwei1645/finito_board/releases/latest)
+
+🎯 一个 Previous Gen 的教室大屏作业看板
+
+| <img src="./icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/Xwei1645/finito_board](https://github.com/Xwei1645/finito_board) |
+|:-:|:-:|
+| <img src="./icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/Xwei1645/finito_board/releases](https://github.com/Xwei1645/finito_board/releases) |
+| **Web 页面** | [./看板类/finito_board](https://nav.jursin.top/教辅软件/看板类/finito_board) |
 
 <image src="icons/vite.svg" height="64">
 
@@ -528,7 +562,7 @@
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/EnderWolf006/HomeworkBoard](https://github.com/EnderWolf006/HomeworkBoard) |
 |:-:|:-:|
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/EnderWolf006/HomeworkBoard/releases](https://github.com/EnderWolf006/HomeworkBoard/releases) |
-| **Web 页面** | [./看板类/homeworkboard](https://nav.jursin.top/教辅软件/看板类/homeworkboard)
+| **Web 页面** | [./看板类/homeworkboard](https://nav.jursin.top/教辅软件/看板类/homeworkboard) |
 
 <image src="icons/Classworks.png" height="64">
 
@@ -551,7 +585,7 @@
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/ClassworksDev/Classworks](https://github.com/ClassworksDev/Classworks) |
 |:-:|:-:|
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/ClassworksDev/Classworks/releases](https://github.com/ClassworksDev/Classworks/releases) |
-| **Web 页面** | [./看板类/classworks](https://nav.jursin.top/教辅软件/看板类/classworks)
+| **Web 页面** | [./看板类/classworks](https://nav.jursin.top/教辅软件/看板类/classworks) |
 
 <image src="icons/ClassBoardSharp.png" height="64">
 
@@ -574,7 +608,24 @@
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/Candlest/ClassBoardSharp](https://github.com/Candlest/ClassBoardSharp) |
 |:-:|:-:|
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/Candlest/ClassBoardSharp/releases](https://github.com/Candlest/ClassBoardSharp/releases) |
-| **Web 页面** | [./多功能类/classboardsharp](https://nav.jursin.top/教辅软件/多功能类/classboardsharp)
+| **Web 页面** | [./多功能类/classboardsharp](https://nav.jursin.top/教辅软件/多功能类/classboardsharp) |
+
+<image src="icons/Immersive-clock.svg" height="64">
+
+### Immersive-clock
+![preview](images/Immersive-clock/1.jpg)
+
+[![Downloads](https://img.shields.io/github/downloads/QQHKX/Immersive-clock/total?style=social&label=Downloads&logo=github)](https://github.com/QQHKX/Immersive-clock/releases/latest)
+[![Release](https://img.shields.io/github/v/release/QQHKX/Immersive-clock?style=flat&color=%233fb950&label=正式版)](https://github.com/QQHKX/Immersive-clock/releases/latest)
+
+沉浸式时钟（Immersive Clock） 是一款基于 React + TypeScript + Vite 构建的轻量化桌面 / 网页时钟应用。
+
+—— 让时间管理更优雅，让学习更专注
+
+| <img src="./icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/QQHKX/Immersive-clock](https://github.com/QQHKX/Immersive-clock) |
+|:-:|:-:|
+| <img src="./icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/QQHKX/Immersive-clock/releases](https://github.com/QQHKX/Immersive-clock/releases) |
+| **Web 页面** | [./多功能类/Immersive-clock](https://nav.jursin.top/教辅软件/多功能类/Immersive-clock) |
 
 <image src="icons/LockTime.png" height="64">
 
@@ -596,7 +647,7 @@
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/cjhdevact/LockTime](https://github.com/cjhdevact/LockTime) |
 |:-:|:-:|
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/cjhdevact/LockTime/releases](https://github.com/cjhdevact/LockTime/releases) |
-| **Web 页面** | [./看板类/locktime](https://nav.jursin.top/教辅软件/看板类/locktime)
+| **Web 页面** | [./看板类/locktime](https://nav.jursin.top/教辅软件/看板类/locktime) |
 
 ## 批注类
 
@@ -631,7 +682,7 @@ Ink Canvas 画板是一款轻量级画板软件，基于WPF/C#，其针对希沃
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/WXRIW/Ink-Canvas](https://github.com/WXRIW/Ink-Canvas) |
 |:-:|:-:|
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/WXRIW/Ink-Canvas/releases](https://github.com/WXRIW/Ink-Canvas/releases) |
-| **Web 页面** | [./批注类/ink-canvas](https://nav.jursin.top/教辅软件/批注类/ink-canvas)
+| **Web 页面** | [./批注类/ink-canvas](https://nav.jursin.top/教辅软件/批注类/ink-canvas) |
 
 
 <image src="icons/Ink-Canvas-Plus.png" height="64">
@@ -661,7 +712,7 @@ Ink Canvas Plus (IC+) 是一款由 Clover Yan 维护、复刻自 [WXRIW/Ink Canv
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/clover-yan/Ink-Canvas-Plus](https://github.com/clover-yan/Ink-Canvas-Plus) |
 |:-:|:-:|
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/clover-yan/Ink-Canvas-Plus/releases](https://github.com/clover-yan/Ink-Canvas-Plus/releases) |
-| **Web 页面** | [./批注类/ink-canvas-plus](https://nav.jursin.top/教辅软件/批注类/ink-canvas-plus)
+| **Web 页面** | [./批注类/ink-canvas-plus](https://nav.jursin.top/教辅软件/批注类/ink-canvas-plus) |
 
 <image src="icons/Ink-Canvas-Artistry.png" height="64">
 
@@ -690,7 +741,7 @@ Ink Canvas Plus (IC+) 是一款由 Clover Yan 维护、复刻自 [WXRIW/Ink Canv
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/ChangSakura/Ink-Canvas](https://github.com/ChangSakura/Ink-Canvas) |
 |:-:|:-:|
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/ChangSakura/Ink-Canvas/releases](https://github.com/ChangSakura/Ink-Canvas/releases) |
-| **Web 页面** | [./批注类/ink-canvas-artistry](https://nav.jursin.top/教辅软件/批注类/ink-canvas-artistry)
+| **Web 页面** | [./批注类/ink-canvas-artistry](https://nav.jursin.top/教辅软件/批注类/ink-canvas-artistry) |
 
 <img src="icons/Ink-Canvas-Better.png" height="64"/>
 
@@ -812,7 +863,7 @@ Ink Canvas Plus (IC+) 是一款由 Clover Yan 维护、复刻自 [WXRIW/Ink Canv
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/SketchNow/SketchNow.WPF](https://github.com/SketchNow/SketchNow.WPF) |
 |:-:|:-:|
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/SketchNow/SketchNow.WPF/releases](https://github.com/SketchNow/SketchNow.WPF/releases) |
-| **Web 页面** | [./批注类/sketchnow](https://nav.jursin.top/教辅软件/批注类/sketchnow)
+| **Web 页面** | [./批注类/sketchnow](https://nav.jursin.top/教辅软件/批注类/sketchnow) |
 
 <image src="icons/Inkeys.png" height="64">
 
@@ -932,7 +983,7 @@ Ink Canvas Plus (IC+) 是一款由 Clover Yan 维护、复刻自 [WXRIW/Ink Canv
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/SectionIstool/SectionIstool](https://github.com/SectionIstool/SectionIstool) |
 |:-:|:-:|
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/SectionIstool/SectionIstool/releases](https://github.com/SectionIstool/SectionIstool/releases) |
-| **Web 页面** | [./下载类/sectionistoo](https://nav.jursin.top/教辅软件/下载类/sectionistool)
+| **Web 页面** | [./下载类/sectionistoo](https://nav.jursin.top/教辅软件/下载类/sectionistool) |
 
 </div>
 
@@ -963,10 +1014,10 @@ Ink Canvas Plus (IC+) 是一款由 Clover Yan 维护、复刻自 [WXRIW/Ink Canv
 
 一款方便、快捷下载适合班级一体机使用的各类软件的下载器
 
- | <img src="./icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/CNwenwen/SeewoHUB](https://github.com/CNwenwen/SeewoHUB) |
- |:-:|:-:|
- | <img src="./icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/CNwenwen/SeewoHUB/releases](https://github.com/CNwenwen/SeewoHUB/releases) |
- | **Web 页面** | [./下载类/seewohub](https://nav.jursin.top/教辅软件/下载类/seewohub)
+| <img src="./icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/CNwenwen/SeewoHUB](https://github.com/CNwenwen/SeewoHUB) |
+|:-:|:-:|
+| <img src="./icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/CNwenwen/SeewoHUB/releases](https://github.com/CNwenwen/SeewoHUB/releases) |
+| **Web 页面** | [./下载类/seewohub](https://nav.jursin.top/教辅软件/下载类/seewohub) |
 
 </div>
 
@@ -1000,7 +1051,7 @@ Ink Canvas Plus (IC+) 是一款由 Clover Yan 维护、复刻自 [WXRIW/Ink Canv
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 仓库** | [https://github.com/NamePickerOrg/NamePicker](https://github.com/NamePickerOrg/NamePicker) |
 |:-:|:-:|
 | <img src="./icons/github.svg" width="16" height="16"> **GitHub 发行版** | [https://github.com/NamePickerOrg/NamePicker/releases](https://github.com/NamePickerOrg/NamePicker/releases) |
-| **Web 页面** | [./随机抽选/namepicker](https://nav.jursin.top/教辅软件/随机抽选/namepicker)
+| **Web 页面** | [./随机抽选/namepicker](https://nav.jursin.top/教辅软件/随机抽选/namepicker) |
 
 <img src="icons/Rand.png" height="64">
 
