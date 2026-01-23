@@ -2,7 +2,7 @@
     <img src="icons/ACS.svg" alt="ACS" style="width: 25%; height: auto;"><br/>
     <h1>Awesome-Class-Softwares</h1>
     <h1>适用于班级一体机的优质软件合集🌟</h1>
-    <img src="https://img.shields.io/github/last-commit/Jursin/Awesome-Class-Softwares" alt="Created At">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://gh-api.jursin.top/api/github/repos/Jursin/Awesome-Class-Softwares/last_commit?date=long&time=short&query=formatted&label=last%20commit" alt="Last Commit">
     <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FJursin%2FAwesome-Class-Softwares&label=Visitors&countColor=%23263759&style=flat" alt="Visitors">
     <img src="https://img.shields.io/uptimerobot/status/m802088791-df20f3601757a562e09dd96e?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJkaXNwbGF5OiBibG9jazsiIHZpZXdCb3g9IjAgMCAxMjk2IDEyOTYiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+PHBhdGggdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwwKSIgZmlsbD0icmdiKDM5LDEyMiw3NSkiIGQ9Ik0gNjMwLjQyMSAxNi40NjIgQyA5ODAuNzI2IDUuNTA2MjMgMTI3My42MSAyODAuNTQ4IDEyODQuNjcgNjMwLjg0OSBDIDEyOTUuNzMgOTgxLjE1IDEwMjAuNzcgMTI3NC4xMiA2NzAuNDczIDEyODUuMjggQyAzMjAuMDMxIDEyOTYuNDQgMjYuOTE3OCAxMDIxLjM1IDE1Ljg1NTYgNjcwLjkgQyA0Ljc5MzUyIDMyMC40NTUgMjc5Ljk3MyAyNy40MjIzIDYzMC40MjEgMTYuNDYyIHoiLz48cGF0aCB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDApIiBmaWxsPSJyZ2IoNTcsMjE3LDExMykiIGQ9Ik0gNjI1LjI3OSAyMTguMzkyIEMgODYzLjk5NSAyMDQuMzI5IDEwNjguOTMgMzg2LjQwMyAxMDgzLjA4IDYyNS4xMTUgQyAxMDk3LjIyIDg2My44MjcgOTE1LjIxNSAxMDY4LjgzIDY3Ni41MDggMTA4My4wNSBDIDQzNy42ODcgMTA5Ny4yOCAyMzIuNTY4IDkxNS4xNzEgMjE4LjQxOCA2NzYuMzQ1IEMgMjA0LjI2OCA0MzcuNTE5IDM4Ni40NDggMjMyLjQ2MSA2MjUuMjc5IDIxOC4zOTIgeiIvPjwvc3ZnPg==" alt="web status">
 </div>
@@ -93,12 +93,14 @@
     ![](images/Kazuha-preview.png)
   - [lh11117/LemonxNote](https://github.com/lh11117/LemonxNote) ![Star Badge](https://img.shields.io/github/stars/lh11117/LemonxNote.svg?style=flat&label=Stars&logo=github) ![](https://img.shields.io/badge/%E5%B7%B2%E5%81%9C%E6%9B%B4-grey)
     ![](images/LemonxNote-preview.png)
+  - [wwiinnddyy/LanStartWrite](https://github.com/wwiinnddyy/LanStartWrite) ![Star Badge](https://img.shields.io/github/stars/wwiinnddyy/LanStartWrite.svg?style=flat&label=Stars&logo=github) ![](https://img.shields.io/badge/%E6%97%A9%E6%9C%9F%E5%BC%80%E5%8F%91%E4%B8%AD-grey)
+    ![](images/LanStartWrite-preview.png)
 
-- 下载类
-  - [SECTL/SectionIstool](https://github.com/SECTL/SectionIstool) ![Star Badge](https://img.shields.io/github/stars/SECTL/SectionIstool.svg?style=flat&label=Stars&logo=github) ![](https://img.shields.io/badge/%E9%95%BF%E6%9C%9F%E6%9C%AA%E6%9B%B4%E6%96%B0-grey)
-    ![](images/SectionIstool-preview.png)
-  - [CNwenwen/SeewoHUB](https://github.com/CNwenwen/SeewoHUB) ![Star Badge](https://img.shields.io/github/stars/CNwenwen/SeewoHUB.svg?style=flat&label=Stars&logo=github) ![](https://img.shields.io/badge/%E9%95%BF%E6%9C%9F%E6%9C%AA%E6%9B%B4%E6%96%B0-grey)
-    ![](images/SeewoHUB-preview.png)
+- 辅助类
+  - [PANDAJSR/sidebar-for-class](https://github.com/PANDAJSR/sidebar-for-class) ![Star Badge](https://img.shields.io/github/stars/PANDAJSR/sidebar-for-class.svg?style=flat&label=Stars&logo=github) ![](https://img.shields.io/badge/%E5%BC%80%E5%8F%91%E4%B8%AD-grey)
+    ![](images/sidebar-for-class-preview.png)
+  - [jiugulixiaoniu/ClassScreenLock](https://github.com/jiugulixiaoniu/ClassScreenLock) ![Star Badge](https://img.shields.io/github/stars/jiugulixiaoniu/ClassScreenLock.svg?style=flat&label=Stars&logo=github)
+    ![](images/ClassScreenLock-preview.png)
 
 - 抽选类
   - [SECTL/SecRandom](https://github.com/SECTL/SecRandom) ![Star Badge](https://img.shields.io/github/stars/SECTL/SecRandom.svg?style=flat&label=Stars&logo=github) ![](https://img.shields.io/badge/%E6%8E%A8%E8%8D%90-red)
