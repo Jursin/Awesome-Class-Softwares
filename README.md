@@ -45,10 +45,10 @@
     ![](images/Ris_ClassTool-preview.png)
   - [OrbiBoard/OrbiBoard](https://github.com/OrbiBoard/OrbiBoard) ![Star Badge](https://img.shields.io/github/stars/OrbiBoard/OrbiBoard.svg?style=flat&label=Stars&logo=github)
     ![](images/OrbiBoard-preview.png)
-  - [Return-Log/Education-Clock](https://github.com/Return-Log/Education-Clock) ![Star Badge](https://img.shields.io/github/stars/Return-Log/Education-Clock.svg?style=flat&label=Stars&logo=github)
-    ![](https://camo.githubusercontent.com/88c4f8a20cf246abe369cd780b99ed4f1d9690dd8ae4a4f34fd29cffe0a4fd6f/68747470733a2f2f73322e6c6f6c692e6e65742f323032342f31322f30382f4b38446564723678706b53767950612e706e67)
   - [laoshuikaixue/VoiceHub](https://github.com/laoshuikaixue/VoiceHub) ![Star Badge](https://img.shields.io/github/stars/laoshuikaixue/VoiceHub.svg?style=flat&label=Stars&logo=github)
     ![](images/VoiceHub-preview.png)
+  - [PANDAJSR/sidebar-for-class](https://github.com/PANDAJSR/sidebar-for-class) ![Star Badge](https://img.shields.io/github/stars/PANDAJSR/sidebar-for-class.svg?style=flat&label=Stars&logo=github) ![](https://img.shields.io/badge/%E5%BC%80%E5%8F%91%E4%B8%AD-grey)
+    ![](images/sidebar-for-class-preview.png)
 
 - 看板类
   - [ExamAware/ExamAware2](https://github.com/ExamAware/ExamAware2) ![Star Badge](https://img.shields.io/github/stars/ExamAware/ExamAware2.svg?style=flat&label=Stars&logo=github) ![](https://img.shields.io/badge/%E6%8E%A8%E8%8D%90-red)
@@ -67,6 +67,8 @@
     ![](https://github.com/EnderWolf006/HomeworkBoard/raw/main/ReadMeImages/img.png)
   - [QQHKX/Immersive-clock](https://github.com/QQHKX/Immersive-clock) ![Star Badge](https://img.shields.io/github/stars/QQHKX/Immersive-clock.svg?style=flat&label=Stars&logo=github)
     ![](https://github.com/QQHKX/Immersive-clock/raw/main/docs/demo/%E6%A8%A1%E5%BC%8F%E9%80%89%E6%8B%A9.jpeg)
+  - [Return-Log/Education-Clock](https://github.com/Return-Log/Education-Clock) ![Star Badge](https://img.shields.io/github/stars/Return-Log/Education-Clock.svg?style=flat&label=Stars&logo=github)
+    ![](https://camo.githubusercontent.com/88c4f8a20cf246abe369cd780b99ed4f1d9690dd8ae4a4f34fd29cffe0a4fd6f/68747470733a2f2f73322e6c6f6c692e6e65742f323032342f31322f30382f4b38446564723678706b53767950612e706e67)
   - [Candlest/ClassBoard](https://github.com/Candlest/ClassBoard) ![Star Badge](https://img.shields.io/github/stars/Candlest/ClassBoard.svg?style=flat&label=Stars&logo=github)
     ![](https://github.com/Candlest/ClassBoard/raw/main/README/theme_breeze.png)
   - [cjhdevact/LockTime](https://github.com/cjhdevact/LockTime) ![Star Badge](https://img.shields.io/github/stars/cjhdevact/LockTime.svg?style=flat&label=Stars&logo=github)
@@ -97,10 +99,20 @@
     ![](images/LanStartWrite-preview.png)
 
 - 辅助类
-  - [PANDAJSR/sidebar-for-class](https://github.com/PANDAJSR/sidebar-for-class) ![Star Badge](https://img.shields.io/github/stars/PANDAJSR/sidebar-for-class.svg?style=flat&label=Stars&logo=github) ![](https://img.shields.io/badge/%E5%BC%80%E5%8F%91%E4%B8%AD-grey)
-    ![](images/sidebar-for-class-preview.png)
+  - [HugoAura/Seewo-HugoAura](https://github.com/HugoAura/Seewo-HugoAura) ![Star Badge](https://img.shields.io/github/stars/HugoAura/Seewo-HugoAura.svg?style=flat&label=Stars&logo=github)
+    ![](images/HugoAura-preview.png)
+  - [SRInternet-Studio/Seewo-Custom_Start](https://github.com/SRInternet-Studio/Seewo-Custom_Start) ![Star Badge](https://img.shields.io/github/stars/SRInternet-Studio/Seewo-Custom_Start.svg?style=flat&label=Stars&logo=github)
+    ![](images/Seewo-Custom_Start-preview.png)
+  - [SRInternet-Studio/Class_Hot_Search](https://github.com/SRInternet-Studio/Class_Hot_Search) ![Star Badge](https://img.shields.io/github/stars/SRInternet-Studio/Class_Hot_Search.svg?style=flat&label=Stars&logo=github)
+    ![](images/Class_Hot_Search-preview.jpg)
+  - [hxabcd/EasiAuto](https://github.com/hxabcd/EasiAuto) ![Star Badge](https://img.shields.io/github/stars/hxabcd/EasiAuto.svg?style=flat&label=Stars&logo=github)
+    ![](images/EasiAuto-preview.png)
+  - [owerPoint-Touch-Assist](https://github.com/RinLit-233-shiroko/PowerPoint-Touch-Assist) ![Star Badge](https://img.shields.io/github/stars/owerPoint-Touch-Assist.svg?style=flat&label=Stars&logo=github)
+    ![](images/PowerPoint-Touch-Assist-preview.png)
   - [jiugulixiaoniu/ClassScreenLock](https://github.com/jiugulixiaoniu/ClassScreenLock) ![Star Badge](https://img.shields.io/github/stars/jiugulixiaoniu/ClassScreenLock.svg?style=flat&label=Stars&logo=github)
     ![](images/ClassScreenLock-preview.png)
+  - [SECTL/SecScore](https://github.com/SECTL/SecScore) ![Star Badge](https://img.shields.io/github/stars/SECTL/SecScore.svg?style=flat&label=Stars&logo=github)
+    ![](images/SecScore-preview.png)
 
 - 抽选类
   - [SECTL/SecRandom](https://github.com/SECTL/SecRandom) ![Star Badge](https://img.shields.io/github/stars/SECTL/SecRandom.svg?style=flat&label=Stars&logo=github) ![](https://img.shields.io/badge/%E6%8E%A8%E8%8D%90-red)
