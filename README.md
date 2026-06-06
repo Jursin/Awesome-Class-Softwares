@@ -4,11 +4,10 @@
     <h1>适用于班级一体机的优质软件合集🌟</h1>
     <img src="https://img.shields.io/badge/dynamic/json?url=https://gh-api.jursin.top/api/github/repos/Jursin/Awesome-Class-Softwares/last_commit?date=long&time=short&query=formatted&label=last%20commit" alt="Last Commit">
     <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FJursin%2FAwesome-Class-Softwares&label=Visitors&countColor=%23263759&style=flat" alt="Visitors">
-    <img src="https://img.shields.io/uptimerobot/status/m802088791-df20f3601757a562e09dd96e?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJkaXNwbGF5OiBibG9jazsiIHZpZXdCb3g9IjAgMCAxMjk2IDEyOTYiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+PHBhdGggdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwwKSIgZmlsbD0icmdiKDM5LDEyMiw3NSkiIGQ9Ik0gNjMwLjQyMSAxNi40NjIgQyA5ODAuNzI2IDUuNTA2MjMgMTI3My42MSAyODAuNTQ4IDEyODQuNjcgNjMwLjg0OSBDIDEyOTUuNzMgOTgxLjE1IDEwMjAuNzcgMTI3NC4xMiA2NzAuNDczIDEyODUuMjggQyAzMjAuMDMxIDEyOTYuNDQgMjYuOTE3OCAxMDIxLjM1IDE1Ljg1NTYgNjcwLjkgQyA0Ljc5MzUyIDMyMC40NTUgMjc5Ljk3MyAyNy40MjIzIDYzMC40MjEgMTYuNDYyIHoiLz48cGF0aCB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDApIiBmaWxsPSJyZ2IoNTcsMjE3LDExMykiIGQ9Ik0gNjI1LjI3OSAyMTguMzkyIEMgODYzLjk5NSAyMDQuMzI5IDEwNjguOTMgMzg2LjQwMyAxMDgzLjA4IDYyNS4xMTUgQyAxMDk3LjIyIDg2My44MjcgOTE1LjIxNSAxMDY4LjgzIDY3Ni41MDggMTA4My4wNSBDIDQzNy42ODcgMTA5Ny4yOCAyMzIuNTY4IDkxNS4xNzEgMjE4LjQxOCA2NzYuMzQ1IEMgMjA0LjI2OCA0MzcuNTE5IDM4Ni40NDggMjMyLjQ2MSA2MjUuMjc5IDIxOC4zOTIgeiIvPjwvc3ZnPg==" alt="web status">
 </div>
 
 > [!important]
-> 建议访问本项目[网页版本🌐](https://acs.jursin.top/)，展示有软件截图、功能简述、相关链接等
+> 因缺乏动力且需要更专注于大学生活，**Awesome-Class-Softwares** 基本停更，网页版也会下线并重定向到博客页面。不过同类项目 [Awesome Iwb](https://github.com/awesome-iwb/awesome-iwb) 收集得更全，且[网页版](https://aiwb.smart-teach.cn/)已上线，你仍可以通过该项目了解更多软件。
 
 > [!note]
 > **本 Awesome 列表旨在推荐以下优质软件，对于详细介绍，请前往对应仓库**
